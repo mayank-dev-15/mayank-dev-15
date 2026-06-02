@@ -6,6 +6,11 @@
 
 ---
 
+### 🏆 Achievements:
+- **[HackTheBox Academy - Introduction to Cyber Security](https://academy.hackthebox.com/achievement/2651421/15)** ✅ Completed
+
+---
+
 ### Currently Learning:
 - Advanced Python Development 🐍
 - Git & Version Control 🔧
@@ -15,7 +20,19 @@
 - Google Summer of Code 2027 (GSoC) 🚀
 - Master **100+ Programming Languages & Technologies**
 
-**Fun Fact:** I love analyzing databases, finding vulnerabilities , and being better than anyone of my age, doing anything that is not possible for anyone my age, and building security tools that make the internet safer 🔍
+**Fun Fact:** I love analyzing databases, finding vulnerabilities, and being better than anyone of my age, doing anything that is not possible for anyone my age, and building security tools that make the internet safer 🔍
+
+---
+
+### 🛠️ Open Source Contributions:
+
+| # | Project | Stars | Contribution |
+|---|---------|-------|-------------|
+| 1 | rucio/rucio | 299⭐ | Security: httplonly/secure auth cookie flags |
+| 2 | r12habh/ActionScope | - | Tests: script injection coverage |
+| 3 | mesonbuild/meson | 6.5K⭐ | DevTools: sizeof ValueError graceful error handling |
+| 4 | ManimCommunity/manim | 38.8K⭐ | MathViz: GenericGraph tuple key support |
+| 5 | biopython/biopython | 5K⭐ | Bioinformatics: PDBList obsolete file handling for multi-format |
 
 ---
 
