@@ -66,15 +66,61 @@
 
 </div>
 
-### 📊 GitHub Stats
+### 📊 Live Metrics & Insights
 
 <div>
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank-dev-15&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mayank-dev-15&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=8B949E&dates=8B949E)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-dev-15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10)
+[![Contribution Graph](https://img.shields.io/badge/Total_Contributions-77+-6C63FF?style=for-the-badge)](https://github.com/mayank-dev-15)
+[![Commits](https://img.shields.io/badge/Commits-28+-22C55E?style=for-the-badge)](https://github.com/mayank-dev-15)
+[![PRs Merged](https://img.shields.io/badge/PRs_Merged-7-3B82F6?style=for-the-badge)](https://github.com/mayank-dev-15)
+[![Repos Created](https://img.shields.io/badge/Repos_Created-34-A855F7?style=for-the-badge)](https://github.com/mayank-dev-15)
+[![Stars Earned](https://img.shields.io/badge/Stars_Earned-14+-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mayank-dev-15)
+[![Followers](https://img.shields.io/badge/Followers-2-F97316?style=for-the-badge)](https://github.com/mayank-dev-15?tab=followers)
+
+</div>
+
+### 🌍 Impact at a Glance
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<b>🔒 Security Tools</b><br/>
+4 Projects Built<br/>
+<small>CVE · IDS · Scanner · Logs</small>
+</td>
+<td align="center">
+<b>🎨 Visualizations</b><br/>
+10 JS Projects<br/>
+<small>Zero Dependencies</small>
+</td>
+<td align="center">
+<b>🌍 OSS Impact</b><br/>
+5 PRs Merged<br/>
+<small>5 Major Projects</small>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>🐧 Linux Systems</b><br/>
+Multiple Built<br/>
+<small>From Scratch</small>
+</td>
+<td align="center">
+<b>💻 Languages</b><br/>
+30+ Mastered<br/>
+<small>& Counting</small>
+</td>
+<td align="center">
+<b>🎯 Goal</b><br/>
+GSoC 2027<br/>
+<small>Locked In</small>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -141,11 +187,26 @@
 
 </div>
 
-### 🏆 GitHub Trophies
+### 🎯 Trophy Wall
 
-<div>
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mayank-dev-15&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+```text
+🏆 DEVELOPER TROPHY CASE 🏆
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 🥇 Security Toolmaker     — 4 security tools built from scratch
+ 🥇 Visualization Master   — 10 zero-dependency JS projects
+ 🥇 Open Source Contributor — 5 PRs merged into major projects
+ 🥇 Linux Architect        — Multiple OS built from scratch
+ 🥇 Polyglot Developer     — 30+ languages mastered
+ 🥇 Bug Hunter             — Security research & vuln discovery
+ 🥇 Kernel Explorer        — Deep OS-level programming
+ 🥇 Full-Stack Builder     — End-to-end SaaS platform
+ 🥇 CLI Craftsman          — Professional templates in Go & Python
+ 🥇 GSoC Aspirant          — 2027 goal locked in
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ⭐ Total Trophies: 10/10  ⭐
+```
 
 </div>
 
@@ -259,7 +320,7 @@ I've **developed multiple closed-source Linux systems from scratch** — giving 
 
 **🐧 Linux Enthusiast** | **🔒 Building in Public** | **🎓 Future GSoC'er** | **🚀 Always Learning, Always Shipping**
 
-![Snake animation](https://raw.githubusercontent.com/mayank-dev-15/mayank-dev-15/output/github-contribution-grid-snake.svg)
+![Snake animation](https://c2-tlhah.github.io/c2-tlhah/)
 
 </div>
 
