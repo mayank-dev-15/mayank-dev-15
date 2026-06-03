@@ -2,7 +2,7 @@
 
 ### Hi, I'm Mayank Basena 👋
 
-**15-year-old Security Researcher & AI Generalist** from Nagpur, India 🇮🇳
+**15-year-old Security Researcher, Linux Enthusiast & AI Generalist** from Nagpur, India 🇮🇳
 
 **Class 10th Student** | Born: 16 December 2011
 
@@ -14,11 +14,27 @@
 
 ---
 
+### 🐧 Linux Enthusiast
+
+I'm deeply passionate about Linux and operating system internals. I've **developed multiple closed-source Linux systems from scratch** — giving me hands-on experience with:
+
+- **Kernel interfaces** — system calls, kernel modules, `/proc` and `/sys` filesystems
+- **Boot processes** — bootloaders (GRUB, systemd-boot), initramfs, early userspace
+- **Init systems** — systemd, OpenRC, custom init implementations
+- **Package management** — building and maintaining custom package repositories
+- **Filesystem hierarchies** — FHS compliance, custom layouts, overlay filesystems
+- **System-level programming** — daemon development, IPC, socket programming, memory management
+
+This systems-level knowledge informs everything I build — from security tools that understand OS internals to web applications designed with performance in mind.
+
+---
+
 ### 🏆 Achievements
 
 - **[HackTheBox Academy — Introduction to Cyber Security](https://academy.hackthebox.com/achievement/2651421/9)** ✅ Completed
 - **14+ Original Projects** built from scratch — security tools, interactive visualizations, and full-stack apps
 - **5+ Open Source PRs** across diverse projects in Security, DevOps, Math, and Science
+- **Multiple closed-source Linux systems** developed independently
 
 ---
 
@@ -73,13 +89,13 @@
 ### 💻 Technologies & Skills
 
 **Languages:**
-`Python` · `Rust` · `Go` · `JavaScript` · `TypeScript` · `Java` · `C++` · `SQL` · `HTML5` · `CSS3`
+`Python` · `Rust` · `Go` · `JavaScript` · `TypeScript` · `Java` · `C++` · `SQL` · `HTML5` · `CSS3` · `Bash`
 
 **Domains:**
-`Cybersecurity` · `Web Security` · `AI/ML` · `DevOps` · `Bioinformatics` · `Web Development` · `Reverse Engineering` · `Cloud Security` · `Data Visualization` · `Physics Simulation`
+`Cybersecurity` · `Web Security` · `AI/ML` · `DevOps` · `Bioinformatics` · `Web Development` · `Reverse Engineering` · `Cloud Security` · `Data Visualization` · `Physics Simulation` · `Linux Systems` · `Operating System Development`
 
 **Frameworks & Tools:**
-`FastAPI` · `React` · `TailwindCSS` · `Docker` · `Kubernetes` · `PostgreSQL` · `Redis` · `Git` · `GitHub Actions` · `Tokio` · `AsyncIO` · `Gin` · `WebSocket` · `Canvas API` · `Web Audio API`
+`FastAPI` · `React` · `TailwindCSS` · `Docker` · `Kubernetes` · `PostgreSQL` · `Redis` · `Git` · `GitHub Actions` · `Tokio` · `AsyncIO` · `Gin` · `WebSocket` · `Canvas API` · `Web Audio API` · `systemd` · `GRUB` · `CMake`
 
 ---
 
@@ -87,6 +103,7 @@
 
 - **Google Summer of Code 2027** — Building toward GSoC with real OSS contributions and mentor relationships
 - **Master 100+ Languages & Technologies** — Currently learning Rust and Go in depth
+- **Contribute to Linux kernel and OS-level projects** — Leveraging my systems programming experience
 - **Build Security Tools** — Making the internet safer, one tool at a time
 - **Contribute to 20+ Open Source Projects** — Across security, dev tools, science, and web
 
@@ -98,8 +115,9 @@
 |--------|-------|
 | **Original Projects** | 14+ |
 | **Open Source PRs** | 5+ |
-| **Languages Used** | 9+ |
+| **Languages Used** | 10+ |
 | **Repos Pushed** | 30+ |
+| **Linux Systems Built** | Multiple (closed-source) |
 | **Age** | 15 |
 
 ---
@@ -112,10 +130,10 @@
 
 ---
 
-> *"I love analyzing databases, finding vulnerabilities, building security tools that make the internet safer, and doing anything that people say is not possible for someone my age."*
+> *"I love analyzing databases, finding vulnerabilities, building security tools that make the internet safer, and doing anything that people say is not possible for someone my age. Linux isn't just an OS to me — it's a playground."*
 
 <div align="center">
 
-**🔒 Building in Public** | **🎓 Future GSoC'er** | **🚀 Always Learning, Always Shipping**
+**🐧 Linux Enthusiast** | **🔒 Building in Public** | **🎓 Future GSoC'er** | **🚀 Always Learning, Always Shipping**
 
 </div>
