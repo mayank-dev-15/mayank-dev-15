@@ -6,11 +6,11 @@
 
 **15-year-old** from **Nagpur, India** 🇮🇳 | Class 10th Student | Born: 16 Dec 2011
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mayank-dev-15&color=6C63FF&style=flat-square&label=Profile+Views)](https://github.com/mayank-dev-15)
-[![Followers](https://img.shields.io/github/followers/mayank-dev-15?color=6C63FF&label=Followers&style=flat-square)](https://github.com/mayank-dev-15?tab=followers)
-[![Stars](https://img.shields.io/github/stars/mayank-dev-15?color=6C63FF&label=Stars&style=flat-square)](https://github.com/mayank-dev-15?tab=repositories)
-[![Repos](https://img.shields.io/badge/Repos-19-6C63FF?style=flat-square)](https://github.com/mayank-dev-15?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-0mayankbasena@gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:0mayankbasena@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=mayank-dev-15&color=6C63FF&style=flat-square&label=Profile+Views)](#)
+[![GitHub followers](https://img.shields.io/github/followers/mayank-dev-15?color=6C63FF&label=Followers&style=flat-square)](#)
+[![GitHub User's stars](https://img.shields.io/github/stars/mayank-dev-15?color=6C63FF&label=Stars&style=flat-square)](#)
+[![Repos](https://img.shields.io/github/repos/mayank-dev-15?color=6C63FF&label=Public+Repos&style=flat-square)](#)
+[![Email](https://img.shields.io/badge/📧_0mayankbasena@gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:0mayankbasena@gmail.com)
 
 </div>
 
@@ -133,7 +133,7 @@ Beyond software, I have deep hands-on hardware experience:
 [![Security Researcher](https://img.shields.io/badge/🔒_Security_Researcher-FF4444?style=for-the-badge)](#)
 [![14+ Projects](https://img.shields.io/badge/💡_14+-Original_Projects-22C55E?style=for-the-badge)](#)
 [![5+ OSS](https://img.shields.io/badge/🌍_5+-OSS_Contributions-3B82F6?style=for-the-badge)](#)
-[![Linux Systems](https://img.shields.io/badge/🐧_Custom_OS_Built-F97316?style=for-the-badge)](#)
+[![Custom OS Builder](https://img.shields.io/badge/🐧_Custom_OS_Built-F97316?style=for-the-badge)](#)
 [![GSoC 2027](https://img.shields.io/badge/🎯_GSoC_2027-FB923C?style=for-the-badge&logo=google&logoColor=white)](#)
 [![Bug Hunter](https://img.shields.io/badge/🐛_Bug_Hunter-DC2626?style=for-the-badge)](#)
 [![OSS Hero](https://img.shields.io/badge/🦸_Open_Source_Hero-7C3AED?style=for-the-badge)](#)
@@ -141,6 +141,10 @@ Beyond software, I have deep hands-on hardware experience:
 [![Kernel Explorer](https://img.shields.io/badge/🔍_Kernel_Explorer-059669?style=for-the-badge)](#)
 [![Arduino Winner](https://img.shields.io/badge/🏆_Arduino_Comp_Winner-009688?style=for-the-badge)](#)
 [![Hardware Hacker](https://img.shields.io/badge/🔧_Hardware_Hacker-FF6B00?style=for-the-badge)](#)
+[![Firmware Engineer](https://img.shields.io/badge/⚙️_Firmware_Engineer-8B5CF6?style=for-the-badge)](#)
+[![SBC Builder](https://img.shields.io/badge/_SBC_Builder-EC4899?style=for-the-badge)](#)
+[![Full-Stack Builder](https://img.shields.io/badge/🌐_Full-Stack_Builder-06B6D4?style=for-the-badge)](#)
+[![AI/ML Engineer](https://img.shields.io/badge/🤖_AI/ML_Engineer-10B981?style=for-the-badge)](#)
 
 ### 🎖️ Certifications
 
@@ -149,17 +153,16 @@ Beyond software, I have deep hands-on hardware experience:
 [![Python](https://img.shields.io/badge/🐍_Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/🦀_Rust-Proficient-000000?style=for-the-badge&logo=rust&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/🐹_Go-Intermediate-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
+[![Arduino](https://img.shields.io/badge/🔌_Arduino-Competent-00979D?style=for-the-badge&logo=arduino&logoColor=white)](#)
+![HackTheBox](https://img.shields.io/badge/🎓_HackTheBox-Intermediate-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
-### 📊 Live Metrics
+### 📊 Live Real-Time Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mayank-dev-15&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=8B949E&dates=8B949E)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-dev-15&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=8B949E&dates=8B949E)
 
-[![Contributions](https://img.shields.io/badge/Contributions-77+-6C63FF?style=for-the-badge)](https://github.com/mayank-dev-15)
-[![Commits](https://img.shields.io/badge/Commits-28+-22C55E?style=for-the-badge)](https://github.com/mayank-dev-15)
-[![PRs](https://img.shields.io/badge/PRs_Merged-7-3B82F6?style=for-the-badge)](https://github.com/mayank-dev-15)
-[![Repos](https://img.shields.io/badge/Repos-34-A855F7?style=for-the-badge)](https://github.com/mayank-dev-15)
-[![Stars](https://img.shields.io/badge/Stars-14+-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mayank-dev-15)
-[![Followers](https://img.shields.io/badge/Followers-2-F97316?style=for-the-badge)](https://github.com/mayank-dev-15?tab=followers)
+<img src="https://img.shields.io/github/followers/mayank-dev-15?style=for-the-badge&label=Followers&color=6C63FF" alt="Followers" /> <img src="https://img.shields.io/github/stars/mayank-dev-15?style=for-the-badge&label=Total+Stars&color=FFD700" alt="Stars" /> <img src="https://img.shields.io/github/repos/mayank-dev-15?style=for-the-badge&label=Public+Repos&color=22C55E" alt="Repos" />
+
+---
 
 ### 🎯 Trophy Wall
 
@@ -169,9 +172,9 @@ Beyond software, I have deep hands-on hardware experience:
 🥇 Security Toolmaker       — 4 security tools built from scratch
 🥇 Visualization Master     — 10 zero-dependency JS projects
 🥇 Open Source Contributor  — 5 PRs merged into major projects
-🥇 Linux & OS Architect    — Custom pentest, security, privacy OS + Android firmware
-🥇 Firmware Engineer        — Custom firmware for routers, SBCs, embedded devices
-🥇 Hardware Hacker          — Arduino comp winner, SBC projects, module integration
+🥇 Linux & OS Architect    — PentestOS, ShieldOS, VaultOS, AndroidFW
+🥇 Firmware Engineer        — Custom firmware for routers, SBCs, embedded
+🥇 Hardware Hacker          — Arduino comp winner, SBC projects, modules
 🥇 Polyglot Developer       — 30+ languages mastered
 🥇 Bug Hunter               — Security research & vuln discovery
 🥇 Kernel Explorer          — Deep OS-level programming
@@ -181,7 +184,7 @@ Beyond software, I have deep hands-on hardware experience:
 ⭐ Total Trophies: 11/11 ⭐
 ```
 
-### 💻 Languages
+### 💻 Languages Mastered
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -213,7 +216,7 @@ Beyond software, I have deep hands-on hardware experience:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
 
-### 🛠️ Tools
+### 🛠️ Tools & Tech
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -238,17 +241,14 @@ Beyond software, I have deep hands-on hardware experience:
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logoColor=white)
 
 ---
 
 > *"I love analyzing databases, finding vulnerabilities, building security tools that make the internet safer, and doing anything that people say is not possible for someone my age. Linux isn't just an OS to me — it's a playground."*
 
-**🐧 Linux Enthusiast** | **🔒 Building in Public** | **🎓 Future GSoC'er** | **🚀 Always Learning, Always Shipping**
+**🐧 Linux Enthusiast** | **🔒 Building in Public** | **🎓 Future GSoC'er** | **🚀 Always Learning, Always Shipping** | **🔧 Hardware Hacker**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mayank-dev-15/mayank-dev-15/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mayank-dev-15/mayank-dev-15/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/mayank-dev-15/mayank-dev-15/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://c2-tlhah.github.io/c2-tlhah/" alt="GitHub Contribution Snake Animation" />
 
 </div>
