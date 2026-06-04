@@ -2,9 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mayank+Basena;Security+Researcher+%F0%9F%94%92;Custom+OS+Builder+%F0%9F%92%BB;AI+Generalist+%F0%9F%A4%96;GSoC+2027+Aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mayank-dev-15&color=6C63FF&style=flat-square&label=Profile+Views)](https://github.com/mayank-dev-15)
-[![Followers](https://img.shields.io/github/followers/mayank-dev-15?color=6C63FF&label=Followers&style=flat-square)](https://github.com/mayank-dev-15?tab=followers)
-[![Email](https://img.shields.io/badge/📧_0mayankbasena@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:0mayankbasena@gmail.com)
+<!-- Static Profile Info -->
+🔒 15 · Security Researcher · Custom OS Builder · AI Generalist · 🐧 PentestOS · ShieldOS · VaultOS · 🛠️ 30+ langs · 24+ repos · 5+ OSS · Arduino winner · 🎯 GSoC 2027 · 📍 Nagpur, India · 📧 0mayankbasena@gmail.com
 
 </div>
 
@@ -12,12 +11,12 @@
 
 ### 🎯 What I Do
 
-- 🛡️ **Security & Infrastructure** — Building vulnerability intelligence platforms, network intrusion detection systems, and advanced port scanners
-- 🎨 **Interactive Visualizations** — Physics simulations, fractals, neural network builders with zero-dependency vanilla JS
-- 🌐 **Full-Stack Development** — Modern web apps with React, TypeScript, FastAPI, and Supabase
-- 🐧 **Systems Programming** — Linux kernel, OS development, firmware creation, daemon creation, IPC, and advanced system-level programming
-- 🤖 **AI/ML** — Anomaly detection, risk scoring engines, neural network visualization
-- 🔧 **Hardware & Embedded** — Arduino projects, SBC builds, firmware flashing, and hardware module integration
+- 🛡️ **Security & Infrastructure** — Vulnerability intelligence platforms, network intrusion detection, advanced port scanners
+- 🎨 **Interactive Visualizations** — Physics simulations, fractals, neural network builders — zero-dependency vanilla JS at 60 FPS
+- 🌐 **Full-Stack Development** — React, TypeScript, FastAPI, Supabase
+- 🐧 **Systems Programming** — Custom Linux distros, firmware, kernel interfaces, IPC, daemons
+- 🤖 **AI/ML** — Anomaly detection, risk scoring, neural network visualization
+- 🔧 **Hardware & Embedded** — Arduino, SBCs, firmware flashing, circuit design
 
 ### 🚀 Featured Projects
 
@@ -25,91 +24,93 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **[VulnScope](https://github.com/mayank-dev-15/vulnscope)** | Python · FastAPI · React | Vulnerability Intelligence Platform — Real-time CVE monitoring, exploit correlation, risk scoring engine |
-| **[ShadowSentinel](https://github.com/mayank-dev-15/shadowsentinel)** | Python · FastAPI · React · ML | AI-Powered Network Intrusion Detection — Real-time packet analysis, ML anomaly detection, MITRE ATT&CK mapping |
-| **[Ferrothorn](https://github.com/mayank-dev-15/ferrothorn)** | Rust · Tokio | Blazing-Fast Async Port Scanner — TCP/UDP scanning, service fingerprinting, OS detection, JSON/CSV output |
-| **[GoForge](https://github.com/mayank-dev-15/goforge)** | Go · Gin · WebSocket | Real-Time Log Analytics Engine — Pattern detection, anomaly alerting, REST API, live dashboard |
+| **[VulnScope](https://github.com/mayank-dev-15/vulnscope)** | Python · FastAPI · React | Vulnerability Intelligence Platform — Real-time CVE monitoring, exploit correlation, risk scoring |
+| **[ShadowSentinel](https://github.com/mayank-dev-15/shadowsentinel)** | Python · FastAPI · React · ML | AI-Powered Network IDS — Real-time packet analysis, ML anomaly detection, MITRE ATT&CK |
+| **[Ferrothorn](https://github.com/mayank-dev-15/ferrothorn)** | Rust · Tokio | Blazing-Fast Async Port Scanner — TCP/UDP scanning, service fingerprinting, OS detection |
+| **[GoForge](https://github.com/mayank-dev-15/goforge)** | Go · Gin · WebSocket | Real-Time Log Analytics — Pattern detection, anomaly alerting, live dashboard |
 
 #### 🎨 Interactive Visualizations (Zero Dependencies)
 
 | Project | Description |
 |---------|-------------|
-| **[🌌 Particle Universe](https://github.com/mayank-dev-15/particle-universe)** | Interactive particle physics simulator — thousands of particles with mouse interaction, color themes, real-time controls |
-| **[📊 Nebula Dashboard](https://github.com/mayank-dev-15/nebula-dashboard)** | Real-time data visualization dashboard — animated charts with cyberpunk dark theme |
-| **[💻 Cyberpunk Terminal](https://github.com/mayank-dev-15/cyberpunk-terminal)** | Interactive terminal emulator — 20+ commands, CRT scanline effects, simulated filesystem, Matrix rain |
-| **[🔮 Fractal Explorer](https://github.com/mayank-dev-15/fractal-explorer)** | Mandelbrot, Julia, Burning Ship, Newton fractals — interactive zoom, color palettes, split-screen comparison |
-| **[🌊 Wave Simulator](https://github.com/mayank-dev-15/wave-simulator)** | Physics-based wave interference — double-slit, Doppler effect, resonance presets, real-time superposition |
-| **[🧩 Maze Generator](https://github.com/mayank-dev-15/maze-generator)** | 5 maze generation + 5 pathfinding algorithms — animated visualization, side-by-side comparison |
-| **[🧠 Neural Network Viz](https://github.com/mayank-dev-15/neural-network-viz)** | Interactive neural network builder — visual architecture designer, animated forward pass, train on XOR/circle datasets |
-| **[🎵 Spectrograph](https://github.com/mayank-dev-15/spectrograph)** | Real-time audio visualizer — frequency bars, waveform, circular, spectrogram, particle modes with beat detection |
-| **[🔷 Hexagonal Life](https://github.com/mayank-dev-15/hexagonal-life)** | Conway's Game of Life on a hexagonal grid — multiple rule sets, preset patterns, age coloring, zoom/pan |
-| **[🌍 Gravity Simulator](https://github.com/mayank-dev-15/gravity-simulator)** | N-body orbital mechanics — solar system, binary stars, three-body problem, galaxy collision with Newtonian gravity |
+| **[🌌 Particle Universe](https://github.com/mayank-dev-15/particle-universe)** | 5000+ particle physics simulator at 60 FPS |
+| **[📊 Nebula Dashboard](https://github.com/mayank-dev-15/nebula-dashboard)** | Real-time data visualization with cyberpunk dark theme |
+| **[💻 Cyberpunk Terminal](https://github.com/mayank-dev-15/cyberpunk-terminal)** | Terminal emulator — 20+ commands, CRT effects, Matrix rain |
+| **[🔮 Fractal Explorer](https://github.com/mayank-dev-15/fractal-explorer)** | Mandelbrot, Julia, Burning Ship, Newton fractals |
+| **[🌊 Wave Simulator](https://github.com/mayank-dev-15/wave-simulator)** | Physics-based wave interference with presets |
+| **[🧩 Maze Generator](https://github.com/mayank-dev-15/maze-generator)** | 5 maze generation + 5 pathfinding algorithms |
+| **[🧠 Neural Network Viz](https://github.com/mayank-dev-15/neural-network-viz)** | Interactive neural network builder with live training |
+| **[🎵 Spectrograph](https://github.com/mayank-dev-15/spectrograph)** | Real-time audio visualizer with beat detection |
+| **[🔷 Hexagonal Life](https://github.com/mayank-dev-15/hexagonal-life)** | Conway's Game of Life on a hexagonal grid |
+| **[🌍 Gravity Simulator](https://github.com/mayank-dev-15/gravity-simulator)** | N-body orbital mechanics with solar system presets |
 
 #### 🌐 Full-Stack Apps & CLI Templates
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **[XRP Agency Management](https://github.com/mayank-dev-15/xrp-agency-management)** | React · TypeScript · TailwindCSS · Supabase | Agency management system — CRM, projects, invoices, team management, RBAC |
-| **[PyTemplate CLI](https://github.com/mayank-dev-15/pytemplate-cli)** | Python | Professional Python CLI template with argparse, logging, config management |
-| **[GoTemplate CLI](https://github.com/mayank-dev-15/gotemplate-cli)** | Go | Professional Go CLI template with cobra, viper, logrus |
-| **[CppTemplate Algo](https://github.com/mayank-dev-15/cpptemplate-algo)** | C++20 | Template library with sorting, searching, graph algorithms, and data structures |
-| **[CppTemplate System](https://github.com/mayank-dev-15/cpptemplate-system)** | C++20 | Systems programming template with networking, threading, and filesystem utilities |
-| **[JavaTemplate App](https://github.com/mayank-dev-15/javatemplate-app)** | Java | Spring Boot 3.x template with JPA, Security, and H2 database |
-| **[JavaTemplate Utils](https://github.com/mayank-dev-15/javatemplate-utils)** | Java | Reusable utility library for strings, collections, validation, and file I/O |
-| **[SQLTemplate Queries](https://github.com/mayank-dev-15/sqltemplate-queries)** | SQL | Advanced SQL patterns: CTEs, window functions, joins, subqueries, optimization |
-| **[SQLTemplate Schema](https://github.com/mayank-dev-15/sqltemplate-schema)** | SQL | Production-ready PostgreSQL schema with users, items, orders, audit logging |
-| **[TsTemplate Node](https://github.com/mayank-dev-15/tstemplate-node)** | TypeScript | Node.js template with strict config, Jest tests |
-| **[TsTemplate React](https://github.com/mayank-dev-15/tstemplate-react)** | TypeScript | React component library template with Vite, CSS modules, tests |
+| **[XRP Agency Management](https://github.com/mayank-dev-15/xrp-agency-management)** | React · TS · Tailwind · Supabase | Agency management — CRM, projects, invoices, RBAC |
+| **[PyTemplate CLI](https://github.com/mayank-dev-15/pytemplate-cli)** | Python | Professional Python CLI template |
+| **[GoTemplate CLI](https://github.com/mayank-dev-15/gotemplate-cli)** | Go | Professional Go CLI template |
+| **[CppTemplate Algo](https://github.com/mayank-dev-15/cpptemplate-algo)** | C++20 | Sorting, searching, graph algorithms, data structures |
+| **[CppTemplate System](https://github.com/mayank-dev-15/cpptemplate-system)** | C++20 | Networking, threading, filesystem utilities |
+| **[JavaTemplate App](https://github.com/mayank-dev-15/javatemplate-app)** | Java | Spring Boot 3.x with JPA, Security, H2 |
+| **[JavaTemplate Utils](https://github.com/mayank-dev-15/javatemplate-utils)** | Java | Strings, collections, validation, file I/O |
+| **[SQLTemplate Queries](https://github.com/mayank-dev-15/sqltemplate-queries)** | SQL | CTEs, window functions, joins, optimization |
+| **[SQLTemplate Schema](https://github.com/mayank-dev-15/sqltemplate-schema)** | SQL | Production-ready PostgreSQL schema |
+| **[TsTemplate Node](https://github.com/mayank-dev-15/tstemplate-node)** | TypeScript | Node.js with strict config, Jest tests |
+| **[TsTemplate React](https://github.com/mayank-dev-15/tstemplate-react)** | TypeScript | React component library with Vite, CSS modules |
 
 ### 🛠️ Open Source Contributions
 
 | # | Project | ⭐ | Language | Contribution |
 |---|---------|---|----------|-------------|
 | 1 | [rucio/rucio](https://github.com/rucio/rucio) | 299⭐ | Python | Security: Added httponly/secure flags to auth cookies (PR [#8575](https://github.com/rucio/rucio/pull/8575)) |
-| 2 | [r12habh/ActionScope](https://github.com/r12habh/ActionScope) | — | Python | Tests: Script injection coverage for issue_comment + discussion (PR [#86](https://github.com/r12habh/ActionScope/pull/86)) |
+| 2 | [r12habh/ActionScope](https://github.com/r12habh/ActionScope) | — | Python | Tests: Script injection coverage (PR [#86](https://github.com/r12habh/ActionScope/pull/86)) |
 | 3 | [mesonbuild/meson](https://github.com/mesonbuild/meson) | 6.5K⭐ | Python | DevTools: Graceful error handling for sizeof test (PR [#15877](https://github.com/mesonbuild/meson/pull/15877)) |
 | 4 | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | 38.8K⭐ | Python | MathViz: GenericGraph tuple key support (PR [#4761](https://github.com/ManimCommunity/manim/pull/4761)) |
 | 5 | [biopython/biopython](https://github.com/biopython/biopython) | 5K⭐ | Python | Bioinformatics: PDBList obsolete multi-format file handling (PR [#5231](https://github.com/biopython/biopython/pull/5231)) |
 
-**Languages Contributed In:** `Python` · `Rust` · `Go` · `JavaScript` · `Java`
-
 ### 🐧 Linux & OS Development
 
-I've **developed multiple custom Linux distributions and operating systems from scratch**, including:
+- 🔒 **PentestOS** — Custom penetration testing distribution
+- 🛡️ **ShieldOS** — Security-hardened OS
+- 🔐 **VaultOS** — Privacy-first security OS
+- 📱 **AndroidFW** — Custom Android firmware for R36S retro gaming handhelds/clones
+- ⚙️ **Firmware** — Custom firmware for routers, SBCs, embedded devices
 
-- 🔒 **PentestOS** — Custom penetration testing distribution with pre-configured security tools
-- 🛡️ **ShieldOS** — Security-hardened OS focused on defense and monitoring
-- 🔐 **VaultOS** — Privacy-first security operating system with encrypted workflows
-- 📱 **AndroidFW** — Custom Android firmware for R36S retro gaming handhelds and clones
-- ⚙️ **Firmware Projects** — Custom firmware builds for routers, SBCs, and embedded devices
-
-**Core Linux Skills:**
-- **Kernel interfaces** — system calls, kernel modules, `/proc` and `/sys` filesystems
-- **Boot processes** — bootloaders (GRUB, systemd-boot), initramfs, early userspace
-- **Init systems** — systemd, OpenRC, custom init implementations
-- **Package management** — building and maintaining custom package repositories (APT, Pacman, custom)
-- **Filesystem hierarchies** — FHS compliance, custom layouts, overlay filesystems
-- **System-level programming** — daemon development, IPC, socket programming, memory management
+**Core Skills:** Kernel interfaces, boot processes, init systems, package management, filesystem hierarchies, system-level programming
 
 ### 🔧 Hardware, SBC & Embedded
 
-Beyond software, I have deep hands-on hardware experience:
-
-- 🏆 **Arduino Competitions** — Won multiple school-level Arduino project competitions
-- 🖥️ **Single Board Computers** — Extensive projects with Raspberry Pi, Orange Pi, Rock Pi, R36S, and many other SBCs
-- 📡 **Hardware Modules** — Hands-on with GPS, GSM/LTE, Bluetooth, Wi-Fi, RFID/NFC, IR, ultrasonic, accelerometer, gyroscope, temperature/humidity, relay, stepper/servo motor drivers, OLED/LCD displays, camera modules, and more
+- 🏆 **Arduino Competitions** — Multiple school-level wins
+- 🖥️ **SBCs** — Raspberry Pi, Orange Pi, Rock Pi, R36S, and many more
+- 📡 **Modules** — GPS, GSM/LTE, Bluetooth, Wi-Fi, RFID/NFC, IR, ultrasonic, accelerometer, gyroscope, temperature/humidity, relay, stepper/servo, OLED/LCD, camera
 - 🔌 **Firmware Flashing** — OpenWrt, ESP32, ESP8266, STM32, ATmega
-- 🛠️ **Circuit Design** — Schematic reading, breadboard prototyping, PCB work
+- 🛠️ **Circuit Design** — Schematic reading, breadboard, PCB work
+
+### 🔮 Upcoming Projects
+
+| Project | Description |
+|---------|-------------|
+| **🔒 VulnScope v2** — Full rewrite with real-time WebSocket CVE feed, exploit correlation engine, and risk scoring dashboard |
+| **🛡️ ShadowSentinel v2** — Enhanced ML anomaly detection with deep packet analysis and automated threat response |
+| **🐧 PentestOS v2** — Next-gen penetration testing distro with 200+ pre-configured tools and automated recon |
+| **📱 AndroidFW v2** — Custom Android ROM with privacy-first features for R36S and other retro handhelds |
+| **🌌 Particle Universe 3D** — Three.js-powered 3D particle physics simulator with VR support |
+| **🧠 Neural Network Playground** — Full visual deep learning framework with GPU acceleration |
+| **🔍 KernelProbe** — Linux kernel debugging and profiling toolkit for security researchers |
+| **📡 RFAnalyzer** — Software-defined radio analysis tool for IoT security auditing |
+| **🏗️ HomeLab OS** — Lightweight OS for self-hosted home server management |
+| **🤖 AI Pentest Agent** — Autonomous AI-powered penetration testing framework |
 
 ### 🎯 Goals
 
-- **Google Summer of Code 2027** — Building toward GSoC with real OSS contributions
-- **Master 100+ Languages & Technologies** — Currently learning Rust and Go in depth
-- **Contribute to Linux kernel and OS-level projects** — Leveraging systems programming experience
-- **Build Security Tools** — Making the internet safer, one tool at a time
-- **Contribute to 20+ Open Source Projects** — Across security, dev tools, science, and web
+- **GSoC 2027** — Get selected and contribute to a major open-source organization
+- **100+ Languages** — Currently mastering Rust and Go in depth
+- **Linux Kernel** — Contribute to the kernel and OS-level projects
+- **20+ OSS Projects** — Across security, dev tools, science, and web
 
-### 📫 Connect With Me
+### 📫 Connect
 
 - 📧 **Email:** [0mayankbasena@gmail.com](mailto:0mayankbasena@gmail.com)
 - 💻 **GitHub:** [@mayank-dev-15](https://github.com/mayank-dev-15)
@@ -118,16 +119,6 @@ Beyond software, I have deep hands-on hardware experience:
 ---
 
 <div align="center">
-
-### 🔥 What to Explore
-
-Dive into my work — from security tools that scan networks in real-time, to interactive physics simulators running at 60 FPS in pure JavaScript, to custom operating systems built from the ground up.
-
-[![Explore Repos](https://img.shields.io/badge/🔍_Explore_All_Repos-6C63FF?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories)
-[![Star My Work](https://img.shields.io/badge/⭐_Star_My_Work-FFD700?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories)
-[![Fork & Build](https://img.shields.io/badge/🍴_Fork_&_Build-22C55E?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories)
-
----
 
 ### 🏅 GitHub Achievements
 
@@ -139,26 +130,21 @@ Dive into my work — from security tools that scan networks in real-time, to in
 [![Pair Extraordinaire](https://img.shields.io/badge/🤝_Pair_Extraordinaire-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-dev-15?tab=achievements)
 [![Arctic Vault](https://img.shields.io/badge/🚀_Arctic_Vault-EF4444?style=for-the-badge&logo=github&logoColor=white)](https://archiveprogram.github.com/)
 
-### 🏆 Earned Badges
+### 🏆 Badges
 
-[![HackTheBox Academy](https://img.shields.io/badge/HackTheBox-Academy_✅-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com/achievement/2651421/9)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Academy_✅-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com/achievement/2651421/9)
 [![Security Researcher](https://img.shields.io/badge/🔒_Security_Researcher-FF4444?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories&q=security)
-[![20+ Original Projects](https://img.shields.io/badge/💡_20+-Original_Projects-22C55E?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories)
-[![5+ OSS Contributions](https://img.shields.io/badge/🌍_5+-OSS_Contributions-3B82F6?style=for-the-badge)](https://github.com/mayank-dev-15?tab=stars)
+[![24+ Repos](https://img.shields.io/badge/💡_24+-Repos-22C55E?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories)
+[![5+ OSS](https://img.shields.io/badge/🌍_5+-OSS_Contributions-3B82F6?style=for-the-badge)](https://github.com/mayank-dev-15?tab=stars)
 [![Custom OS Builder](https://img.shields.io/badge/🐧_Custom_OS_Built-F97316?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories&q=linux)
 [![GSoC 2027](https://img.shields.io/badge/🎯_GSoC_2027-FB923C?style=for-the-badge&logo=google&logoColor=white)](https://summerofcode.withgoogle.com/)
-[![Bug Hunter](https://img.shields.io/badge/🐛_Bug_Hunter-DC2626?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories&q=security)
-[![OSS Hero](https://img.shields.io/badge/🦸_Open_Source_Hero-7C3AED?style=for-the-badge)](https://github.com/mayank-dev-15?tab=stars)
-[![Code Ninja](https://img.shields.io/badge/🥷_Code_Ninja-1E293B?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories)
-[![Kernel Explorer](https://img.shields.io/badge/🔍_Kernel_Explorer-059669?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories&q=kernel)
 [![Arduino Winner](https://img.shields.io/badge/🏆_Arduino_Comp_Winner-009688?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories&q=arduino)
 [![Hardware Hacker](https://img.shields.io/badge/🔧_Hardware_Hacker-FF6B00?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories&q=hardware)
 [![Firmware Engineer](https://img.shields.io/badge/⚙️_Firmware_Engineer-8B5CF6?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories&q=firmware)
-[![SBC Builder](https://img.shields.io/badge/🖥️_SBC_Builder-EC4899?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories&q=raspberry)
 [![Full-Stack Builder](https://img.shields.io/badge/🌐_Full-Stack_Builder-06B6D4?style=for-the-badge)](https://github.com/mayank-dev-15/xrp-agency-management)
 [![AI/ML Engineer](https://img.shields.io/badge/🤖_AI/ML_Engineer-10B981?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories&q=ml)
 
-### 🎖️ Certifications & Skills
+### 🎖️ Certifications
 
 [![CEH](https://img.shields.io/badge/🛡️_CEH-In_Progress-FF6B00?style=for-the-badge)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 [![Security+](https://img.shields.io/badge/📜_Security+-Studying-F59E0B?style=for-the-badge)](https://www.comptia.org/certifications/security)
@@ -188,7 +174,7 @@ Dive into my work — from security tools that scan networks in real-time, to in
 ⭐ Total Trophies: 11/11 ⭐
 ```
 
-### 💻 Languages Mastered
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -220,7 +206,7 @@ Dive into my work — from security tools that scan networks in real-time, to in
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
 
-### 🛠️ Tools & Tech
+### 🛠️ Tools
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
