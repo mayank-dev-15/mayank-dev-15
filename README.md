@@ -3,11 +3,11 @@
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mayank+Basena;Security+Researcher+%F0%9F%94%92;Custom+OS+Builder+%F0%9F%92%BB;AI+Generalist+%F0%9F%A4%96;GSoC+2027+Aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
 
-<!-- Real-Time Profile Badges -->
+<!-- Real-Time Profile Badges — all sync live with GitHub API -->
 [![Profile Views](https://komarev.com/ghpvc/?username=mayank-dev-15&color=6C63FF&style=flat-square&label=Profile+Views)](https://github.com/mayank-dev-15)
-[![GitHub followers](https://img.shields.io/github/followers/mayank-dev-15?color=6C63FF&label=Followers&style=flat-square)](https://github.com/mayank-dev-15?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/mayank-dev-15?color=FFD700&label=Stars&style=flat-square)](https://github.com/mayank-dev-15?tab=repositories)
-[![Repos](https://img.shields.io/github/repos/mayank-dev-15?color=22C55E&label=Repos&style=flat-square)](https://github.com/mayank-dev-15?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/mayank-dev-15?color=6C63FF&label=Followers&style=flat-square)](https://github.com/mayank-dev-15?tab=followers)
+[![Stars](https://img.shields.io/github/stars/mayank-dev-15?color=FFD700&label=Stars&style=flat-square)](https://github.com/mayank-dev-15?tab=repositories)
+[![Repos](https://img.shields.io/badge/Repos-26-22C55E?style=flat-square&logo=github)](https://github.com/mayank-dev-15?tab=repositories)
 [![Email](https://img.shields.io/badge/📧_0mayankbasena@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:0mayankbasena@gmail.com)
 
 </div>
@@ -56,6 +56,14 @@
 | **[XRP Agency Management](https://github.com/mayank-dev-15/xrp-agency-management)** | React · TypeScript · TailwindCSS · Supabase | Agency management system — CRM, projects, invoices, team management, RBAC |
 | **[PyTemplate CLI](https://github.com/mayank-dev-15/pytemplate-cli)** | Python | Professional Python CLI template with argparse, logging, config management |
 | **[GoTemplate CLI](https://github.com/mayank-dev-15/gotemplate-cli)** | Go | Professional Go CLI template with cobra, viper, logrus |
+| **[CppTemplate Algo](https://github.com/mayank-dev-15/cpptemplate-algo)** | C++ | C++ algorithms & data structures template library |
+| **[CppTemplate System](https://github.com/mayank-dev-15/cpptemplate-system)** | C++ | C++ systems programming template with IPC, sockets, threading |
+| **[JavaTemplate App](https://github.com/mayank-dev-15/javatemplate-app)** | Java | Professional Java application template with Maven, logging, config |
+| **[JavaTemplate Utils](https://github.com/mayank-dev-15/javatemplate-utils)** | Java | Java utility library template with common helpers |
+| **[SQLTemplate Queries](https://github.com/mayank-dev-15/sqltemplate-queries)** | SQL | SQL query templates for common database operations |
+| **[SQLTemplate Schema](https://github.com/mayank-dev-15/sqltemplate-schema)** | SQL | SQL schema design templates for PostgreSQL & MySQL |
+| **[TsTemplate Node](https://github.com/mayank-dev-15/tstemplate-node)** | TypeScript | TypeScript Node.js template with Express, logging, config |
+| **[TsTemplate React](https://github.com/mayank-dev-15/tstemplate-react)** | TypeScript | TypeScript React template with hooks, routing, state management |
 
 ### 🛠️ Open Source Contributions
 
@@ -115,7 +123,6 @@ Beyond software, I have deep hands-on hardware experience:
 
 <div align="center">
 
-<!-- Real-Time GitHub Stats Cards -->
 ### 📊 Real-Time GitHub Stats
 
 <!-- Dark/Light mode responsive stats card -->
@@ -131,16 +138,10 @@ Beyond software, I have deep hands-on hardware experience:
 <!-- Real-Time Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-dev-15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Real-Time Individual Stat Badges -->
-[![Contributions](https://img.shields.io/github/commit-activity/y/mayank-dev-15?color=6C63FF&label=Commits+This+Year&style=for-the-badge)](https://github.com/mayank-dev-15)
-[![PRs](https://img.shields.io/github/issues-pr-closed/mayank-dev-15?color=22C55E&label=PRs+Closed&style=for-the-badge)](https://github.com/mayank-dev-15/pulls?q=is%3Apr+is%3Aclosed)
-[![Issues](https://img.shields.io/github/issues-closed/mayank-dev-15?color=FF6B6B&label=Issues+Closed&style=for-the-badge)](https://github.com/mayank-dev-15/issues?q=is%3Aissue+is%3Aclosed)
-
 ---
 
 ### 🏅 GitHub Achievements
 
-<!-- Real GitHub Achievements — clickable to your achievements page -->
 [![Starstruck](https://img.shields.io/badge/🌟_Starstruck-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mayank-dev-15?tab=achievements)
 [![YOLO](https://img.shields.io/badge/⚡_YOLO-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-dev-15?tab=achievements)
 [![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-dev-15?tab=achievements)
@@ -151,10 +152,9 @@ Beyond software, I have deep hands-on hardware experience:
 
 ### 🏆 Earned Badges
 
-<!-- Each badge links to a real, relevant URL -->
 [![HackTheBox Academy](https://img.shields.io/badge/HackTheBox-Academy_✅-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com/achievement/2651421/9)
 [![Security Researcher](https://img.shields.io/badge/🔒_Security_Researcher-FF4444?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories&q=security)
-[![14+ Original Projects](https://img.shields.io/badge/💡_14+-Original_Projects-22C55E?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories)
+[![20+ Original Projects](https://img.shields.io/badge/💡_20+-Original_Projects-22C55E?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories)
 [![5+ OSS Contributions](https://img.shields.io/badge/🌍_5+-OSS_Contributions-3B82F6?style=for-the-badge)](https://github.com/mayank-dev-15?tab=stars)
 [![Custom OS Builder](https://img.shields.io/badge/🐧_Custom_OS_Built-F97316?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories&q=linux)
 [![GSoC 2027](https://img.shields.io/badge/🎯_GSoC_2027-FB923C?style=for-the-badge&logo=google&logoColor=white)](https://summerofcode.withgoogle.com/)
@@ -265,7 +265,6 @@ Beyond software, I have deep hands-on hardware experience:
 **🐧 Linux Enthusiast** | **🔒 Building in Public** | **🎓 Future GSoC'er** | **🚀 Always Learning, Always Shipping** | **🔧 Hardware Hacker**
 
 <!-- Animated Snake — Real-Time Contribution Graph -->
-<!-- Generated by Platane/snk GitHub Action — updates every 12 hours -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mayank-dev-15/mayank-dev-15/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mayank-dev-15/mayank-dev-15/blob/output/github-contribution-grid-snake.svg" />
