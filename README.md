@@ -1,13 +1,9 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mayank+Basena;Security+Researcher+%F0%9F%94%92;Custom+OS+Builder+%F0%9F%92%BB;AI+Generalist+%F0%9F%A4%96;GSoC+2027+Aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
 
-<!-- Real-Time Profile Badges — all sync live with GitHub API -->
 [![Profile Views](https://komarev.com/ghpvc/?username=mayank-dev-15&color=6C63FF&style=flat-square&label=Profile+Views)](https://github.com/mayank-dev-15)
 [![Followers](https://img.shields.io/github/followers/mayank-dev-15?color=6C63FF&label=Followers&style=flat-square)](https://github.com/mayank-dev-15?tab=followers)
-[![Stars](https://img.shields.io/github/stars/mayank-dev-15?color=FFD700&label=Stars&style=flat-square)](https://github.com/mayank-dev-15?tab=repositories)
-[![Repos](https://img.shields.io/badge/Repos-26-22C55E?style=flat-square&logo=github)](https://github.com/mayank-dev-15?tab=repositories)
 [![Email](https://img.shields.io/badge/📧_0mayankbasena@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:0mayankbasena@gmail.com)
 
 </div>
@@ -49,21 +45,21 @@
 | **[🔷 Hexagonal Life](https://github.com/mayank-dev-15/hexagonal-life)** | Conway's Game of Life on a hexagonal grid — multiple rule sets, preset patterns, age coloring, zoom/pan |
 | **[🌍 Gravity Simulator](https://github.com/mayank-dev-15/gravity-simulator)** | N-body orbital mechanics — solar system, binary stars, three-body problem, galaxy collision with Newtonian gravity |
 
-#### 🌐 Full-Stack Apps & CLI
+#### 🌐 Full-Stack Apps & CLI Templates
 
 | Project | Stack | Description |
 |---------|-------|-------------|
 | **[XRP Agency Management](https://github.com/mayank-dev-15/xrp-agency-management)** | React · TypeScript · TailwindCSS · Supabase | Agency management system — CRM, projects, invoices, team management, RBAC |
 | **[PyTemplate CLI](https://github.com/mayank-dev-15/pytemplate-cli)** | Python | Professional Python CLI template with argparse, logging, config management |
 | **[GoTemplate CLI](https://github.com/mayank-dev-15/gotemplate-cli)** | Go | Professional Go CLI template with cobra, viper, logrus |
-| **[CppTemplate Algo](https://github.com/mayank-dev-15/cpptemplate-algo)** | C++ | C++ algorithms & data structures template library |
-| **[CppTemplate System](https://github.com/mayank-dev-15/cpptemplate-system)** | C++ | C++ systems programming template with IPC, sockets, threading |
-| **[JavaTemplate App](https://github.com/mayank-dev-15/javatemplate-app)** | Java | Professional Java application template with Maven, logging, config |
-| **[JavaTemplate Utils](https://github.com/mayank-dev-15/javatemplate-utils)** | Java | Java utility library template with common helpers |
-| **[SQLTemplate Queries](https://github.com/mayank-dev-15/sqltemplate-queries)** | SQL | SQL query templates for common database operations |
-| **[SQLTemplate Schema](https://github.com/mayank-dev-15/sqltemplate-schema)** | SQL | SQL schema design templates for PostgreSQL & MySQL |
-| **[TsTemplate Node](https://github.com/mayank-dev-15/tstemplate-node)** | TypeScript | TypeScript Node.js template with Express, logging, config |
-| **[TsTemplate React](https://github.com/mayank-dev-15/tstemplate-react)** | TypeScript | TypeScript React template with hooks, routing, state management |
+| **[CppTemplate Algo](https://github.com/mayank-dev-15/cpptemplate-algo)** | C++20 | Template library with sorting, searching, graph algorithms, and data structures |
+| **[CppTemplate System](https://github.com/mayank-dev-15/cpptemplate-system)** | C++20 | Systems programming template with networking, threading, and filesystem utilities |
+| **[JavaTemplate App](https://github.com/mayank-dev-15/javatemplate-app)** | Java | Spring Boot 3.x template with JPA, Security, and H2 database |
+| **[JavaTemplate Utils](https://github.com/mayank-dev-15/javatemplate-utils)** | Java | Reusable utility library for strings, collections, validation, and file I/O |
+| **[SQLTemplate Queries](https://github.com/mayank-dev-15/sqltemplate-queries)** | SQL | Advanced SQL patterns: CTEs, window functions, joins, subqueries, optimization |
+| **[SQLTemplate Schema](https://github.com/mayank-dev-15/sqltemplate-schema)** | SQL | Production-ready PostgreSQL schema with users, items, orders, audit logging |
+| **[TsTemplate Node](https://github.com/mayank-dev-15/tstemplate-node)** | TypeScript | Node.js template with strict config, Jest tests |
+| **[TsTemplate React](https://github.com/mayank-dev-15/tstemplate-react)** | TypeScript | React component library template with Vite, CSS modules, tests |
 
 ### 🛠️ Open Source Contributions
 
@@ -101,15 +97,15 @@ Beyond software, I have deep hands-on hardware experience:
 
 - 🏆 **Arduino Competitions** — Won multiple school-level Arduino project competitions
 - 🖥️ **Single Board Computers** — Extensive projects with Raspberry Pi, Orange Pi, Rock Pi, R36S, and many other SBCs
-- 📡 **Hardware Modules** — Hands-on experience with nearly all common modules: GPS, GSM/LTE, Bluetooth, Wi-Fi, RFID/NFC, IR, ultrasonic, accelerometer, gyroscope, temperature/humidity, relay, stepper/servo motor drivers, OLED/LCD displays, camera modules, and more
-- 🔌 **Firmware Flashing** — Experienced with flashing firmware on routers (OpenWrt), SBCs, microcontrollers (ESP32, ESP8266, STM32, ATmega), and custom PCBs
-- 🛠️ **Circuit Design** — Can design and troubleshoot circuits, read schematics, and work with breadboards and PCBs
+- 📡 **Hardware Modules** — Hands-on with GPS, GSM/LTE, Bluetooth, Wi-Fi, RFID/NFC, IR, ultrasonic, accelerometer, gyroscope, temperature/humidity, relay, stepper/servo motor drivers, OLED/LCD displays, camera modules, and more
+- 🔌 **Firmware Flashing** — OpenWrt, ESP32, ESP8266, STM32, ATmega
+- 🛠️ **Circuit Design** — Schematic reading, breadboard prototyping, PCB work
 
 ### 🎯 Goals
 
-- **Google Summer of Code 2027** — Building toward GSoC with real OSS contributions and mentor relationships
+- **Google Summer of Code 2027** — Building toward GSoC with real OSS contributions
 - **Master 100+ Languages & Technologies** — Currently learning Rust and Go in depth
-- **Contribute to Linux kernel and OS-level projects** — Leveraging my systems programming experience
+- **Contribute to Linux kernel and OS-level projects** — Leveraging systems programming experience
 - **Build Security Tools** — Making the internet safer, one tool at a time
 - **Contribute to 20+ Open Source Projects** — Across security, dev tools, science, and web
 
@@ -123,20 +119,13 @@ Beyond software, I have deep hands-on hardware experience:
 
 <div align="center">
 
-### 📊 Real-Time GitHub Stats
+### 🔥 What to Explore
 
-<!-- Dark/Light mode responsive stats card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mayank-dev-15&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mayank-dev-15&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&title_color=6C63FF&icon_color=6C63FF&ring_color=6C63FF" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayank-dev-15&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" />
-</picture>
+Dive into my work — from security tools that scan networks in real-time, to interactive physics simulators running at 60 FPS in pure JavaScript, to custom operating systems built from the ground up.
 
-<!-- Real-Time Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mayank-dev-15&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
-
-<!-- Real-Time Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-dev-15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Explore Repos](https://img.shields.io/badge/🔍_Explore_All_Repos-6C63FF?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories)
+[![Star My Work](https://img.shields.io/badge/⭐_Star_My_Work-FFD700?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories)
+[![Fork & Build](https://img.shields.io/badge/🍴_Fork_&_Build-22C55E?style=for-the-badge)](https://github.com/mayank-dev-15?tab=repositories)
 
 ---
 
@@ -264,7 +253,6 @@ Beyond software, I have deep hands-on hardware experience:
 
 **🐧 Linux Enthusiast** | **🔒 Building in Public** | **🎓 Future GSoC'er** | **🚀 Always Learning, Always Shipping** | **🔧 Hardware Hacker**
 
-<!-- Animated Snake — Real-Time Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mayank-dev-15/mayank-dev-15/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mayank-dev-15/mayank-dev-15/blob/output/github-contribution-grid-snake.svg" />
