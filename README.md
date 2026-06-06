@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mayank+Basena;Security+Researcher+%F0%9F%94%92;Custom+OS+Builder+%F0%9F%92%BB;AI+Generalist+%F0%9F%A4%96;GSoC+2027+Aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
 
-🔒 15 · Security Researcher · Custom OS Builder · AI Generalist · 🐧 PentestOS · ShieldOS · VaultOS · 🛠️ 30+ langs · 31 repos · 5+ OSS · Arduino winner · 🎯 GSoC 2027 · 📍 Nagpur, India
+🔒 15 · Security Researcher · Custom OS Builder · AI Generalist · 🐧 PentestOS · ShieldOS · VaultOS · 🛠️ 30+ langs · 87 repos · 5+ OSS · Arduino winner · 🎯 GSoC 2027 · 📍 Nagpur, India
 
 </div>
 
@@ -17,7 +17,7 @@
 - 🤖 **AI/ML** — Anomaly detection, risk scoring, neural network visualization
 - 🔧 **Hardware & Embedded** — Arduino, SBCs, firmware flashing, circuit design
 
-### 🚀 All Projects (31 Repos)
+### 🚀 All Projects (87 Repos)
 
 #### 🔒 Security & Infrastructure
 
