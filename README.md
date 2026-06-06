@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mayank+Basena;Security+Researcher+%F0%9F%94%92;Custom+OS+Builder+%F0%9F%92%BB;AI+Generalist+%F0%9F%A4%96;GSoC+2027+Aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
 
-🔒 15 · Security Researcher · Custom OS Builder · AI Generalist · 🐧 PentestOS · ShieldOS · VaultOS · 🛠️ 30+ langs · 87 repos · 5+ OSS · Arduino winner · 🎯 GSoC 2027 · 📍 Nagpur, India
+🔒 15yo · Security Researcher · Custom OS Builder · AI Generalist · 🐧 PentestOS · ShieldOS · VaultOS · 🛠️ 30+ langs · 87 repos · 5+ OSS · Arduino winner · 🎯 GSoC 2027 · 📍 Nagpur, India
 
 </div>
 
@@ -148,29 +148,11 @@
 🥇 Full-Stack Builder       — 3 apps + admin panels
 🥇 Hardware Hacker          — Arduino winner, SBCs
 🥇 Polyglot Developer       — 30+ languages
-🥇 GSoC Aspirant            — 2027 locked in
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⭐ Total Trophies: 8/8 ⭐
+⭐ Total Trophies: 7/7 ⭐
 ```
 
-### 🎬 Project Showcases
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-9401-4a2b-8d35-5d36e5e3e8f1.gif" width="400"/>
-<br/><sub>📚 StudyHub — Student Portal with Admin Panel</sub>
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257460-7b5a6b7e-3a9a-4c4a-8d4a-5a2d1c3e8f2a.gif" width="400"/>
-<br/><sub>⚡ DevForge — Developer Tools Hub (12+ Tools)</sub>
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-8a2d7b3e-4b1a-5c6d-9e8f-3a7b2c1d4e5f.gif" width="400"/>
-<br/><sub>📋 TaskFlow — Project Management with Kanban</sub>
-<br/><br/>
-
-<img src="https://github.com/mayank-dev-15/mayank-dev-15/blob/output/github-contribution-grid-snake.svg" width="600"/>
-<br/><sub>🐍 GitHub Contributions — Real-Time Snake Animation</sub>
-
----
 
 > *"I love analyzing databases, finding vulnerabilities, building security tools that make the internet safer, and doing anything that people say is not possible for someone my age. Linux isn't just an OS to me — it's a playground."*
 
