@@ -29,6 +29,7 @@
 | [GoForge](https://github.com/mayank-dev-15/goforge) | Go, Gin, WebSocket | Real-Time Log Analytics |
 | [SnapLock](https://github.com/mayank-dev-15/snaplock) | Bash | Instant file & folder encryption |
 | [GitSnap](https://github.com/mayank-dev-15/gitsnap) | Node.js | Instant git snapshot & rollback |
+| [Device Security Audit Suite](https://github.com/mayank-dev-15/device-security-audit-suite) | Python | 4-tier device security audit suite (low/mid/high-end & full) |
 
 #### 🎨 Interactive Visualizations
 
