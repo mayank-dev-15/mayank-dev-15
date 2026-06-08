@@ -4,7 +4,7 @@
 
 *15 · Nagpur, India · Self-taught. Security researcher, AI generalist, hardware hacker.*
 
-*98 repos · 96 stars · 9 languages · Zero AI tools used — ever.*
+*97 repos · 96 stars · 9 languages · Zero AI tools used — ever.*
 
 </div>
 
@@ -186,13 +186,13 @@
 ```
 🏆 DEVELOPER TROPHY CASE 🏆
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🥇 Security Toolmaker       — 17 security tools
-🥇 Visualization Master     — 22 visualization projects
-🥇 Open Source Contributor  — 5+ major projects (rucio, meson, manim, biopython, ActionScope)
-🥇 Linux & OS Architect    — 4 custom OS projects
-🥇 Full-Stack Builder       — 13 apps with admin panels
-🥇 Hardware Hacker          — Arduino winner, SBCs, firmware
-🥇 Polyglot Developer       — 9 languages, 98 repos
+🥇 Security Toolmaker       — 0 security tools
+🥇 Visualization Master     — 1 visualization projects
+🥇 Open Source Contributor  — 8 PRs merged
+🥇 Linux & OS Architect    — 0 OS projects
+🥇 Full-Stack Builder       — 3 apps + admin panels
+🥇 Hardware Hacker          — Arduino winner, SBCs
+🥇 Polyglot Developer       — 49+ languages
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ⭐ Total Trophies: 7/7 ⭐
 ```

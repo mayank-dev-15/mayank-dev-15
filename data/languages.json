@@ -1,5 +1,5 @@
 {
-  "total_bytes": 419310691,
+  "total_bytes": 419282844,
   "languages": [
     {
       "name": "Java",
@@ -21,7 +21,7 @@
     },
     {
       "name": "JavaScript",
-      "bytes": 56127519,
+      "bytes": 56092633,
       "percentage": 13.4,
       "color": "#f1e05a"
     },
@@ -33,7 +33,7 @@
     },
     {
       "name": "HTML",
-      "bytes": 12456633,
+      "bytes": 12458648,
       "percentage": 3.0,
       "color": "#e34c26"
     },
@@ -69,7 +69,7 @@
     },
     {
       "name": "CSS",
-      "bytes": 915174,
+      "bytes": 920198,
       "percentage": 0.2,
       "color": "#663399"
     },
