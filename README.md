@@ -87,7 +87,7 @@
 | [🎵 Spectrograph](https://github.com/mayank-dev-15/spectrograph) | Real-time audio visualizer |
 | [🔷 Hexagonal Life](https://github.com/mayank-dev-15/hexagonal-life) | Game of Life on hexagonal grid |
 | [🌍 Gravity Simulator](https://github.com/mayank-dev-15/gravity-simulator) | N-body orbital mechanics |
-| [📚 Student Study Hub](https://github.com/mayank-dev-15/student-study-hub) | 64 offline tools for students — zero frameworks |
+| [📚 Student Study Hub](https://github.com/mayank-dev-15/student-study-hub) | 64 offline tools — zero frameworks, pure hand-written JS |
 | [StudyHub](https://github.com/mayank-dev-15/studyhub) | Student portal with admin panel |
 | [DevDash](https://github.com/mayank-dev-15/devdash) | Terminal developer dashboard |
 | [DevForge](https://github.com/mayank-dev-15/devforge) | Developer tools hub (12+ tools) |
@@ -154,25 +154,25 @@
 | [spectrograph](https://github.com/mayank-dev-15/spectrograph) | JS | Audio visualizer |
 | [spectrograph-demo](https://github.com/mayank-dev-15/spectrograph-demo) | JS | Spectrograph demo |
 
-### 🐧 Linux & OS (2)
+### 🐧 Linux & OS (4)
 
 - 🔒 **PentestOS** — Custom penetration testing distribution
 - 🛡️ **ShieldOS** — Security-hardened OS
 - 🔐 **VaultOS** — Privacy-first security OS
 - 📱 **AndroidFW** — Custom Android firmware for R36S
 
-### 🗄️ SQL Templates (1)
+### 🗄️ SQL Templates (2)
 
-- [SQLTemplate Queries](https://github.com/mayank-dev-15/sqltemplate-queries) — CTEs, window functions, joins
-- [SQLTemplate Schema](https://github.com/mayank-dev-15/sqltemplate-schema) — Production PostgreSQL schema
+- [SQLTemplate Queries](https://github.com/mayank-dev-15/sqltemplate-queries) — CTEs, window functions, joins, optimization
+- [SQLTemplate Schema](https://github.com/mayank-dev-15/sqltemplate-schema) — Production-ready PostgreSQL schema
 
-### 🔧 Other (16)
+### 🔧 Other (13)
 
 - [gravity-simulator-demo](https://github.com/mayank-dev-15/gravity-simulator-demo) — N-body demo
 - [hexagonal-life-demo](https://github.com/mayank-dev-15/hexagonal-life-demo) — Hex Life demo
 - [maze-generator-demo](https://github.com/mayank-dev-15/maze-generator-demo) — Maze demo
 - [wave-simulator-demo](https://github.com/mayank-dev-15/wave-simulator-demo) — Wave demo
-- [device-security-audit](https://github.com/mayank-dev-15/device-security-audit) — Single-script audit
+- [device-security-audit](https://github.com/mayank-dev-15/device-security-audit) — Single-script audit tool
 - And more demos, experiments, and tools
 
 ---
@@ -258,8 +258,6 @@
 <div align="center">
 
 **⭐ Star this repo if you find it useful!**
-
-**[🌐 Study Hub](https://mayank-dev-15.github.io/student-study-hub/)** • **[📥 Study Hub Source](https://github.com/mayank-dev-15/student-study-hub)**
 
 *Every line hand-written. No AI. No shortcuts. Just craft.*
 
