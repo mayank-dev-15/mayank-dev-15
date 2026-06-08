@@ -61,12 +61,23 @@ def main():
     )
 
     # === Update Trophy Wall ===
+    def match_repo(r, keywords):
+        name = r.get("name", "").lower()
+        topics = [t.lower() for t in r.get("topics", [])]
+        desc = (r.get("description") or "").lower()
+        return any(k in name or k in " ".join(topics) or k in desc for k in keywords)
+
+    security_count = sum(1 for r in repos if match_repo(r, ["security", "pentest", "audit", "vulnerability", "ids", "nids", "ferrothorn", "snaplock", "vulnscope", "shadowsentinel", "pentest-agent", "device-security"]))
+    viz_count = sum(1 for r in repos if match_repo(r, ["visualization", "simulator", "explorer", "particle", "fractal", "neural", "gravity", "maze", "wave", "spectrograph", "hexagonal", "cyberpunk", "universe", "dashboard"]))
+    os_count = sum(1 for r in repos if match_repo(r, ["pentestos", "shieldos", "vaultos", "androidfw", "firmware", "kernel", "linux-distro"]))
+    fullstack_count = sum(1 for r in repos if match_repo(r, ["flask", "fastapi", "admin", "studyhub", "devforge", "taskflow", "xrp", "agency"]))
+
     trophy_lines = []
-    trophy_lines.append(f"🥇 Security Toolmaker       — {sum(1 for r in repos if any(t in (r.get('topics', []) + [r.get('name', '')]) for t in ['security', 'pentest', 'audit', 'vulnerability', 'ids', 'nids']))} security tools")
-    trophy_lines.append(f"🥇 Visualization Master     — {sum(1 for r in repos if any(t in (r.get('topics', []) + [r.get('name', '')]) for t in ['visualization', 'simulator', 'explorer', 'particle', 'fractal', 'neural', 'gravity', 'maze', 'wave', 'spectrograph', 'hexagonal', 'cyberpunk']))} visualization projects")
+    trophy_lines.append(f"🥇 Security Toolmaker       — {security_count} security tools")
+    trophy_lines.append(f"🥇 Visualization Master     — {viz_count} visualization projects")
     trophy_lines.append(f"🥇 Open Source Contributor  — {contributions.get('pr_reviews', 0) + contributions.get('pull_requests', 0)} PRs merged")
-    trophy_lines.append(f"🥇 Linux & OS Architect    — {sum(1 for r in repos if any(t in (r.get('topics', []) + [r.get('name', '')]) for t in ['os', 'linux', 'pentestos', 'shieldos', 'vaultos', 'androidfw', 'firmware', 'kernel']))} OS projects")
-    trophy_lines.append(f"🥇 Full-Stack Builder       — {sum(1 for r in repos if any(t in (r.get('topics', []) + [r.get('name', '')]) for t in ['flask', 'react', 'fastapi', 'admin', 'dashboard', 'studyhub', 'devforge', 'taskflow']))} apps + admin panels")
+    trophy_lines.append(f"🥇 Linux & OS Architect    — {os_count} OS projects")
+    trophy_lines.append(f"🥇 Full-Stack Builder       — {fullstack_count} apps + admin panels")
     trophy_lines.append(f"🥇 Hardware Hacker          — Arduino winner, SBCs")
     trophy_lines.append(f"🥇 Polyglot Developer       — {lang_count}+ languages")
 
