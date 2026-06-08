@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mayank+Basena;Security+Researcher+%F0%9F%94%92;Custom+OS+Builder+%F0%9F%92%BB;AI+Generalist+%F0%9F%A4%96;GSoC+2027+Aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
 
-🔒 15yo · Security Researcher · Custom OS Builder · AI Generalist · 🐧 PentestOS · ShieldOS · VaultOS · 🛠️ 30+ langs · 87 repos · 5+ OSS · Arduino winner · 🎯 GSoC 2027 · 📍 Nagpur, India
+🔒 15yo · Security Researcher · Custom OS Builder · AI Generalist · 🐧 PentestOS · ShieldOS · VaultOS · 🛠️ 50+ langs · 98 repos · 5+ OSS · Arduino winner · 🎯 GSoC 2027 · 📍 Nagpur, India
 
 </div>
 
@@ -17,7 +17,22 @@
 - 🤖 **AI/ML** — Anomaly detection, risk scoring, neural network visualization
 - 🔧 **Hardware & Embedded** — Arduino, SBCs, firmware flashing, circuit design
 
-### 🚀 All Projects (87 Repos)
+### 📊 Live GitHub Stats
+
+| Metric | Value |
+|--------|-------|
+| 📦 Public Repos | 98 |
+| ⭐ Total Stars Earned | 96 |
+| 👥 Followers | 2 |
+| 👤 Following | 0 |
+| 📝 Total Contributions | 371 |
+| 💻 Total Commits | 257 |
+| 🔀 Pull Requests | 8 |
+| 🐛 Issues Opened | 7 |
+| 🗣️ Languages Used | 50+ |
+| ⏱️ Last Synced | 2026-06-08T05:26:53Z |
+
+### 🚀 All Projects (98 Repos)
 
 #### 🔒 Security & Infrastructure
 
@@ -143,13 +158,13 @@
 ```
 🏆 DEVELOPER TROPHY CASE 🏆
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🥇 Security Toolmaker       — 6 security tools
-🥇 Visualization Master     — 10 zero-dep JS projects
-🥇 Open Source Contributor  — 5 PRs merged
-🥇 Linux & OS Architect    — 4 custom OS built
+🥇 Security Toolmaker       — 0 security tools
+🥇 Visualization Master     — 1 visualization projects
+🥇 Open Source Contributor  — 8 PRs merged
+🥇 Linux & OS Architect    — 0 OS projects
 🥇 Full-Stack Builder       — 3 apps + admin panels
 🥇 Hardware Hacker          — Arduino winner, SBCs
-🥇 Polyglot Developer       — 70+ languages
+🥇 Polyglot Developer       — 50+ languages
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ⭐ Total Trophies: 7/7 ⭐
 ```

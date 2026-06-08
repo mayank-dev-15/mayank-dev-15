@@ -1,0 +1,24 @@
+{
+  "total_followers": 2,
+  "total_following": 0,
+  "followers": [
+    {
+      "login": "Zoraiz09",
+      "name": "Zoariz Arshad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152799455?u=746567c22140c74f786c413bedd4c35e97e4148c&v=4",
+      "url": "https://github.com/Zoraiz09",
+      "bio": "I am a Final Year Computer Engineering student at Ghulam Ishaq Khan Institute of Engineering and Technology",
+      "location": "Pakistan",
+      "repos": 16
+    },
+    {
+      "login": "yumiaura",
+      "name": "Olya Pimenova",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235065808?u=a1b0635522ae3443c108b80c2322701b6be8899b&v=4",
+      "url": "https://github.com/yumiaura",
+      "bio": "Astrologist, Psychologist, Developer.",
+      "location": "192.168.0.1",
+      "repos": 23
+    }
+  ]
+}

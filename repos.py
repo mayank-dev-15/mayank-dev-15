@@ -19,7 +19,7 @@ query($login: String!, $cursor: String) {
         isTemplate
         stargazerCount
         forkCount
-        watchCount
+        watchers { totalCount }
         primaryLanguage { name color }
         repositoryTopics(first: 10) {
           nodes { topic { name } }
@@ -64,7 +64,7 @@ def fetch_repos(login="mayank-dev-15"):
             "is_template": r.get("isTemplate", False),
             "stars": r.get("stargazerCount", 0),
             "forks": r.get("forkCount", 0),
-            "watchers": r.get("watchCount", 0),
+            "watchers": r.get("watchers", {}).get("totalCount", 0) if isinstance(r.get("watchers"), dict) else 0,
             "language": (r.get("primaryLanguage") or {}).get("name"),
             "language_color": (r.get("primaryLanguage") or {}).get("color"),
             "topics": [t["topic"]["name"] for t in r.get("repositoryTopics", {}).get("nodes", [])],
