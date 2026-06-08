@@ -398,7 +398,8 @@
 ![XML](https://img.shields.io/badge/-XML-005FAD?style=flat-square)
 
 ---
-
+  <img  src="https://github.com/mayank-dev-15/contribution-cal-snake/blob/master/animation/snake.gif"
+       alt="snake" />
 <div align="center">
 
 **⭐ Star this repo if you find it useful!**
@@ -406,8 +407,5 @@
 *Every line hand-written. No AI. No shortcuts. Just craft.*
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
-<div align="center">
-  <img  src="https://github.com/mayank-dev-15/contribution-cal-snake/blob/master/animation/snake.gif"
-       alt="snake" />
-</div>
+
 </div>
