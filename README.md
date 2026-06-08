@@ -25,6 +25,8 @@
 |---------|-------|-------------|
 | [VulnScope](https://github.com/mayank-dev-15/vulnscope) | Python, FastAPI, React | Vulnerability Intelligence Platform |
 | [ShadowSentinel](https://github.com/mayank-dev-15/shadowsentinel) | Python, FastAPI, React, ML | AI-Powered Network IDS |
+| [ShadowSentinel v2](https://github.com/mayank-dev-15/ShadowSentinel-v2) | Python, PyTorch, Scapy | ML-Powered NIDS with LSTM Autoencoder |
+| [AI Pentest Agent](https://github.com/mayank-dev-15/AI-Pentest-Agent) | Python, asyncio | Autonomous AI Penetration Testing Framework |
 | [Ferrothorn](https://github.com/mayank-dev-15/ferrothorn) | Rust, Tokio | Blazing-Fast Async Port Scanner |
 | [GoForge](https://github.com/mayank-dev-15/goforge) | Go, Gin, WebSocket | Real-Time Log Analytics |
 | [SnapLock](https://github.com/mayank-dev-15/snaplock) | Bash | Instant file & folder encryption |
@@ -42,6 +44,7 @@
 | [🌊 Wave Simulator](https://github.com/mayank-dev-15/wave-simulator) | Physics-based wave interference |
 | [🧩 Maze Generator](https://github.com/mayank-dev-15/maze-generator) | 5 maze gen + 5 pathfinding algorithms |
 | [🧠 Neural Network Viz](https://github.com/mayank-dev-15/neural-network-viz) | Interactive neural network builder |
+| [🧠 Neural Network Playground](https://github.com/mayank-dev-15/Neural-Network-Playground) | Visual deep learning framework with DAG builder |
 | [🎵 Spectrograph](https://github.com/mayank-dev-15/spectrograph) | Real-time audio visualizer |
 | [🔷 Hexagonal Life](https://github.com/mayank-dev-15/hexagonal-life) | Game of Life on hexagonal grid |
 | [🌍 Gravity Simulator](https://github.com/mayank-dev-15/gravity-simulator) | N-body orbital mechanics |
@@ -107,15 +110,13 @@
 | Project | Description |
 |---------|-------------|
 | VulnScope v2 | Real-time WebSocket CVE feed, exploit correlation |
-| ShadowSentinel v2 | Enhanced ML anomaly detection |
 | PentestOS v2 | 200+ tools with automated recon |
 | AndroidFW v2 | Privacy-first Android ROM |
 | Particle Universe 3D | Three.js 3D simulator with VR |
-| Neural Network Playground | Visual deep learning framework |
 | KernelProbe | Linux kernel debugging toolkit |
 | RFAnalyzer | SDR analysis for IoT security |
 | HomeLab OS | Lightweight self-hosted server OS |
-| AI Pentest Agent | Autonomous AI penetration testing |
+
 
 ### 📫 Connect
 
