@@ -406,5 +406,8 @@
 *Every line hand-written. No AI. No shortcuts. Just craft.*
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
-
+<div align="center">
+  <img  src="https://github.com/mayank-dev-15/contribution-cal-snake/blob/master/animation/snake.gif"
+       alt="snake" />
+</div>
 </div>
