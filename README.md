@@ -4,7 +4,7 @@
 
 *15 · Nagpur, India · Self-taught. Security researcher, AI generalist, hardware hacker.*
 
-*97 repos · 96 stars · 9 languages · Zero AI tools used — ever.*
+*98 repos · 96 stars · 9 languages · Zero AI tools used — ever.*
 
 </div>
 
