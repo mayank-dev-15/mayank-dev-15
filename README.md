@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mayank+Basena;Security+Researcher+%F0%9F%94%92;Custom+OS+Builder+%F0%9F%92%BB;AI+Generalist+%F0%9F%A4%96;GSoC+2027+Aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
 
-🔒 15yo · Security Researcher · Custom OS Builder · AI Generalist · 🐧 PentestOS · ShieldOS · VaultOS · 🛠️ 50+ langs · 98 repos · 5+ OSS · Arduino winner · 🎯 GSoC 2027 · 📍 Nagpur, India
+🔒 15yo · Security Researcher · Custom OS Builder · AI Generalist · 🐧 PentestOS · ShieldOS · VaultOS · 🛠️ 49+ langs · 97 repos · 5+ OSS · Arduino winner · 🎯 GSoC 2027 · 📍 Nagpur, India
 
 </div>
 
@@ -21,18 +21,18 @@
 
 | Metric | Value |
 |--------|-------|
-| 📦 Public Repos | 98 |
-| ⭐ Total Stars Earned | 96 |
+| 📦 Public Repos | 97 |
+| ⭐ Total Stars Earned | 95 |
 | 👥 Followers | 2 |
 | 👤 Following | 0 |
-| 📝 Total Contributions | 371 |
-| 💻 Total Commits | 257 |
+| 📝 Total Contributions | 372 |
+| 💻 Total Commits | 256 |
 | 🔀 Pull Requests | 8 |
 | 🐛 Issues Opened | 7 |
-| 🗣️ Languages Used | 50+ |
-| ⏱️ Last Synced | 2026-06-08T05:26:53Z |
+| 🗣️ Languages Used | 49+ |
+| ⏱️ Last Synced | 2026-06-08T05:34:42Z | 2026-06-08T05:26:53Z |
 
-### 🚀 All Projects (98 Repos)
+### 🚀 All Projects (97 Repos)
 
 #### 🔒 Security & Infrastructure
 
@@ -164,7 +164,7 @@
 🥇 Linux & OS Architect    — 0 OS projects
 🥇 Full-Stack Builder       — 3 apps + admin panels
 🥇 Hardware Hacker          — Arduino winner, SBCs
-🥇 Polyglot Developer       — 50+ languages
+🥇 Polyglot Developer       — 49+ languages
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ⭐ Total Trophies: 7/7 ⭐
 ```

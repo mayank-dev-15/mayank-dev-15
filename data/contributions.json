@@ -1,19 +1,19 @@
 {
-  "total_contributions": 371,
+  "total_contributions": 372,
   "contribution_years": [
     2026
   ],
-  "commits": 257,
-  "restricted_commits": 0,
+  "commits": 256,
+  "restricted_commits": 3,
   "issues": 7,
   "pull_requests": 8,
   "pr_reviews": 0,
-  "repos_created": 98,
+  "repos_created": 97,
   "total_issues": 7,
   "total_prs": 8,
-  "total_repos": 98,
+  "total_repos": 97,
   "calendar": {
-    "totalContributions": 371,
+    "totalContributions": 372,
     "weeks": [
       {
         "contributionDays": [
@@ -2012,17 +2012,17 @@
             "color": "#ebedf0"
           },
           {
-            "contributionCount": 13,
+            "contributionCount": 16,
             "date": "2026-06-01",
             "color": "#40c463"
           },
           {
-            "contributionCount": 27,
+            "contributionCount": 24,
             "date": "2026-06-02",
             "color": "#30a14e"
           },
           {
-            "contributionCount": 42,
+            "contributionCount": 43,
             "date": "2026-06-03",
             "color": "#216e39"
           },
@@ -2032,26 +2032,26 @@
             "color": "#216e39"
           },
           {
-            "contributionCount": 1,
+            "contributionCount": 0,
             "date": "2026-06-05",
-            "color": "#9be9a8"
+            "color": "#ebedf0"
           },
           {
-            "contributionCount": 9,
+            "contributionCount": 13,
             "date": "2026-06-06",
-            "color": "#9be9a8"
+            "color": "#40c463"
           }
         ]
       },
       {
         "contributionDays": [
           {
-            "contributionCount": 9,
+            "contributionCount": 5,
             "date": "2026-06-07",
             "color": "#9be9a8"
           },
           {
-            "contributionCount": 11,
+            "contributionCount": 12,
             "date": "2026-06-08",
             "color": "#40c463"
           }
