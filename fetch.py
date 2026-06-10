@@ -4,7 +4,9 @@ Master fetcher — single GraphQL batch for everything.
 Run: python fetch.py
 """
 import sys
+import os
 import time
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from github_api import graphql_query, save_json
 
 MASTER_QUERY = """
