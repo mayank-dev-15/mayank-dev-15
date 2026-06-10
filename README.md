@@ -1,56 +1,58 @@
 <div align="center">
+</div>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mayank+Basena;Security+Researcher+%F0%9F%94%92;Custom+OS+Builder+%F0%9F%92%BB;AI+Generalist+%F0%9F%A4%96;GSoC+2027+Aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
 
-*15 · Nagpur, India · Self-taught. Security researcher, AI generalist, hardware hacker.*
+*15 Ãƒâ€šÃ‚Â· Nagpur, India Ãƒâ€šÃ‚Â· Self-taught. Security researcher, AI generalist, hardware hacker.*
 
-*103 repos · 96 stars · 9 languages · Zero AI tools used — ever.*
+*113 repos Ãƒâ€šÃ‚Â· 95 stars Ãƒâ€šÃ‚Â· 70+ languages Ãƒâ€šÃ‚Â· Zero AI tools used ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â ever.*
 
 </div>
 
 ---
 
-> ### 🧠 No AI. No Shortcuts. No Excuses.
+> ### ÃƒÂ°Ã…Â¸Ã‚Â§Ã‚Â  No AI. No Shortcuts. No Excuses.
 >
-> Every single line of code in every single one of my 98 repositories was **written by hand**. No GitHub Copilot. No ChatGPT. No AI code generators. No automated scaffolding.
+> Every single line of code in every single one of my 113 repositories was **written by hand**. No GitHub Copilot. No ChatGPT. No AI code generators. No automated scaffolding.
 >
-> I believe in understanding things from the ground up. When you write something yourself — really write it — you own every byte of it. There's no black box. No mystery. Just pure, intentional craft.
+> I believe in understanding things from the ground up. When you write something yourself ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â really write it ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â you own every byte of it. There's no black box. No mystery. Just pure, intentional craft.
 >
 > *"The best code is code you understand completely."*
 
 ---
 
-## 🛠️ What I Actually Do
+## ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂºÃ‚Â ÃƒÂ¯Ã‚Â¸Ã‚Â What I Actually Do
 
-- 🛡️ **Security Research** — Vulnerability intelligence, network IDS, pentest frameworks, port scanners
-- 🎨 **Interactive Visualizations** — Physics sims, fractals, neural networks — vanilla JS at 60 FPS
-- 🌐 **Full-Stack Development** — React, TypeScript, FastAPI, Flask, Supabase — with admin panels
-- 🐧 **Systems Programming** — Custom Linux distros, firmware, kernel interfaces, daemons
-- 🤖 **AI/ML** — Anomaly detection, risk scoring, LSTM autoencoders
-- 🔧 **Hardware & Embedded** — Arduino, ESP32, SBCs, circuit design, firmware flashing
+- ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂºÃ‚Â¡ÃƒÂ¯Ã‚Â¸Ã‚Â **Security Research** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Vulnerability intelligence, network IDS, pentest frameworks, port scanners
+- ÃƒÂ°Ã…Â¸Ã…Â½Ã‚Â¨ **Interactive Visualizations** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Physics sims, fractals, neural networks ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â vanilla JS at 60 FPS
+- ÃƒÂ°Ã…Â¸Ã…â€™Ã‚Â **Full-Stack Development** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â React, TypeScript, FastAPI, Flask, Supabase ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â with admin panels
+- ÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â§ **Systems Programming** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Custom Linux distros, firmware, kernel interfaces, daemons
+- ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€œ **AI/ML** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Anomaly detection, risk scoring, LSTM autoencoders
+- ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â§ **Hardware & Embedded** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Arduino, ESP32, SBCs, circuit design, firmware flashing
 
 ---
 
-## 📊 Live GitHub Stats
+## ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã…Â  Live GitHub Stats
 
 | Metric | Value |
 |--------|-------|
-| 📦 Public Repos | 98 |
-| ⭐ Total Stars | 96 |
-| 🔱 Total Forks | 0 |
-| 👥 Followers | 2 |
-| 💻 Languages | 9 |
-| ⏱️ Last Synced | REAL-TIME |
+| ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã‚Â¦ Public Repos | 113 |
+| ÃƒÂ¢Ã‚Â­Ã‚Â Total Stars | 95 |
+| ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â± Total Forks | 0 |
+| ÃƒÂ°Ã…Â¸Ã¢â‚¬ËœÃ‚Â¥ Followers | 2 |
+| ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â» Languages | 70+ |
+| ÃƒÂ¢Ã‚ÂÃ‚Â±ÃƒÂ¯Ã‚Â¸Ã‚Â Last Synced | REAL-TIME |
 
 ---
 
-> *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
+> *"Simplicity is the ultimate sophistication."* ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Leonardo da Vinci
 
 ---
 
-## 🚀 All 98 Projects
+## ÃƒÂ°Ã…Â¸Ã…Â¡Ã¢â€šÂ¬ Projects
 
-### 🔒 Security & Infrastructure (17)
+### ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ¢â‚¬â„¢ Security & Infrastructure (17)
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -72,22 +74,22 @@
 | [biopython](https://github.com/mayank-dev-15/biopython) | Python | Bioinformatics library (contributor) |
 | [meson](https://github.com/mayank-dev-15/meson) | Python | Build system (contributor) |
 
-### 🎨 Interactive Visualizations (22)
+### ÃƒÂ°Ã…Â¸Ã…Â½Ã‚Â¨ Interactive Visualizations (22)
 
 | Project | Description |
 |---------|-------------|
-| [🌌 Particle Universe](https://github.com/mayank-dev-15/particle-universe) | 5000+ particle physics simulator at 60 FPS |
-| [📊 Nebula Dashboard](https://github.com/mayank-dev-15/nebula-dashboard) | Real-time data visualization |
-| [💻 Cyberpunk Terminal](https://github.com/mayank-dev-15/cyberpunk-terminal) | Terminal emulator with CRT effects |
-| [🔮 Fractal Explorer](https://github.com/mayank-dev-15/fractal-explorer) | Mandelbrot, Julia, Newton fractals |
-| [🌊 Wave Simulator](https://github.com/mayank-dev-15/wave-simulator) | Physics-based wave interference |
-| [🧩 Maze Generator](https://github.com/mayank-dev-15/maze-generator) | 5 maze gen + 5 pathfinding algorithms |
-| [🧠 Neural Network Viz](https://github.com/mayank-dev-15/neural-network-viz) | Interactive neural network builder |
-| [🧠 Neural Network Playground](https://github.com/mayank-dev-15/Neural-Network-Playground) | Visual deep learning framework |
-| [🎵 Spectrograph](https://github.com/mayank-dev-15/spectrograph) | Real-time audio visualizer |
-| [🔷 Hexagonal Life](https://github.com/mayank-dev-15/hexagonal-life) | Game of Life on hexagonal grid |
-| [🌍 Gravity Simulator](https://github.com/mayank-dev-15/gravity-simulator) | N-body orbital mechanics |
-| [📚 Student Study Hub](https://github.com/mayank-dev-15/student-study-hub) | 64 offline tools — zero frameworks, pure hand-written JS |
+| [ÃƒÂ°Ã…Â¸Ã…â€™Ã…â€™ Particle Universe](https://github.com/mayank-dev-15/particle-universe) | 5000+ particle physics simulator at 60 FPS |
+| [ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã…Â  Nebula Dashboard](https://github.com/mayank-dev-15/nebula-dashboard) | Real-time data visualization |
+| [ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â» Cyberpunk Terminal](https://github.com/mayank-dev-15/cyberpunk-terminal) | Terminal emulator with CRT effects |
+| [ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â® Fractal Explorer](https://github.com/mayank-dev-15/fractal-explorer) | Mandelbrot, Julia, Newton fractals |
+| [ÃƒÂ°Ã…Â¸Ã…â€™Ã…Â  Wave Simulator](https://github.com/mayank-dev-15/wave-simulator) | Physics-based wave interference |
+| [ÃƒÂ°Ã…Â¸Ã‚Â§Ã‚Â© Maze Generator](https://github.com/mayank-dev-15/maze-generator) | 5 maze gen + 5 pathfinding algorithms |
+| [ÃƒÂ°Ã…Â¸Ã‚Â§Ã‚Â  Neural Network Viz](https://github.com/mayank-dev-15/neural-network-viz) | Interactive neural network builder |
+| [ÃƒÂ°Ã…Â¸Ã‚Â§Ã‚Â  Neural Network Playground](https://github.com/mayank-dev-15/Neural-Network-Playground) | Visual deep learning framework |
+| [ÃƒÂ°Ã…Â¸Ã…Â½Ã‚Âµ Spectrograph](https://github.com/mayank-dev-15/spectrograph) | Real-time audio visualizer |
+| [ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â· Hexagonal Life](https://github.com/mayank-dev-15/hexagonal-life) | Game of Life on hexagonal grid |
+| [ÃƒÂ°Ã…Â¸Ã…â€™Ã‚Â Gravity Simulator](https://github.com/mayank-dev-15/gravity-simulator) | N-body orbital mechanics |
+| [ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã…Â¡ Student Study Hub](https://github.com/mayank-dev-15/student-study-hub) | 64 offline tools ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â zero frameworks, pure hand-written JS |
 | [StudyHub](https://github.com/mayank-dev-15/studyhub) | Student portal with admin panel |
 | [DevDash](https://github.com/mayank-dev-15/devdash) | Terminal developer dashboard |
 | [DevForge](https://github.com/mayank-dev-15/devforge) | Developer tools hub (12+ tools) |
@@ -99,7 +101,7 @@
 | [fractal-explorer-demo](https://github.com/mayank-dev-15/fractal-explorer-demo) | Fractal demo |
 | [particle-universe-demo](https://github.com/mayank-dev-15/particle-universe-demo) | Particle demo |
 
-### 📦 CLI Templates & Libraries (21)
+### ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã‚Â¦ CLI Templates & Libraries (14)
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -111,13 +113,6 @@
 | [JavaTemplate Utils](https://github.com/mayank-dev-15/javatemplate-utils) | Java | Reusable utility library |
 | [TsTemplate Node](https://github.com/mayank-dev-15/tstemplate-node) | TypeScript | Node.js template with Jest |
 | [TsTemplate React](https://github.com/mayank-dev-15/tstemplate-react) | TypeScript | React component library template |
-| [profile](https://github.com/mayank-dev-15/profile) | Python | Profile README sync engine |
-| [repos](https://github.com/mayank-dev-15/repos) | Python | Repo metadata fetcher |
-| [stars](https://github.com/mayank-dev-15/stars) | Python | Starred repos tracker |
-| [languages](https://github.com/mayank-dev-15/languages) | Python | Language stats analyzer |
-| [update_readme](https://github.com/mayank-dev-15/update_readme) | Python | Live README updater |
-| [github_api](https://github.com/mayank-dev-15/github_api) | Python | GitHub API wrapper |
-| [nano-pdf](https://github.com/mayank-dev-15/nano-pdf) | Python | PDF editor via natural language |
 | [gotemplate-cli-demo](https://github.com/mayank-dev-15/gotemplate-cli-demo) | Go | Go CLI demo |
 | [cpptemplate-algo-demo](https://github.com/mayank-dev-15/cpptemplate-algo-demo) | C++ | Algo demo |
 | [cpptemplate-system-demo](https://github.com/mayank-dev-15/cpptemplate-system-demo) | C++ | System demo |
@@ -125,7 +120,7 @@
 | [javatemplate-utils-demo](https://github.com/mayank-dev-15/javatemplate-utils-demo) | Java | Utils demo |
 | [pytemplate-cli-demo](https://github.com/mayank-dev-15/pytemplate-cli-demo) | Python | CLI demo |
 
-### 🌐 Full-Stack Apps (13)
+### ÃƒÂ°Ã…Â¸Ã…â€™Ã‚Â Full-Stack Apps (13)
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -143,7 +138,7 @@
 | [ferrothorn-demo](https://github.com/mayank-dev-15/ferrothorn-demo) | Rust | Ferrothorn demo |
 | [shadowsentinel-demo](https://github.com/mayank-dev-15/shadowsentinel-demo) | Python | ShadowSentinel demo |
 
-### 🤖 AI/ML (6)
+### ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬â€œ AI/ML (6)
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -154,52 +149,28 @@
 | [spectrograph](https://github.com/mayank-dev-15/spectrograph) | JS | Audio visualizer |
 | [spectrograph-demo](https://github.com/mayank-dev-15/spectrograph-demo) | JS | Spectrograph demo |
 
-### 🐧 Linux & OS (4)
+### ÃƒÂ°Ã…Â¸Ã¢â‚¬â€Ã¢â‚¬Å¾ÃƒÂ¯Ã‚Â¸Ã‚Â SQL Templates (2)
 
-- 🔒 **PentestOS** — Custom penetration testing distribution
-- 🛡️ **ShieldOS** — Security-hardened OS
-- 🔐 **VaultOS** — Privacy-first security OS
-- 📱 **AndroidFW** — Custom Android firmware for R36S
+- [SQLTemplate Queries](https://github.com/mayank-dev-15/sqltemplate-queries) ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â CTEs, window functions, joins, optimization
+- [SQLTemplate Schema](https://github.com/mayank-dev-15/sqltemplate-schema) ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Production-ready PostgreSQL schema
 
-### 🗄️ SQL Templates (2)
+### ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â§ Other (13)
 
-- [SQLTemplate Queries](https://github.com/mayank-dev-15/sqltemplate-queries) — CTEs, window functions, joins, optimization
-- [SQLTemplate Schema](https://github.com/mayank-dev-15/sqltemplate-schema) — Production-ready PostgreSQL schema
-
-### 🔧 Other (13)
-
-- [gravity-simulator-demo](https://github.com/mayank-dev-15/gravity-simulator-demo) — N-body demo
-- [hexagonal-life-demo](https://github.com/mayank-dev-15/hexagonal-life-demo) — Hex Life demo
-- [maze-generator-demo](https://github.com/mayank-dev-15/maze-generator-demo) — Maze demo
-- [wave-simulator-demo](https://github.com/mayank-dev-15/wave-simulator-demo) — Wave demo
-- [device-security-audit](https://github.com/mayank-dev-15/device-security-audit) — Single-script audit tool
+- [gravity-simulator-demo](https://github.com/mayank-dev-15/gravity-simulator-demo) ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â N-body demo
+- [hexagonal-life-demo](https://github.com/mayank-dev-15/hexagonal-life-demo) ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Hex Life demo
+- [maze-generator-demo](https://github.com/mayank-dev-15/maze-generator-demo) ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Maze demo
+- [wave-simulator-demo](https://github.com/mayank-dev-15/wave-simulator-demo) ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Wave demo
+- [device-security-audit](https://github.com/mayank-dev-15/device-security-audit) ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Single-script audit tool
 - And more demos, experiments, and tools
 
 ---
 
-> *"The only way to do great work is to love what you do."* — Steve Jobs
+> *"The only way to do great work is to love what you do."* ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Steve Jobs
 
 ---
-
-## 🏆 Developer Trophy Case
-
-```
-🏆 DEVELOPER TROPHY CASE 🏆
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🥇 Security Toolmaker       — 0 security tools
-🥇 Visualization Master     — 1 visualization projects
-🥇 Open Source Contributor  — 11 PRs merged
-🥇 Linux & OS Architect    — 0 OS projects
-🥇 Full-Stack Builder       — 3 apps + admin panels
-🥇 Hardware Hacker          — Arduino winner, SBCs
-🥇 Polyglot Developer       — 48+ languages
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⭐ Total Trophies: 7/7 ⭐
-```
-
 ---
 
-## 💻 Top Languages
+## ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â» Top Languages
 
 | Language | Repos |
 |----------|-------|
@@ -214,8 +185,22 @@
 | Go | 1 |
 
 ---
+## ðŸ† Developer Trophy Case
 
-## 🔮 Upcoming Projects
+```
+ðŸ† DEVELOPER TROPHY CASE ðŸ†
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+ðŸ¥‡ Security Toolmaker       â€” 30 security tools
+ðŸ¥‡ Visualization Master     â€” 27 visualization projects
+ðŸ¥‡ Open Source Contributor  â€” 5+ major projects (rucio, meson, manim, biopython, ActionScope)
+ðŸ¥‡ Full-Stack Builder       â€” 13 apps with admin panels
+ðŸ¥‡ Hardware Hacker          â€” Arduino winner, SBCs, firmware
+ðŸ¥‡ Polyglot Developer       â€” 70+ languages, 113 repos
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+â­ Total Trophies: 6/6 â­
+```
+
+## ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â® Upcoming Projects
 
 | Project | Description |
 |---------|-------------|
@@ -229,37 +214,37 @@
 
 ---
 
-## 📫 Connect
+## ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã‚Â« Connect
 
-- 📧 **Email:** [0mayankbasena@gmail.com](mailto:0mayankbasena@gmail.com)
-- 💻 **GitHub:** [@mayank-dev-15](https://github.com/mayank-dev-15)
-- 📍 **Location:** Nagpur, India 🇮🇳
+- ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã‚Â§ **Email:** [0mayankbasena@gmail.com](mailto:0mayankbasena@gmail.com)
+- ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â» **GitHub:** [@mayank-dev-15](https://github.com/mayank-dev-15)
+- ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã‚Â **Location:** Nagpur, India ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â®ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¡Ã‚Â³
 
 ---
 
 <div align="center">
 
-### 🏅 GitHub Achievements
+### ÃƒÂ°Ã…Â¸Ã‚ÂÃ¢â‚¬Â¦ GitHub Achievements
 
-[![Starstruck](https://img.shields.io/badge/🌟_Starstruck-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mayank-dev-15?tab=achievements)
-[![YOLO](https://img.shields.io/badge/⚡_YOLO-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-dev-15?tab=achievements)
-[![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-dev-15?tab=achievements)
-[![Galaxy Brain](https://img.shields.io/badge/🧠_Galaxy_Brain-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-dev-15?tab=achievements)
-[![Quickdraw](https://img.shields.io/badge/🎯_Quickdraw-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-dev-15?tab=achievements)
+[![Starstruck](https://img.shields.io/badge/ÃƒÂ°Ã…Â¸Ã…â€™Ã…Â¸_Starstruck-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mayank-dev-15?tab=achievements)
+[![YOLO](https://img.shields.io/badge/ÃƒÂ¢Ã…Â¡Ã‚Â¡_YOLO-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-dev-15?tab=achievements)
+[![Pull Shark](https://img.shields.io/badge/ÃƒÂ°Ã…Â¸Ã‚Â¦Ã‹â€ _Pull_Shark-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-dev-15?tab=achievements)
+[![Galaxy Brain](https://img.shields.io/badge/ÃƒÂ°Ã…Â¸Ã‚Â§Ã‚Â _Galaxy_Brain-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-dev-15?tab=achievements)
+[![Quickdraw](https://img.shields.io/badge/ÃƒÂ°Ã…Â¸Ã…Â½Ã‚Â¯_Quickdraw-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-dev-15?tab=achievements)
 
 </div>
 
 ---
 
-> *"I love analyzing databases, finding vulnerabilities, building security tools that make the internet safer, and doing anything that people say is not possible for someone my age. Linux isn't just an OS to me — it's a playground."*
+> *"I love analyzing databases, finding vulnerabilities, building security tools that make the internet safer, and doing anything that people say is not possible for someone my age. Linux isn't just an OS to me ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â it's a playground."*
 
-**🐧 Linux Enthusiast** | **🔒 Building in Public** | **🎓 Future GSoC'er** | **🚀 Always Learning** | **🔧 Hardware Hacker**
+**ÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â§ Linux Enthusiast** | **ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ¢â‚¬â„¢ Building in Public** | **ÃƒÂ°Ã…Â¸Ã…Â½Ã¢â‚¬Å“ Future GSoC'er** | **ÃƒÂ°Ã…Â¸Ã…Â¡Ã¢â€šÂ¬ Always Learning** | **ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â§ Hardware Hacker**
 
 ---
 
-## 🗣️ 70+ Languages & Technologies
+## ÃƒÂ°Ã…Â¸Ã¢â‚¬â€Ã‚Â£ÃƒÂ¯Ã‚Â¸Ã‚Â 70+ Languages & Technologies
 
-> *"A language that doesn't affect the way you think about programming is not worth knowing."* — Alan Perlis
+> *"A language that doesn't affect the way you think about programming is not worth knowing."* ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Alan Perlis
 
 #### Systems & Low-Level
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -402,10 +387,10 @@
        alt="snake" />
 <div align="center">
 
-**⭐ Star this repo if you find it useful!**
+**ÃƒÂ¢Ã‚Â­Ã‚Â Star this repo if you find it useful!**
 
 *Every line hand-written. No AI. No shortcuts. Just craft.*
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."* ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â John Johnson
 
 </div>
