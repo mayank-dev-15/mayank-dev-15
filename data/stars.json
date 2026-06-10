@@ -1,5 +1,5 @@
 {
-  "total_count": 96,
+  "total_count": 95,
   "stars": [
     {
       "name_with_owner": "mayank-dev-15/taskflow",
@@ -813,17 +813,6 @@
       "forks": 0,
       "language": "Python",
       "license": "BSD-2-Clause",
-      "topics": []
-    },
-    {
-      "name_with_owner": "mayank-dev-15/lobe-chat",
-      "url": "https://github.com/mayank-dev-15/lobe-chat",
-      "description": null,
-      "starred_at": "2026-06-02T03:47:18Z",
-      "stars": 1,
-      "forks": 0,
-      "language": "TypeScript",
-      "license": "NOASSERTION",
       "topics": []
     },
     {

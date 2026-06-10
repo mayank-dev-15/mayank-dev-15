@@ -1,0 +1,858 @@
+{
+  "profile": {
+    "login": "mayank-dev-15",
+    "name": "Mayank Basena",
+    "bio": "Mayank Basena \u00b7 15 \u00b7 Nagpur, India\r\nSelf-taught security researcher, AI generalist & hardware hacker.\r\nCustom OS builder. Firmware engineer. Systems thinker. ",
+    "public_repos": 97,
+    "followers": 2,
+    "following": 0,
+    "created_at": "2026-06-01T17:27:33Z",
+    "updated_at": "2026-06-05T16:09:29Z"
+  },
+  "stats": {
+    "total_repos": 98,
+    "total_stars": 96,
+    "total_forks": 0,
+    "languages_count": 9,
+    "top_languages": [
+      [
+        "HTML",
+        41
+      ],
+      [
+        "Python",
+        13
+      ],
+      [
+        "JavaScript",
+        5
+      ],
+      [
+        "TypeScript",
+        4
+      ],
+      [
+        "Java",
+        2
+      ],
+      [
+        "C++",
+        2
+      ],
+      [
+        "Shell",
+        1
+      ],
+      [
+        "Rust",
+        1
+      ],
+      [
+        "Go",
+        1
+      ]
+    ]
+  },
+  "categories": {
+    "Security & Infrastructure": [
+      {
+        "name": "shadowsentinel",
+        "desc": "AI-Powered Network Intrusion Detection System \u2014 real-time packet analysis, ML anomaly detection, MITRE ATT&CK mapping",
+        "stars": 0,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/shadowsentinel",
+        "updated": "2026-06-08T04:23:26Z"
+      },
+      {
+        "name": "snaplock",
+        "desc": "\ud83d\udd12 Instant file & folder encryption tool \u2014 AES-256, zero dependencies, single bash script",
+        "stars": 1,
+        "lang": "Shell",
+        "url": "https://github.com/mayank-dev-15/snaplock",
+        "updated": "2026-06-08T04:23:24Z"
+      },
+      {
+        "name": "ferrothorn-demo",
+        "desc": "Demo landing page for ferrothorn",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/ferrothorn-demo",
+        "updated": "2026-06-08T04:23:22Z"
+      },
+      {
+        "name": "shadowsentinel-demo",
+        "desc": "Demo landing page for shadowsentinel",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/shadowsentinel-demo",
+        "updated": "2026-06-08T04:23:12Z"
+      },
+      {
+        "name": "snaplock-demo",
+        "desc": "Demo landing page for snaplock",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/snaplock-demo",
+        "updated": "2026-06-08T04:23:10Z"
+      },
+      {
+        "name": "vulnscope-demo",
+        "desc": "Demo landing page for vulnscope",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/vulnscope-demo",
+        "updated": "2026-06-08T04:23:06Z"
+      },
+      {
+        "name": "netshield",
+        "desc": "\ud83d\udee1\ufe0f NetShield - Network Security Scanner & Dashboard - Python-powered port scanner, SSL checker, and vulnerability detection with a real-time web dashboard",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/netshield",
+        "updated": "2026-06-08T04:21:43Z"
+      },
+      {
+        "name": "device-security-audit",
+        "desc": "\ud83d\udd12 Comprehensive Python security scanner \u2014 audits firewall, ports, AV, encryption, users, services, and more",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/device-security-audit",
+        "updated": "2026-06-08T04:21:41Z"
+      },
+      {
+        "name": "device-security-audit-suite",
+        "desc": "\ud83d\udd12 Comprehensive Python security audit suite \u2014 low-end, mid-end, high-end dev devices + universal scanner. 50+ checks across firewall, ports, AV, encryption, containers, secrets, SSH, kernel hardening, and more.",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/device-security-audit-suite",
+        "updated": "2026-06-08T04:21:40Z"
+      },
+      {
+        "name": "Nettacker",
+        "desc": "Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/Nettacker",
+        "updated": "2026-06-08T04:21:38Z"
+      },
+      {
+        "name": "ShadowSentinel-v2",
+        "desc": "ML-Powered Network Intrusion Detection System with LSTM autoencoder anomaly detection",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/ShadowSentinel-v2",
+        "updated": "2026-06-08T04:21:37Z"
+      },
+      {
+        "name": "AI-Pentest-Agent",
+        "desc": "Autonomous AI penetration testing agent with scanning, reconnaissance, and exploitation modules",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/AI-Pentest-Agent",
+        "updated": "2026-06-08T04:21:36Z"
+      },
+      {
+        "name": "sqltemplate-schema",
+        "desc": "Production-ready PostgreSQL database schema template with users, items, orders, and audit logging",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/sqltemplate-schema",
+        "updated": "2026-06-04T18:36:38Z"
+      },
+      {
+        "name": "javatemplate-app",
+        "desc": "Spring Boot 3.x template with JPA, Security, and H2 database",
+        "stars": 1,
+        "lang": "Java",
+        "url": "https://github.com/mayank-dev-15/javatemplate-app",
+        "updated": "2026-06-04T18:36:30Z"
+      },
+      {
+        "name": "ferrothorn",
+        "desc": "Blazing-fast async port scanner with service fingerprinting \u2014 written in Rust",
+        "stars": 1,
+        "lang": "Rust",
+        "url": "https://github.com/mayank-dev-15/ferrothorn",
+        "updated": "2026-06-04T17:45:19Z"
+      },
+      {
+        "name": "vulnscope",
+        "desc": "Automated Vulnerability Intelligence Platform",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/vulnscope",
+        "updated": "2026-06-04T17:41:37Z"
+      },
+      {
+        "name": "ActionScope",
+        "desc": "Map the AWS blast radius of GitHub Actions workflows. Detects compromised actions, OIDC misconfigurations, script injection, and privilege escalation paths.",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/ActionScope",
+        "updated": "2026-06-03T17:45:11Z"
+      }
+    ],
+    "Interactive Visualizations": [
+      {
+        "name": "spectrograph-demo",
+        "desc": "Demo landing page for spectrograph",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/spectrograph-demo",
+        "updated": "2026-06-08T04:23:02Z"
+      },
+      {
+        "name": "wave-simulator-demo",
+        "desc": "Demo landing page for wave-simulator",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/wave-simulator-demo",
+        "updated": "2026-06-08T04:23:02Z"
+      },
+      {
+        "name": "neural-network-viz-demo",
+        "desc": "Demo landing page for neural-network-viz",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/neural-network-viz-demo",
+        "updated": "2026-06-08T04:23:01Z"
+      },
+      {
+        "name": "particle-universe-demo",
+        "desc": "Demo landing page for particle-universe",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/particle-universe-demo",
+        "updated": "2026-06-08T04:23:01Z"
+      },
+      {
+        "name": "nebula-dashboard-demo",
+        "desc": "Demo landing page for nebula-dashboard",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/nebula-dashboard-demo",
+        "updated": "2026-06-08T04:22:04Z"
+      },
+      {
+        "name": "maze-generator-demo",
+        "desc": "Demo landing page for maze-generator",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/maze-generator-demo",
+        "updated": "2026-06-08T04:22:03Z"
+      },
+      {
+        "name": "hexagonal-life-demo",
+        "desc": "Demo landing page for hexagonal-life",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/hexagonal-life-demo",
+        "updated": "2026-06-08T04:22:02Z"
+      },
+      {
+        "name": "gravity-simulator-demo",
+        "desc": "Demo landing page for gravity-simulator",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/gravity-simulator-demo",
+        "updated": "2026-06-08T04:22:01Z"
+      },
+      {
+        "name": "cyberpunk-terminal-demo",
+        "desc": "Demo landing page for cyberpunk-terminal",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/cyberpunk-terminal-demo",
+        "updated": "2026-06-08T04:22:00Z"
+      },
+      {
+        "name": "fractal-explorer-demo",
+        "desc": "Demo landing page for fractal-explorer",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/fractal-explorer-demo",
+        "updated": "2026-06-08T04:22:00Z"
+      },
+      {
+        "name": "Neural-Network-Playground",
+        "desc": "Interactive visual deep learning framework with drag-and-drop network builder and real-time training visualization",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/Neural-Network-Playground",
+        "updated": "2026-06-08T04:21:00Z"
+      },
+      {
+        "name": "devdash",
+        "desc": "\ud83d\udda5\ufe0f Terminal Developer Dashboard \u2014 system info, git stats, todos, network. Zero dependencies.",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/devdash",
+        "updated": "2026-06-04T17:59:46Z"
+      },
+      {
+        "name": "gravity-simulator",
+        "desc": "N-body orbital mechanics simulator \u2014 solar system, binary stars, three-body problem, galaxy collision with realistic Newtonian gravity",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/gravity-simulator",
+        "updated": "2026-06-04T17:47:25Z"
+      },
+      {
+        "name": "fractal-explorer",
+        "desc": "Interactive fractal explorer \u2014 Mandelbrot, Julia, Burning Ship, Newton fractals with zoom, color palettes, and split-screen comparison",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/fractal-explorer",
+        "updated": "2026-06-04T17:45:19Z"
+      },
+      {
+        "name": "hexagonal-life",
+        "desc": "Conway's Game of Life on a hexagonal grid \u2014 multiple rule sets, preset patterns, age coloring, zoom/pan, and custom rules",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/hexagonal-life",
+        "updated": "2026-06-04T17:45:17Z"
+      },
+      {
+        "name": "maze-generator",
+        "desc": "Procedural maze generator with 5 generation algorithms and 5 pathfinding algorithms \u2014 animated visualization, side-by-side comparison",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/maze-generator",
+        "updated": "2026-06-04T17:44:33Z"
+      },
+      {
+        "name": "nebula-dashboard",
+        "desc": "Real-time data visualization dashboard with animated charts, metrics, and cyberpunk dark theme",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/nebula-dashboard",
+        "updated": "2026-06-04T17:44:33Z"
+      },
+      {
+        "name": "neural-network-viz",
+        "desc": "Interactive neural network builder \u2014 visual architecture designer, animated forward pass, train on XOR/circle datasets with real-time loss curves",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/neural-network-viz",
+        "updated": "2026-06-04T17:44:32Z"
+      },
+      {
+        "name": "particle-universe",
+        "desc": "Interactive particle physics simulator \u2014 thousands of particles with mouse interaction, color themes, and real-time controls",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/particle-universe",
+        "updated": "2026-06-04T17:44:31Z"
+      },
+      {
+        "name": "spectrograph",
+        "desc": "Real-time audio visualizer \u2014 frequency bars, waveform, circular, spectrogram, and particle modes with beat detection",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/spectrograph",
+        "updated": "2026-06-04T17:44:30Z"
+      },
+      {
+        "name": "wave-simulator",
+        "desc": "Physics-based wave interference simulator \u2014 multiple sources, interference patterns, presets for double-slit, Doppler, and resonance",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/wave-simulator",
+        "updated": "2026-06-04T17:44:29Z"
+      },
+      {
+        "name": "cyberpunk-terminal",
+        "desc": "Interactive cyberpunk terminal emulator with 20+ commands, CRT effects, and simulated filesystem",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/cyberpunk-terminal",
+        "updated": "2026-06-04T17:41:34Z"
+      }
+    ],
+    "Full-Stack Apps": [
+      {
+        "name": "taskflow",
+        "desc": "\ud83d\udccb Project management with kanban, calendar, team collaboration \u2014 HTML, JS, Python",
+        "stars": 1,
+        "lang": "JavaScript",
+        "url": "https://github.com/mayank-dev-15/taskflow",
+        "updated": "2026-06-08T04:23:25Z"
+      },
+      {
+        "name": "studyhub",
+        "desc": "\ud83d\udcda Student portal with courses, assignments, grades & admin panel \u2014 HTML, JS, Python",
+        "stars": 1,
+        "lang": "JavaScript",
+        "url": "https://github.com/mayank-dev-15/studyhub",
+        "updated": "2026-06-08T04:23:24Z"
+      },
+      {
+        "name": "devdash-demo",
+        "desc": "Demo landing page for devdash",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/devdash-demo",
+        "updated": "2026-06-08T04:23:23Z"
+      },
+      {
+        "name": "tstemplate-react-demo",
+        "desc": "Demo landing page for tstemplate-react",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/tstemplate-react-demo",
+        "updated": "2026-06-08T04:23:07Z"
+      },
+      {
+        "name": "xrp-agency-management-demo",
+        "desc": "Demo landing page for xrp-agency-management",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/xrp-agency-management-demo",
+        "updated": "2026-06-08T04:23:04Z"
+      },
+      {
+        "name": "taskflow-demo",
+        "desc": "Demo landing page for taskflow",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/taskflow-demo",
+        "updated": "2026-06-08T04:21:58Z"
+      },
+      {
+        "name": "devforge-demo",
+        "desc": "Demo landing page for devforge",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/devforge-demo",
+        "updated": "2026-06-08T04:21:53Z"
+      },
+      {
+        "name": "studyhub-demo",
+        "desc": "Demo landing page for studyhub",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/studyhub-demo",
+        "updated": "2026-06-08T04:21:52Z"
+      },
+      {
+        "name": "devforge",
+        "desc": "\u26a1 Developer tools hub \u2014 JSON formatter, regex tester, hash generator, API playground \u2014 HTML, JS, Python",
+        "stars": 1,
+        "lang": "JavaScript",
+        "url": "https://github.com/mayank-dev-15/devforge",
+        "updated": "2026-06-08T04:21:45Z"
+      },
+      {
+        "name": "tstemplate-react",
+        "desc": "React TypeScript component library template with Vite, CSS modules, tests",
+        "stars": 1,
+        "lang": "TypeScript",
+        "url": "https://github.com/mayank-dev-15/tstemplate-react",
+        "updated": "2026-06-04T18:36:42Z"
+      },
+      {
+        "name": "xrp-agency-management",
+        "desc": "An open-source AI-assisted agency management system with CRM, projects, invoices, team management, RBAC, and RTL-first UI.",
+        "stars": 1,
+        "lang": "TypeScript",
+        "url": "https://github.com/mayank-dev-15/xrp-agency-management",
+        "updated": "2026-06-04T17:41:40Z"
+      },
+      {
+        "name": "why-did-you-render",
+        "desc": "why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/why-did-you-render",
+        "updated": "2026-06-04T03:48:37Z"
+      },
+      {
+        "name": "next.js",
+        "desc": "The React Framework",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/next.js",
+        "updated": "2026-06-03T17:45:01Z"
+      }
+    ],
+    "CLI Templates & Libraries": [
+      {
+        "name": "cpptemplate-system-demo",
+        "desc": "Demo landing page for cpptemplate-system",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/cpptemplate-system-demo",
+        "updated": "2026-06-08T04:23:24Z"
+      },
+      {
+        "name": "cpptemplate-algo-demo",
+        "desc": "Demo landing page for cpptemplate-algo",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/cpptemplate-algo-demo",
+        "updated": "2026-06-08T04:23:24Z"
+      },
+      {
+        "name": "javatemplate-utils-demo",
+        "desc": "Demo landing page for javatemplate-utils",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/javatemplate-utils-demo",
+        "updated": "2026-06-08T04:23:22Z"
+      },
+      {
+        "name": "javatemplate-app-demo",
+        "desc": "Demo landing page for javatemplate-app",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/javatemplate-app-demo",
+        "updated": "2026-06-08T04:23:22Z"
+      },
+      {
+        "name": "gotemplate-cli-demo",
+        "desc": "Demo landing page for gotemplate-cli",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/gotemplate-cli-demo",
+        "updated": "2026-06-08T04:23:22Z"
+      },
+      {
+        "name": "pytemplate-cli-demo",
+        "desc": "Demo landing page for pytemplate-cli",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/pytemplate-cli-demo",
+        "updated": "2026-06-08T04:23:21Z"
+      },
+      {
+        "name": "sqltemplate-queries-demo",
+        "desc": "Demo landing page for sqltemplate-queries",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/sqltemplate-queries-demo",
+        "updated": "2026-06-08T04:23:10Z"
+      },
+      {
+        "name": "sqltemplate-schema-demo",
+        "desc": "Demo landing page for sqltemplate-schema",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/sqltemplate-schema-demo",
+        "updated": "2026-06-08T04:23:09Z"
+      },
+      {
+        "name": "tstemplate-node-demo",
+        "desc": "Demo landing page for tstemplate-node",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/tstemplate-node-demo",
+        "updated": "2026-06-08T04:23:07Z"
+      },
+      {
+        "name": "owl-agent",
+        "desc": "\ud83e\udd89 OWL Agent \u2014 Advanced AI agent with OCR, tool use, CLI + GUI. Powered by OpenRouter.",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/owl-agent",
+        "updated": "2026-06-08T04:21:51Z"
+      },
+      {
+        "name": "tstemplate-node",
+        "desc": "Node.js TypeScript template with strict config, Jest tests",
+        "stars": 1,
+        "lang": "TypeScript",
+        "url": "https://github.com/mayank-dev-15/tstemplate-node",
+        "updated": "2026-06-04T18:36:40Z"
+      },
+      {
+        "name": "sqltemplate-queries",
+        "desc": "Advanced SQL query patterns: CTEs, window functions, joins, subqueries, and optimization",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/sqltemplate-queries",
+        "updated": "2026-06-04T18:36:37Z"
+      },
+      {
+        "name": "javatemplate-utils",
+        "desc": "Reusable Java utility library for strings, collections, validation, and file I/O",
+        "stars": 1,
+        "lang": "Java",
+        "url": "https://github.com/mayank-dev-15/javatemplate-utils",
+        "updated": "2026-06-04T18:36:33Z"
+      },
+      {
+        "name": "cpptemplate-system",
+        "desc": "C++20 systems programming template with networking, threading, and filesystem utilities",
+        "stars": 1,
+        "lang": "C++",
+        "url": "https://github.com/mayank-dev-15/cpptemplate-system",
+        "updated": "2026-06-04T18:36:24Z"
+      },
+      {
+        "name": "cpptemplate-algo",
+        "desc": "C++20 template library with sorting, searching, graph algorithms, and data structures",
+        "stars": 1,
+        "lang": "C++",
+        "url": "https://github.com/mayank-dev-15/cpptemplate-algo",
+        "updated": "2026-06-04T18:36:22Z"
+      },
+      {
+        "name": "pytemplate-cli",
+        "desc": "Professional Python CLI tool template with argparse, logging, config management, rich output",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/pytemplate-cli",
+        "updated": "2026-06-04T17:45:20Z"
+      },
+      {
+        "name": "gotemplate-cli",
+        "desc": "Professional Go CLI template with cobra, viper, logrus",
+        "stars": 1,
+        "lang": "Go",
+        "url": "https://github.com/mayank-dev-15/gotemplate-cli",
+        "updated": "2026-06-04T17:44:38Z"
+      },
+      {
+        "name": "authlib",
+        "desc": "The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS, JWE, JWK, JWA, JWT included.",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/authlib",
+        "updated": "2026-06-04T03:48:35Z"
+      },
+      {
+        "name": "turso-cli",
+        "desc": "Command line interface to the Turso Cloud.",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/turso-cli",
+        "updated": "2026-06-04T03:48:34Z"
+      },
+      {
+        "name": "dbeaver",
+        "desc": "Free universal database tool and SQL client",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/dbeaver",
+        "updated": "2026-06-04T03:48:26Z"
+      },
+      {
+        "name": "kopia",
+        "desc": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/kopia",
+        "updated": "2026-06-04T03:48:14Z"
+      }
+    ],
+    "SQL Templates": [
+      {
+        "name": "sqlmap",
+        "desc": "Automatic SQL injection and database takeover tool",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/sqlmap",
+        "updated": "2026-06-03T17:45:05Z"
+      }
+    ],
+    "Linux & OS": [
+      {
+        "name": "uptime-kuma",
+        "desc": "A fancy self-hosted monitoring tool",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/uptime-kuma",
+        "updated": "2026-06-04T03:48:15Z"
+      },
+      {
+        "name": "biopython",
+        "desc": "Official git repository for Biopython (originally converted from CVS)",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/biopython",
+        "updated": "2026-06-03T17:45:04Z"
+      }
+    ],
+    "AI/ML": [
+      {
+        "name": "gitsnap-demo",
+        "desc": "Demo landing page for gitsnap",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/gitsnap-demo",
+        "updated": "2026-06-08T04:23:22Z"
+      },
+      {
+        "name": "goforge-demo",
+        "desc": "Demo landing page for goforge",
+        "stars": 1,
+        "lang": "HTML",
+        "url": "https://github.com/mayank-dev-15/goforge-demo",
+        "updated": "2026-06-08T04:23:22Z"
+      },
+      {
+        "name": "goforge",
+        "desc": "Real-Time Log Analytics Engine \u2014 pattern detection, anomaly alerting, built in Go",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/goforge",
+        "updated": "2026-06-04T17:41:38Z"
+      },
+      {
+        "name": "manim",
+        "desc": "A community-maintained Python framework for creating mathematical animations. ",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/manim",
+        "updated": "2026-06-03T17:45:08Z"
+      },
+      {
+        "name": "kubernetes",
+        "desc": "Production-Grade Container Scheduling and Management",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/kubernetes",
+        "updated": "2026-06-03T17:45:02Z"
+      },
+      {
+        "name": "Jailbreaks-For-All-AI",
+        "desc": "Jailbreaks GPT, Sora, Claude, Gemini ,deepseek this prompt unlocks rage mode",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/Jailbreaks-For-All-AI",
+        "updated": "2026-06-03T17:45:00Z"
+      }
+    ],
+    "Other": [
+      {
+        "name": "student-study-hub",
+        "desc": "Free offline student toolkit \u2014 30+ tools for GPA, scheduling, flashcards, coding & more",
+        "stars": 0,
+        "lang": "JavaScript",
+        "url": "https://github.com/mayank-dev-15/student-study-hub",
+        "updated": "2026-06-08T10:18:04Z"
+      },
+      {
+        "name": "mayank-dev-15",
+        "desc": "My Bio",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/mayank-dev-15",
+        "updated": "2026-06-08T05:34:46Z"
+      },
+      {
+        "name": "gitsnap",
+        "desc": "\ud83d\udcf8 Instant git snapshot & rollback tool \u2014 zero dependencies, single Node.js file",
+        "stars": 1,
+        "lang": "JavaScript",
+        "url": "https://github.com/mayank-dev-15/gitsnap",
+        "updated": "2026-06-08T04:21:48Z"
+      },
+      {
+        "name": "pykit-utils",
+        "desc": "\ud83d\udc0d PyKit - Python Utility Library - String, file, network, crypto, datetime, and validation utilities. pip install pykit-utils",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/pykit-utils",
+        "updated": "2026-06-08T04:21:43Z"
+      },
+      {
+        "name": "codeforge",
+        "desc": "\u26a1 CodeForge - All-in-One Developer Tools Suite - JSON formatter, regex tester, hash generator, base64, JWT decoder, QR generator, and more",
+        "stars": 1,
+        "lang": "Python",
+        "url": "https://github.com/mayank-dev-15/codeforge",
+        "updated": "2026-06-08T04:21:43Z"
+      },
+      {
+        "name": "lldap",
+        "desc": "Light LDAP implementation",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/lldap",
+        "updated": "2026-06-04T03:48:32Z"
+      },
+      {
+        "name": "syncthing",
+        "desc": "Open Source Continuous File Synchronization",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/syncthing",
+        "updated": "2026-06-04T03:48:12Z"
+      },
+      {
+        "name": "lobe-chat",
+        "desc": null,
+        "stars": 1,
+        "lang": "TypeScript",
+        "url": "https://github.com/mayank-dev-15/lobe-chat",
+        "updated": "2026-06-04T02:53:36Z"
+      },
+      {
+        "name": "Python-Honeypot",
+        "desc": "OWASP Honeypot, Automated Deception Framework.",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/Python-Honeypot",
+        "updated": "2026-06-03T17:45:16Z"
+      },
+      {
+        "name": "ghidra",
+        "desc": "Ghidra is a software reverse engineering (SRE) framework",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/ghidra",
+        "updated": "2026-06-03T17:45:15Z"
+      },
+      {
+        "name": "Observal",
+        "desc": "Observal is a unified platform for agent distribution, observability and insights. ",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/Observal",
+        "updated": "2026-06-03T17:45:13Z"
+      },
+      {
+        "name": "rucio",
+        "desc": "Rucio - Scientific Data Management",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/rucio",
+        "updated": "2026-06-03T17:45:12Z"
+      },
+      {
+        "name": "angr",
+        "desc": "A powerful and user-friendly binary analysis platform!",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/angr",
+        "updated": "2026-06-03T17:45:10Z"
+      },
+      {
+        "name": "three.js",
+        "desc": "JavaScript 3D Library.",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/three.js",
+        "updated": "2026-06-03T17:45:06Z"
+      },
+      {
+        "name": "meson",
+        "desc": "The Meson Build System",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/meson",
+        "updated": "2026-06-03T17:45:06Z"
+      },
+      {
+        "name": "packer",
+        "desc": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+        "stars": 1,
+        "lang": null,
+        "url": "https://github.com/mayank-dev-15/packer",
+        "updated": "2026-06-03T17:45:03Z"
+      }
+    ]
+  }
+}

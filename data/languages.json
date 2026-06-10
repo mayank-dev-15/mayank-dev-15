@@ -1,118 +1,112 @@
 {
-  "total_bytes": 464370432,
+  "total_bytes": 255853393,
   "languages": [
     {
       "name": "Java",
       "bytes": 134615953,
-      "percentage": 29.0,
+      "percentage": 52.6,
       "color": "#b07219"
     },
     {
-      "name": "Go",
-      "bytes": 99477733,
-      "percentage": 21.4,
-      "color": "#00ADD8"
-    },
-    {
-      "name": "TypeScript",
-      "bytes": 68788613,
-      "percentage": 14.8,
-      "color": "#3178c6"
-    },
-    {
       "name": "Python",
-      "bytes": 62285261,
-      "percentage": 13.4,
+      "bytes": 62256099,
+      "percentage": 24.3,
       "color": "#3572A5"
     },
     {
       "name": "JavaScript",
-      "bytes": 56217047,
-      "percentage": 12.1,
+      "bytes": 18073703,
+      "percentage": 7.1,
       "color": "#f1e05a"
     },
     {
       "name": "HTML",
-      "bytes": 12680703,
-      "percentage": 2.7,
+      "bytes": 12505725,
+      "percentage": 4.9,
       "color": "#e34c26"
     },
     {
-      "name": "Rust",
-      "bytes": 11047910,
-      "percentage": 2.4,
-      "color": "#dea584"
+      "name": "Go",
+      "bytes": 9437799,
+      "percentage": 3.7,
+      "color": "#00ADD8"
     },
     {
       "name": "C++",
       "bytes": 7311832,
-      "percentage": 1.6,
+      "percentage": 2.9,
       "color": "#f34b7d"
     },
     {
-      "name": "Shell",
-      "bytes": 2970702,
-      "percentage": 0.6,
-      "color": "#89e051"
+      "name": "C",
+      "bytes": 2848693,
+      "percentage": 1.1,
+      "color": "#555555"
     },
     {
-      "name": "C",
-      "bytes": 2852898,
-      "percentage": 0.6,
-      "color": "#555555"
+      "name": "TypeScript",
+      "bytes": 1940574,
+      "percentage": 0.8,
+      "color": "#3178c6"
+    },
+    {
+      "name": "Rust",
+      "bytes": 1164459,
+      "percentage": 0.5,
+      "color": "#dea584"
     },
     {
       "name": "Vue",
       "bytes": 1081121,
-      "percentage": 0.2,
+      "percentage": 0.4,
       "color": "#41b883"
     },
     {
-      "name": "CSS",
-      "bytes": 915174,
-      "percentage": 0.2,
-      "color": "#663399"
-    },
-    {
-      "name": "MDX",
-      "bytes": 893812,
-      "percentage": 0.2,
-      "color": "#fcb32c"
+      "name": "Shell",
+      "bytes": 822717,
+      "percentage": 0.3,
+      "color": "#89e051"
     },
     {
       "name": "Meson",
       "bytes": 775690,
-      "percentage": 0.2,
+      "percentage": 0.3,
       "color": "#007800"
     },
     {
       "name": "Roff",
-      "bytes": 610795,
-      "percentage": 0.1,
+      "bytes": 607398,
+      "percentage": 0.2,
       "color": "#ecdebe"
+    },
+    {
+      "name": "MDX",
+      "bytes": 518061,
+      "percentage": 0.2,
+      "color": "#fcb32c"
     },
     {
       "name": "Parrot",
       "bytes": 454926,
-      "percentage": 0.1,
+      "percentage": 0.2,
       "color": "#f3ca0a"
     },
     {
-      "name": "PowerShell",
-      "bytes": 230124,
-      "percentage": 0.0,
-      "color": "#012456"
+      "name": "CSS",
+      "bytes": 376568,
+      "percentage": 0.1,
+      "color": "#663399"
     },
     {
       "name": "HCL",
       "bytes": 209427,
-      "percentage": 0.0,
+      "percentage": 0.1,
       "color": "#844FBA"
     },
     {
       "name": "Yacc",
       "bytes": 129414,
-      "percentage": 0.0,
+      "percentage": 0.1,
       "color": "#4B6C4B"
     },
     {
@@ -128,16 +122,16 @@
       "color": "#0000cc"
     },
     {
-      "name": "Makefile",
-      "bytes": 105217,
+      "name": "PowerShell",
+      "bytes": 82663,
       "percentage": 0.0,
-      "color": "#427819"
+      "color": "#012456"
     },
     {
-      "name": "Dockerfile",
-      "bytes": 94344,
+      "name": "Makefile",
+      "bytes": 53313,
       "percentage": 0.0,
-      "color": "#384d54"
+      "color": "#427819"
     },
     {
       "name": "GLSL",
@@ -170,22 +164,16 @@
       "color": "#DA3434"
     },
     {
-      "name": "Gherkin",
-      "bytes": 32273,
+      "name": "Dockerfile",
+      "bytes": 35165,
       "percentage": 0.0,
-      "color": "#5B2063"
+      "color": "#384d54"
     },
     {
       "name": "SCSS",
-      "bytes": 24378,
+      "bytes": 16041,
       "percentage": 0.0,
       "color": "#c6538c"
-    },
-    {
-      "name": "Go Template",
-      "bytes": 18984,
-      "percentage": 0.0,
-      "color": "#00ADD8"
     },
     {
       "name": "Fortran",
@@ -204,12 +192,6 @@
       "bytes": 10685,
       "percentage": 0.0,
       "color": "#199f4b"
-    },
-    {
-      "name": "PLpgSQL",
-      "bytes": 10499,
-      "percentage": 0.0,
-      "color": "#336790"
     },
     {
       "name": "Nu",
@@ -248,6 +230,12 @@
       "color": "#C1F12E"
     },
     {
+      "name": "Go Template",
+      "bytes": 2973,
+      "percentage": 0.0,
+      "color": "#00ADD8"
+    },
+    {
       "name": "Mako",
       "bytes": 2349,
       "percentage": 0.0,
@@ -266,22 +254,10 @@
       "color": "#0298c3"
     },
     {
-      "name": "TeX",
-      "bytes": 1975,
-      "percentage": 0.0,
-      "color": "#3D6117"
-    },
-    {
       "name": "Jupyter Notebook",
       "bytes": 1541,
       "percentage": 0.0,
       "color": "#DA5B0B"
-    },
-    {
-      "name": "sed",
-      "bytes": 1262,
-      "percentage": 0.0,
-      "color": "#64b970"
     },
     {
       "name": "Ruby",
@@ -296,10 +272,22 @@
       "color": "#178600"
     },
     {
+      "name": "PLpgSQL",
+      "bytes": 536,
+      "percentage": 0.0,
+      "color": "#336790"
+    },
+    {
       "name": "TSQL",
       "bytes": 466,
       "percentage": 0.0,
       "color": "#e38c00"
+    },
+    {
+      "name": "TeX",
+      "bytes": 178,
+      "percentage": 0.0,
+      "color": "#3D6117"
     }
   ]
 }
