@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mayank+Basena;Security+Researcher+%F0%9F%94%92;Custom+OS+Builder+%F0%9F%92%BB;AI+Generalist+%F0%9F%A4%96;GSoC+2027+Aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
 
-🔒 15yo · Security Researcher · Custom OS Builder · AI Generalist · 🐧 PentestOS · ShieldOS · VaultOS · 🛠️ 24+ langs · 115 repos · 5+ OSS · Arduino winner · 🎯 GSoC 2027 · 📍 Nagpur, India
+🔒 15yo · Security Researcher · Custom OS Builder · AI Generalist · 🐧 PentestOS · ShieldOS · VaultOS · 🛠️ 70+ langs · 130 repos · 25+ OSS · Arduino winner · 🎯 GSoC 2027 · 📍 Nagpur, India
 
 </div>
 
@@ -21,18 +21,18 @@
 
 | Metric | Value |
 |--------|-------|
-| 📦 Public Repos | 115 |
+| 📦 Public Repos | 130 |
 | ⭐ Total Stars Earned | 95 |
 | 👥 Followers | 2 |
 | 👤 Following | 0 |
-| 📝 Total Contributions | 393 |
-| 💻 Total Commits | 270 |
-| 🔀 Pull Requests | 12 |
-| 🐛 Issues Opened | 7 |
-| 🗣️ Languages Used | 24+ |
-| ⏱️ Last Synced | 2026-06-10T05:16:06Z | 2026-06-08T05:26:53Z | 2026-06-08T05:26:53Z |
+| 📝 Total Contributions | 490+ |
+| 💻 Total Commits | 310+ |
+| 🔀 Pull Requests | 28 |
+| 🐛 Issues Opened | 9 |
+| 🗣️ Languages Used | 70+ |
+| ⏱️ Last Updated | 2026-06-10 |
 
-### 🚀 All Projects (115 Repos)
+### 🚀 All Projects (130 Repos)
 
 #### 🔒 Security & Infrastructure
 
@@ -94,15 +94,25 @@
 | [SQLTemplate Queries](https://github.com/mayank-dev-15/sqltemplate-queries) | CTEs, window functions, joins, optimization |
 | [SQLTemplate Schema](https://github.com/mayank-dev-15/sqltemplate-schema) | Production-ready PostgreSQL schema |
 
-#### 🛠️ Open Source Contributions
+#### 🛠️ Open Source Contributions (25+ PRs across 15+ repos)
 
-| # | Project | ⭐ | Language |
-|---|---------|---|----------|
-| 1 | [rucio/rucio](https://github.com/rucio/rucio) | 299⭐ | Python |
-| 2 | [r12habh/ActionScope](https://github.com/r12habh/ActionScope) | — | Python |
-| 3 | [mesonbuild/meson](https://github.com/mesonbuild/meson) | 6.5K⭐ | Python |
-| 4 | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | 38.8K⭐ | Python |
-| 5 | [biopython/biopython](https://github.com/biopython/biopython) | 5K⭐ | Python |
+| # | Project | ⭐ | Language | PRs |
+|---|---------|---|----------|-----|
+| 1 | [devanshi14malhotra/BiblioDrift](https://github.com/devanshi14malhotra/BiblioDrift) | 122⭐ | Python, CSS, JS | 6 |
+| 2 | [OWASP/Nettacker](https://github.com/OWASP/Nettacker) | 4.5K⭐ | Python | 2 |
+| 3 | [OWASP/Agent-Security-Regression-Harness](https://github.com/OWASP/Agent-Security-Regression-Harness) | — | Python | 1 |
+| 4 | [r12habh/ActionScope](https://github.com/r12habh/ActionScope) | — | Python | 2 |
+| 5 | [rucio/rucio](https://github.com/rucio/rucio) | 299⭐ | Python | 1 |
+| 6 | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | 38.8K⭐ | Python | 1 |
+| 7 | [biopython/biopython](https://github.com/biopython/biopython) | 5K⭐ | Python | 1 |
+| 8 | [imDarshanGK/localmind](https://github.com/imDarshanGK/localmind) | 4⭐ | Python, JSX | 1 |
+| 9 | [imDarshanGK/AI-dev-assistant](https://github.com/imDarshanGK/AI-dev-assistant) | — | Python | 1 |
+| 10 | [Anamandla/SwiftPay](https://github.com/Anamandla/SwiftPay) | 20⭐ | Python | 3 |
+| 11 | [Binary-Blender/sigil](https://github.com/Binary-Blender/sigil) | — | Python | 1 |
+| 12 | [plenoai/pleno-dlp](https://github.com/plenoai/pleno-dlp) | — | Python | 1 |
+| 13 | [qgis/QGIS-Website](https://github.com/qgis/QGIS-Website) | — | HTML | 1 |
+| 14 | [mesonbuild/meson](https://github.com/mesonbuild/meson) | 6.5K⭐ | Python | 1 |
+| — | + more repos (aegis, llm-tools-rag, simpleeval, marshmallow-security-scan, xrp-agency) | — | — | 5 |
 
 ### 🐧 Linux & OS Development
 
@@ -160,11 +170,11 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🥇 Security Toolmaker       — 20 security tools
 🥇 Visualization Master     — 27 visualization projects
-🥇 Open Source Contributor  — 12 PRs merged
-🥇 Linux & OS Architect    — 1 OS projects
+🥇 Open Source Contributor  — 28 PRs across 15+ repos
+🥇 Linux & OS Architect    — 3 OS projects
 🥇 Full-Stack Builder       — 8 apps + admin panels
 🥇 Hardware Hacker          — Arduino winner, SBCs
-🥇 Polyglot Developer       — 24+ languages
+🥇 Polyglot Developer       — 70+ languages
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ⭐ Total Trophies: 7/7 ⭐
 ```
