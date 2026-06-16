@@ -9,6 +9,16 @@
 
 ---
 
+> ### 🧠 No AI. No Shortcuts. No Excuses.
+>
+> Every single line of code in every single one of my 189 repositories was **written by hand**. No GitHub Copilot. No ChatGPT. No AI code generators. No automated scaffolding.
+>
+> I believe in understanding things from the ground up. When you write something yourself — really write it — you own every byte of it. There's no black box. No mystery. Just pure, intentional craft.
+>
+> *"The best code is code you understand completely."*
+
+---
+
 ### 🎯 What I Do
 
 - 🛡️ **Security & Infrastructure** — Vulnerability intelligence platforms, network intrusion detection, advanced port scanners
