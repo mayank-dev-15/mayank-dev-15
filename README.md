@@ -22,18 +22,18 @@
 
 | Metric | Value |
 |--------|-------|
-| 📦 Public Repos | 183 |
-| ⭐ Total Stars Earned | 95 |
+| 📦 Public Repos | 188 |
+| ⭐ Total Stars Earned | 173 |
 | 👥 Followers | 2 |
 | 👤 Following | 0 |
-| 📝 Total Contributions | 490+ |
-| 💻 Total Commits | 310+ |
-| 🔀 Pull Requests | 28 |
-| 🐛 Issues Opened | 9 |
+| 📝 Total Contributions | 621 |
+| 💻 Total Commits | 296 |
+| 🔀 Pull Requests | 114 |
+| 🐛 Issues Opened | 81 |
 | 🗣️ Languages Used | 70+ |
-| ⏱️ Last Updated | 2026-06-10 |
+| ⏱️ Last Updated | 2026-06-16 |
 
-### 🚀 All Projects (183 Repos)
+### 🚀 All Projects (188 Repos)
 
 #### 🔒 Security & Infrastructure
 
