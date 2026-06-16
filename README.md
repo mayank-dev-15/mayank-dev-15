@@ -22,18 +22,18 @@
 
 | Metric | Value |
 |--------|-------|
-| 📦 Public Repos | 188 |
+| 📦 Public Repos | 189 |
 | ⭐ Total Stars Earned | 173 |
 | 👥 Followers | 2 |
 | 👤 Following | 0 |
 | 📝 Total Contributions | 621 |
-| 💻 Total Commits | 296 |
+| 💻 Total Commits | 490 |
 | 🔀 Pull Requests | 114 |
 | 🐛 Issues Opened | 81 |
 | 🗣️ Languages Used | 70+ |
 | ⏱️ Last Updated | 2026-06-16 |
 
-### 🚀 All Projects (188 Repos)
+### 🚀 All Projects (189 Repos)
 
 #### 🔒 Security & Infrastructure
 
@@ -189,7 +189,7 @@ I've contributed documentation, security improvements, and features to **30+ ope
 | 37 | [AynOps](https://github.com/AynOps/AynOps) | HTTP Security Headers Analyzer |
 | 38 | [woolang](https://github.com/cinogama/woolang) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
 
-> Total: **114+ PRs** across **38+ repositories** | **296 commits** | **621 contributions** in the last year
+> Total: **114+ PRs** across **38+ repositories** | **490 commits** | **621 contributions** in the last year
 
 
 ### 📫 Connect
