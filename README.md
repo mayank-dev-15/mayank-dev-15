@@ -144,6 +144,54 @@
 | HomeLab OS | Lightweight self-hosted server OS |
 
 
+### 🙏 Open Source Contributions
+
+I've contributed documentation, security improvements, and features to **30+ open source projects**:
+
+| # | Project | Contribution |
+|---|---------|-------------|
+| 1 | [BiblioDrift](https://github.com/devanshi14malhotra/BiblioDrift) | Security fixes, CORS, JWT auth, DB connection handling (12+ PRs) |
+| 2 | [Nettacker](https://github.com/OWASP/Nettacker) | OWASP security tool improvements |
+| 3 | [rustdesk](https://github.com/rustdesk/rustdesk) | CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md |
+| 4 | [dokku](https://github.com/dokku/dokku) | CONTRIBUTING.md, SECURITY.md |
+| 5 | [jellyfin](https://github.com/jellyfin/jellyfin) | SECURITY.md |
+| 6 | [sherlock](https://github.com/sherlock-project/sherlock) | CONTRIBUTING.md, SECURITY.md |
+| 7 | [localsend](https://github.com/localsend/localsend) | SECURITY.md |
+| 8 | [manim](https://github.com/ManimCommunity/manim) | Documentation improvements |
+| 9 | [meson](https://github.com/mesonbuild/meson) | Build system docs |
+| 10 | [biopython](https://github.com/biopython/biopython) | Documentation fixes |
+| 11 | [localmind](https://github.com/imDarshanGK/localmind) | Security & UX improvements (5+ PRs) |
+| 12 | [AI-dev-assistant](https://github.com/imDarshanGK/AI-dev-assistant) | Backend fixes, CORS, email validation (5+ PRs) |
+| 13 | [contextweaver](https://github.com/dgenio/contextweaver) | Colab badge & notebook gallery |
+| 14 | [RemindKaro](https://github.com/Remind-Karo/RemindKaro) | Security, UX, pre-commit hooks (15+ PRs) |
+| 15 | [450-dsa](https://github.com/mohitkumhar/450-dsa) | Security fixes, CSRF, input validation (5+ PRs) |
+| 16 | [nullfeed-backend](https://github.com/windoze95/nullfeed-backend) | Video download security fixes |
+| 17 | [notebook-utils](https://github.com/niro1-1/notebook-utils) | Error handling for data loader |
+| 18 | [SwiftPay](https://github.com/Anamandla/SwiftPay) | Payment security improvements |
+| 19 | [relayer](https://github.com/across-protocol/relayer) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
+| 20 | [caracal](https://github.com/Garudex-Labs/caracal) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
+| 21 | [openusage](https://github.com/janekbaraniewski/openusage) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
+| 22 | [boardsesh](https://github.com/boardsesh/boardsesh) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
+| 23 | [overte](https://github.com/overte-org/overte) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
+| 24 | [loushang](https://github.com/zhnt/loushang) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
+| 25 | [gforth](https://github.com/forthy42/gforth) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
+| 26 | [Eva01](https://github.com/Genesis1231/Eva01) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
+| 27 | [tiktok-trending-data](https://github.com/antiops/tiktok-trending-data) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
+| 28 | [databricks/cli](https://github.com/databricks/cli) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
+| 29 | [webscan](https://github.com/lutzashl290788-cell/webscan) | Security.txt best-practice check plugin |
+| 30 | [jarvis-sandbox](https://github.com/sirjarvis751-stack/jarvis-sandbox) | README typo fix |
+| 31 | [reel-forge](https://github.com/AjayKudipudi/reel-forge) | HF_TOKEN optional fix |
+| 32 | [deterministic-horizon](https://github.com/bettyguo/deterministic-horizon) | CLI wiring fix |
+| 33 | [rdf-construct](https://github.com/aigora-de/rdf-construct) | Relative path fixes for docs |
+| 34 | [aws-sam-cli](https://github.com/bnusunny/aws-sam-cli) | Retry decorator exception context |
+| 35 | [pyinfra](https://github.com/pyinfra-dev/pyinfra) | DebPackage fact fix |
+| 36 | [LiveEdit](https://github.com/clencyc/LiveEdit) | Dark mode persistence |
+| 37 | [AynOps](https://github.com/AynOps/AynOps) | HTTP Security Headers Analyzer |
+| 38 | [woolang](https://github.com/cinogama/woolang) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
+
+> Total: **114+ PRs** across **38+ repositories** | **296 commits** | **621 contributions** in the last year
+
+
 ### 📫 Connect
 
 - 📧 **Email:** [0mayankbasena@gmail.com](mailto:0mayankbasena@gmail.com)
