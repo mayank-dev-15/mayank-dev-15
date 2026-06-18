@@ -105,10 +105,7 @@
 
 | Project | Description |
 |---------|-------------|
-| VulnScope v3 | Real-time WebSocket CVE feed with exploit correlation |
-| PentestOS v2 | 200+ tools with automated recon |
 | KernelProbe | Linux kernel debugging toolkit |
-| HomeLab OS | Lightweight self-hosted server OS |
 
 ### 📫 Connect
 
