@@ -56,20 +56,7 @@
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-dev-15&theme=tokyonight&hide_border=true&bg_color=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9">
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mayank-dev-15&theme=tokyonight&no-frame=true&column=7&bg_color=0d1117">
-
-</td>
-</tr>
-</table>
 
 ---
 
