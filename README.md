@@ -25,196 +25,137 @@
 - 🤖 **AI/ML** — Anomaly detection, risk scoring, neural network visualization, LLM jailbreak research
 - 🔧 **Hardware & Embedded** — Arduino, SBCs, firmware flashing, circuit design, IoT protocols
 
+---
+
+<div align="center">
+
 ### 📊 GitHub Stats
 
-| Metric | Value |
-|--------|-------|
-| 📦 Public Repos | 191 |
-| ⭐ Total Stars | 171 |
-| 🔀 Forks | 0 |
-| ❗ Open Issues | 61 |
-| 💻 Languages | 11 |
-| 👥 Followers | 6 |
+<img src="https://github-readme-stats.vercel.app/api?username=mayank-dev-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-dev-15&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-dev-15&theme=tokyonight&hide_border=true" width="60%">
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mayank-dev-15&theme=tokyonight&no-frame=true&column=7" width="80%">
+
+</div>
+
+---
 
 ### 🚀 Featured Projects
 
-#### 🔒 Security & Infrastructure
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Stack | Stars | Description |
-|---------|-------|-------|-------------|
-| [VulnScope](https://github.com/mayank-dev-15/vulnscope) | Python, FastAPI, React | ⭐2 | Automated Vulnerability Intelligence Platform — CVE tracking, exploit correlation, risk scoring |
-| [VulnScope v2](https://github.com/mayank-dev-15/vulnscope-v2) | Python, WebSocket | ⭐2 | Real-time WebSocket CVE feed with exploit correlation engine and live dashboard |
-| [ShadowSentinel](https://github.com/mayank-dev-15/shadowsentinel) | Python, FastAPI, ML | ⭐2 | AI-Powered Network Intrusion Detection System — real-time packet analysis, MITRE ATT&CK mapping |
-| [ShadowSentinel v2](https://github.com/mayank-dev-15/ShadowSentinel-v2) | Python, PyTorch, Scapy | ⭐2 | ML-Powered NIDS with LSTM Autoencoder anomaly detection |
-| [AI Pentest Agent](https://github.com/mayank-dev-15/AI-Pentest-Agent) | Python, asyncio | ⭐2 | Autonomous AI penetration testing agent with scanning, recon, and exploitation modules |
-| [Ferrothorn](https://github.com/mayank-dev-15/ferrothorn) | Rust, Tokio | ⭐2 | Blazing-fast async port scanner with service fingerprinting |
-| [NetShield](https://github.com/mayank-dev-15/netshield) | Python | ⭐2 | Network Security Scanner & Dashboard — port scanner, SSL checker, vulnerability detection |
-| [Device Security Audit Suite](https://github.com/mayank-dev-15/device-security-audit-suite) | Python | ⭐2 | 50+ security checks across firewall, ports, AV, encryption |
-| [SnapLock](https://github.com/mayank-dev-15/snaplock) | Bash | ⭐2 | AES-256 file encryption — single script, zero dependencies |
-| [Sigil](https://github.com/mayank-dev-15/sigil) | Python | ⭐2 | Cryptographic identity protocol composed from lineage facts |
-| [Pentest Skills](https://github.com/mayank-dev-15/pentest-skills) | Markdown | ⭐2 | Comprehensive pentesting cheatsheets — Web, Network, Wireless, OSINT, Cloud, Mobile, IoT |
-| [OWASP LLM Top 10](https://github.com/mayank-dev-15/owasp-llm-top10-guide) | Markdown | ⭐2 | Practical guide to OWASP LLM Top 10 with examples and mitigations |
-| [LLM Jailbreak Techniques](https://github.com/mayank-dev-15/llm-jailbreak-techniques) | Markdown | ⭐2 | Comprehensive taxonomy of LLM jailbreak techniques and mitigations |
-| [LLM Red Team Methodology](https://github.com/mayank-dev-15/llm-redteam-methodology) | Markdown | ⭐2 | Structured methodology for red teaming Large Language Models |
-| [Prompt Injection Lab](https://github.com/mayank-dev-15/prompt-injection-lab) | Markdown | ⭐2 | Hands-on lab for prompt injection attacks and defenses |
-| [Nettacker](https://github.com/mayank-dev-15/Nettacker) | Python | ⭐1 | Automated Penetration Testing Framework — vulnerability scanner |
-| [Python-Honeypot](https://github.com/mayank-dev-15/Python-Honeypot) | Python | ⭐1 | OWASP Honeypot, Automated Deception Framework |
-| [Marshmallow Security Scan](https://github.com/mayank-dev-15/marshmallow-security-scan) | Python | ⭐1 | CLI security scanner for URLs and repositories |
+#### 🔒 [GoForge](https://github.com/mayank-dev-15/goforge)
+> ⭐ 3 · Go
+>
+> Real-Time Log Analytics Engine — pattern detection, anomaly alerting, live dashboard
 
-#### 🎨 Interactive Visualizations
+</td>
+<td width="50%" valign="top">
 
-| Project | Stack | Stars | Description |
-|---------|-------|-------|-------------|
-| [Particle Universe](https://github.com/mayank-dev-15/particle-universe) | HTML, Canvas | ⭐2 | Interactive particle physics simulator with realistic physics, collisions & gravitational lensing |
-| [Gravity Simulator](https://github.com/mayank-dev-15/gravity-simulator) | HTML, Canvas | ⭐2 | N-body orbital mechanics — solar system, binary stars, three-body problem, galaxy collision |
-| [Fractal Explorer](https://github.com/mayank-dev-15/fractal-explorer) | HTML, Canvas | ⭐2 | Mandelbrot, Julia, Burning Ship, Newton fractals with zoom and color palettes |
-| [Wave Simulator](https://github.com/mayank-dev-15/wave-simulator) | HTML, Canvas | ⭐2 | Physics-based wave interference — multiple sources, double-slit, Doppler |
-| [Neural Network Viz](https://github.com/mayank-dev-15/neural-network-viz) | HTML, JS | ⭐2 | Interactive neural network builder — visual architecture designer, animated forward pass |
-| [Neural Canvas](https://github.com/mayank-dev-15/neural-canvas) | HTML, JS | ⭐2 | Interactive neural network visualization — draw and watch it learn in real-time |
-| [Maze Generator](https://github.com/mayank-dev-15/maze-generator) | HTML, JS | ⭐2 | 5 maze gen + 5 pathfinding algorithms — animated visualization |
-| [Spectrograph](https://github.com/mayank-dev-15/spectrograph) | HTML, Web Audio | ⭐2 | Real-time audio visualizer — frequency bars, waveform, circular, spectrogram |
-| [Cyberpunk Terminal](https://github.com/mayank-dev-15/cyberpunk-terminal) | HTML, JS | ⭐2 | Interactive cyberpunk terminal emulator with 20+ commands, CRT effects |
-| [Hexagonal Life](https://github.com/mayank-dev-15/hexagonal-life) | HTML, Canvas | ⭐2 | Conway's Game of Life on a hexagonal grid — multiple rule sets |
-| [Zero-G Physics](https://github.com/mayank-dev-15/zero-g-physics) | HTML, Canvas | ⭐2 | Zero-gravity particle simulator with realistic physics and collisions |
-| [Void Runner](https://github.com/mayank-dev-15/void-runner) | HTML, WebGL | ⭐2 | Infinite procedural tunnel runner with WebGL shaders & motion blur |
-| [Cyber Horizon](https://github.com/mayank-dev-15/cyber-horizon) | HTML, Canvas | ⭐2 | Interactive cyberpunk city with neon signs, flying cars & reactive audio |
+#### 🔒 [VulnScope](https://github.com/mayank-dev-15/vulnscope)
+> ⭐ 2 · Python, FastAPI, React
+>
+> Automated Vulnerability Intelligence Platform — CVE tracking, exploit correlation, risk scoring
 
-#### 🧠 AI/ML & Data Science
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Stack | Stars | Description |
-|---------|-------|-------|-------------|
-| [Neural Network Playground](https://github.com/mayank-dev-15/Neural-Network-Playground) | Python, PyTorch | ⭐2 | Visual deep learning framework with drag-and-drop network builder |
-| [OWL Agent](https://github.com/mayank-dev-15/owl-agent) | Python | ⭐2 | Advanced AI agent with OCR, tool use, CLI + GUI. Powered by OpenRouter |
-| [Neural Render](https://github.com/mayank-dev-15/neural-render) | Python | ⭐2 | Neural radiance field renderer with instant-NGP and differentiable rendering |
-| [Genetic NN](https://github.com/mayank-dev-15/genetic-nn) | Python | ⭐2 | Neuroevolution framework evolving neural network topologies via NEAT |
-| [EEG Analyzer](https://github.com/mayank-dev-15/eeg-analyzer) | Python | ⭐2 | EEG signal analysis with ICA artifact removal and time-frequency decomposition |
-| [Markov Gen](https://github.com/mayank-dev-15/markov-gen) | Python | ⭐1 | High-order Markov chain text generator with smoothing and perplexity eval |
-| [Qubit Sim](https://github.com/mayank-dev-15/qubit-sim) | Python | ⭐2 | Quantum circuit simulator |
-| [Quantum Deck](https://github.com/mayank-dev-15/quantum-deck) | HTML | ⭐2 | Interactive quantum computing circuit simulator with visual qubit states |
+#### 🛡️ [ShadowSentinel v2](https://github.com/mayank-dev-15/ShadowSentinel-v2)
+> ⭐ 2 · Python, PyTorch, Scapy
+>
+> ML-Powered Network Intrusion Detection System — LSTM autoencoder anomaly detection
 
-#### 🐧 Systems & Compilers
+</td>
+<td width="50%" valign="top">
 
-| Project | Stack | Stars | Description |
-|---------|-------|-------|-------------|
-| [SysGuard](https://github.com/mayank-dev-15/sysguard) | Go, HTML | ⭐1 | Real-time system monitoring dashboard — Go API + collector agent + JS dashboard |
-| [GitViz](https://github.com/mayank-dev-15/gitviz) | Go, JS | ⭐0 | Real-time GitHub repository analytics dashboard with animated badges |
-| [GoForge](https://github.com/mayank-dev-15/goforge) | Go | ⭐3 | Real-Time Log Analytics Engine — pattern detection, anomaly alerting |
-| [OS Runtime](https://github.com/mayank-dev-15/os-runtime) | Python | ⭐2 | WebAssembly runtime with JIT compilation and WASI support |
-| [LLVM IR Opt](https://github.com/mayank-dev-15/llvm-ir-opt) | Python | ⭐2 | Custom LLVM IR optimization passes for loop unrolling and vectorization |
-| [Synth Compiler](https://github.com/mayank-dev-15/synth-compiler) | Python | ⭐2 | Custom programming language compiler with LLVM backend and type inference |
-| [JVM Lite](https://github.com/mayank-dev-15/jvm-lite) | C | ⭐2 | Lightweight JVM implementation with bytecode interpreter and simple GC |
-| [Kernel 8086](https://github.com/mayank-dev-15/kernel-8086) | C | ⭐1 | Minimal x86 protected-mode kernel with multitasking and virtual memory |
-| [Embedded RTOS](https://github.com/mayank-dev-15/embedded-rtos) | C | ⭐2 | Preemptive RTOS kernel for ARM Cortex-M with priority inheritance |
-| [Hypervisor Lite](https://github.com/mayank-dev-15/hypervisor-lite) | C | ⭐2 | Type-2 hypervisor with Intel VT-x for lightweight VM introspection |
-| [BF Optimizer](https://github.com/mayank-dev-15/bf-optimizer) | Python | ⭐2 | Optimizing Brainfuck interpreter with IR lowering, peephole opts and JIT |
-| [ASM Optimizer](https://github.com/mayank-dev-15/asm-optimizer) | Python | ⭐2 | x86_64 assembly code optimizer using peephole rules and instruction scheduling |
+#### 🤖 [AI Pentest Agent](https://github.com/mayank-dev-15/AI-Pentest-Agent)
+> ⭐ 2 · Python, asyncio
+>
+> Autonomous AI penetration testing agent — scanning, reconnaissance, exploitation modules
 
-#### 🔧 Developer Tools & Libraries
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Stack | Stars | Description |
-|---------|-------|-------|-------------|
-| [Cipher Suite](https://github.com/mayank-dev-15/cipher-suite) | Python | ⭐2 | 30+ classical and modern ciphers with cryptanalysis tools |
-| [Chaos Crypto](https://github.com/mayank-dev-15/chaos-crypto) | Python | ⭐2 | Chaos-theory-based cryptographic primitives using logistic and lorenz maps |
-| [BlockForge](https://github.com/mayank-dev-15/blockforge) | Python | ⭐2 | Custom blockchain consensus protocol with BFT and sharding support |
-| [FHE Lib](https://github.com/mayank-dev-15/fhe-lib) | Python | ⭐2 | Fully homomorphic encryption library implementing TFHE and CKKS schemes |
-| [CRDT Store](https://github.com/mayank-dev-15/crdt-store) | Python | ⭐2 | CRDT-based eventually-consistent data store with causal consistency |
-| [Dist KV](https://github.com/mayank-dev-15/dist-kv) | Python | ⭐2 | AP-optimized distributed key-value store with hinted handoff |
-| [Graph DB](https://github.com/mayank-dev-15/graph-db) | Python | ⭐2 | Native graph database with Cypher-like query language |
-| [SAT Solver](https://github.com/mayank-dev-15/sat-solver) | Python | ⭐2 | CDCL SAT solver from scratch with watched literals and clause learning |
-| [SMT Solver](https://github.com/mayank-dev-15/smt-solver) | Python | ⭐1 | Satisfiability modulo theories solver supporting BV, LIA, EUF |
-| [Logic Reasoner](https://github.com/mayank-dev-15/logic-reasoner) | Python | ⭐2 | First-order logic automated reasoning engine with resolution and tableau |
-| [Formal Verify](https://github.com/mayank-dev-15/formal-verify) | Python | ⭐2 | Formal verification engine using symbolic execution and invariant generation |
-| [Bio Seq](https://github.com/mayank-dev-15/bio-seq) | Python | ⭐2 | High-performance biological sequence aligner using Smith-Waterman and BWT |
-| [SVG Engine](https://github.com/mayank-dev-15/svg-engine) | Python | ⭐2 | SVG rendering engine with CSS styling filters and animation support |
-| [Path Tracer](https://github.com/mayank-dev-15/path-tracer) | Python | ⭐2 | Physically-based Monte Carlo path tracer with MIS and spectral rendering |
-| [RT Tracer](https://github.com/mayank-dev-15/rt-tracer) | Python | ⭐2 | Real-time GPU-accelerated ray tracer with BVH and denoising |
-| [Flow Viz](https://github.com/mayank-dev-15/flow-viz) | Python | ⭐2 | Computational fluid dynamics visualization with GPU particle advection |
-| [GIS Engine](https://github.com/mayank-dev-15/gis-engine) | Python | ⭐2 | Spatial database engine with R-tree indexing and geo queries |
-| [DSP Pipeline](https://github.com/mayank-dev-15/dsp-pipeline) | Python | ⭐2 | Real-time digital signal processing pipeline with filter design |
-| [Image Forensics](https://github.com/mayank-dev-15/image-forensics) | Python | ⭐2 | Image forensic analysis detecting manipulation via ELA noise analysis |
-| [Malware Sandbox](https://github.com/mayank-dev-15/malware-sandbox) | Python | ⭐2 | Behavioral malware analysis sandbox with syscall hooking and C2 emulation |
-| [ROP Gadget](https://github.com/mayank-dev-15/rop-gadget) | Python | ⭐2 | ROP chain generation engine with gadget discovery and constraint solving |
-| [WireGuard Impl](https://github.com/mayank-dev-15/wireguard-impl) | Python | ⭐2 | WireGuard VPN protocol implementation from RFC with noise IK handshake |
-| [SNMP Manager](https://github.com/mayank-dev-15/snmp-manager) | Python | ⭐2 | SNMPv3 network manager with MIB parsing, trap handling and graphing |
-| [HTTP Framework](https://github.com/mayank-dev-15/http-framework) | Python | ⭐2 | HTTP 1.1 server framework from scratch with routing, middleware and keep-alive |
-| [Mesh Net](https://github.com/mayank-dev-15/mesh-net) | Python | ⭐2 | P2P mesh networking protocol with NAT traversal and DHT routing |
-| [DNP3 Stack](https://github.com/mayank-dev-15/dnp3-stack) | Python | ⭐2 | DNP3 SCADA protocol stack for industrial control system communication |
-| [Raft Consensus](https://github.com/mayank-dev-15/raft-consensus) | Python | ⭐1 | Production-grade Raft consensus algorithm with dynamic membership changes |
-| [Datalog DB](https://github.com/mayank-dev-15/datalog-db) | Python | ⭐1 | Datalog query engine with semi-naive evaluation and stratified negation |
-| [Re-ID](https://github.com/mayank-dev-15/re-id) | Python | ⭐1 | Person re-identification across cameras using metric learning and attention |
-| [Fuzzing Engine](https://github.com/mayank-dev-15/fuzzing-engine) | Python | ⭐1 | Coverage-guided mutational fuzzer with custom mutators and crash triage |
-| [Game ECS](https://github.com/mayank-dev-15/game-ecs) | Python | ⭐2 | Data-oriented ECS game engine with job system and SIMD optimizations |
-| [PyKit Utils](https://github.com/mayank-dev-15/pykit-utils) | Python | ⭐2 | Python Utility Library — String, file, network, crypto, datetime, validation |
-| [PyTemplate CLI](https://github.com/mayank-dev-15/pytemplate-cli) | Python | ⭐2 | Professional Python CLI tool template with argparse, logging, rich output |
-| [CodeForge](https://github.com/mayank-dev-15/codeforge) | Python | ⭐2 | All-in-One Developer Tools Suite — JSON formatter, regex tester, hash generator |
-| [CppTemplate Algo](https://github.com/mayank-dev-15/cpptemplate-algo) | C++ | ⭐2 | C++20 template library with sorting, searching, graph algorithms |
-| [CppTemplate System](https://github.com/mayank-dev-15/cpptemplate-system) | C++ | ⭐2 | C++20 systems programming template with networking, threading, filesystem |
-| [Cpp Linter](https://github.com/mayank-dev-15/cpp-linter) | C++ | ⭐2 | Static analysis tool for C++ detecting memory bugs, data races, UB |
-| [GoTemplate CLI](https://github.com/mayank-dev-15/gotemplate-cli) | Go | ⭐2 | Professional Go CLI template with cobra, viper, logrus |
+#### 🧠 [Neural Network Playground](https://github.com/mayank-dev-15/Neural-Network-Playground)
+> ⭐ 2 · Python, PyTorch
+>
+> Visual deep learning framework — drag-and-drop network builder, real-time training visualization
 
-#### 🌐 Full-Stack Apps
+</td>
+<td width="50%" valign="top">
 
-| Project | Stack | Stars | Description |
-|---------|-------|-------|-------------|
-| [StudyHub](https://github.com/mayank-dev-15/studyhub) | HTML, JS, Flask | ⭐2 | Student portal with courses, assignments, grades & admin panel |
-| [DevForge](https://github.com/mayank-dev-15/devforge) | HTML, JS, Flask | ⭐2 | Developer tools hub — JSON formatter, regex tester, hash generator, API playground |
-| [TaskFlow](https://github.com/mayank-dev-15/taskflow) | HTML, JS, Flask | ⭐2 | Project management with kanban, calendar, team collaboration |
-| [DevDash](https://github.com/mayank-dev-15/devdash) | Python | ⭐2 | Terminal Developer Dashboard — system info, git stats, todos, network |
-| [Nebula Dashboard](https://github.com/mayank-dev-15/nebula-dashboard) | HTML, JS | ⭐2 | Real-time data visualization dashboard with animated charts and cyberpunk theme |
-| [NullFeed Backend](https://github.com/mayank-dev-15/nullfeed-backend) | Python, FastAPI | ⭐2 | Self-hosted YouTube media center backend |
-| [LocalMind](https://github.com/mayank-dev-15/localmind) | Python, FastAPI | ⭐2 | Offline AI assistant — chat with your documents locally |
-| [LiveEdit](https://github.com/mayank-dev-15/LiveEdit) | JS | ⭐2 | Real-time AI video editing tool utilizing Gemini API |
-| [RemindKaro](https://github.com/mayank-dev-15/RemindKaro) | JS | ⭐2 | AI assistant and deadline reminder, management app |
-| [Jarvis Sandbox](https://github.com/mayank-dev-15/jarvis-sandbox) | Python | ⭐2 | Jarvis's scratchpad — experiments, skill tests, side-project stubs |
+#### 🔧 [GitViz](https://github.com/mayank-dev-15/gitviz)
+> Go, JS · [gitviz.dev](https://github.com/mayank-dev-15/gitviz)
+>
+> Real-time GitHub repository analytics dashboard — animated badges, interactive charts, cloud hosting
 
-#### 📚 Language Templates & References
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Stack | Stars | Description |
-|---------|-------|-------|-------------|
-| [TS Template React](https://github.com/mayank-dev-15/tstemplate-react) | TypeScript | ⭐2 | React TypeScript component library template with Vite, CSS modules, tests |
-| [TS Template Node](https://github.com/mayank-dev-15/tstemplate-node) | TypeScript | ⭐2 | Node.js TypeScript template with strict config, Jest tests |
-| [SQL Template Schema](https://github.com/mayank-dev-15/sqltemplate-schema) | PLpgSQL | ⭐2 | Production-ready PostgreSQL database schema template |
-| [SQL Template Queries](https://github.com/mayank-dev-15/sqltemplate-queries) | PLpgSQL | ⭐2 | Advanced SQL query patterns: CTEs, window functions, optimization |
-| [Java Template App](https://github.com/mayank-dev-15/javatemplate-app) | Java | ⭐2 | Spring Boot 3.x template with JPA, Security, H2 database |
-| [Java Template Utils](https://github.com/mayank-dev-15/javatemplate-utils) | Java | ⭐2 | Reusable Java utility library for strings, collections, validation |
-| [Woolang](https://github.com/mayank-dev-15/woolang) | — | ⭐2 | A statically & strongly typed scripting language |
-| [Kanren RS](https://github.com/mayank-dev-15/kanren-rs) | Python | ⭐2 | miniKanren relational programming embedded in Rust |
-| [QuantLib](https://github.com/mayank-dev-15/quantlib) | — | ⭐2 | Quantitative finance library with option pricing, VaR, Monte Carlo |
-| [Notebook Utils](https://github.com/mayank-dev-15/notebook-utils) | — | ⭐2 | Reusable helpers for ML notebooks: data loaders, plotting, eval |
-| [OpenUsage](https://github.com/mayank-dev-15/openusage) | — | ⭐2 | Track spend and usage across Claude, Cursor, OpenRouter, Copilot, Gemini |
+#### 🦀 [Ferrothorn](https://github.com/mayank-dev-15/ferrothorn)
+> ⭐ 2 · Rust, Tokio
+>
+> Blazing-fast async port scanner with service fingerprinting
 
-#### 🛠️ Open Source Contributions
+</td>
+<td width="50%" valign="top">
+
+#### 🌌 [Particle Universe](https://github.com/mayank-dev-15/particle-universe)
+> ⭐ 2 · HTML, Canvas
+>
+> Interactive particle physics simulator — realistic physics, collisions, gravitational lensing
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[View all 191 repositories →](https://github.com/mayank-dev-15?tab=repositories)
+
+</div>
+
+---
+
+### 🛠️ Open Source Contributions
 
 | Project | Contribution |
 |---------|-------------|
-| [AynOps/AynOps](https://github.com/AynOps/AynOps) | HTTP Security Headers Analyzer Tool |
+| [AynOps/AynOps](https://github.com/AynOps/AynOps) | HTTP Security Headers Analyzer |
 | [webscan](https://github.com/lutzashl290788-cell/webscan) | Security.txt plugin (merged) |
-| [imDarshanGK/localmind](https://github.com/imDarshanGK/localmind) | Delete confirmation modal, community showcase, CI lint |
-| [imDarshanGK/AI-dev-assistant](https://github.com/imDarshanGK/AI-dev-assistant) | Cross-browser fixes, mock API server, compliance reports |
-| [Garudex-Labs/caracal](https://github.com/Garudex-Labs/caracal) | SECURITY.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md |
-| [r12habh/ActionScope](https://github.com/r12habh/ActionScope) | AI agent detector tests, artifact poisoning coverage |
-| [devanshi14malhotra/BiblioDrift](https://github.com/devanshi14malhotra/BiblioDrift) | Security docs, UI fixes, issue/PR templates |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | SECURITY.md |
-| [qgis/QGIS-Website](https://github.com/qgis/QGIS-Website) | Security page title fix |
+| [localmind](https://github.com/imDarshanGK/localmind) | Delete modal, community showcase, CI |
+| [AI-dev-assistant](https://github.com/imDarshanGK/AI-dev-assistant) | Cross-browser fixes, mock API, compliance |
+| [caracal](https://github.com/Garudex-Labs/caracal) | SECURITY.md, CONTRIBUTING.md, CoC |
+| [ActionScope](https://github.com/r12habh/ActionScope) | AI agent detector tests, poisoning coverage |
+| [BiblioDrift](https://github.com/devanshi14malhotra/BiblioDrift) | Security docs, UI fixes, templates |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | SECURITY.md |
+| [QGIS-Website](https://github.com/qgis/QGIS-Website) | Security page title fix |
 
-### 🐧 Linux & OS Development
+---
 
-- Custom minimal Linux builds (Alpine kernel, BusyBox rootfs, custom initramfs)
-- QEMU-based boot testing and session management
-- Firmware development for routers, SBCs, embedded devices
+### 🐧 Linux & Hardware
 
-### 🔧 Hardware & Embedded
-
+- 🐧 Custom minimal Linux builds — Alpine kernel, BusyBox rootfs, custom initramfs, QEMU boot testing
 - 🏆 Arduino competition winner (school-level)
 - 🖥️ SBCs: Raspberry Pi, Orange Pi, Rock Pi, R36S
 - 📡 Modules: GPS, GSM/LTE, Bluetooth, Wi-Fi, RFID/NFC, IR, ultrasonic
 - 🔌 Firmware: OpenWrt, ESP32, ESP8266, STM32, ATmega
 
-### 🔮 Upcoming
-
-| Project | Description |
-|---------|-------------|
-| KernelProbe | Linux kernel debugging toolkit |
+---
 
 ### 📫 Connect
 
