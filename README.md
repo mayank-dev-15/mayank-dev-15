@@ -14,6 +14,10 @@
 > Every line of code in my repositories is written by hand. No GitHub Copilot. No ChatGPT. No AI code generators.
 > I believe in understanding things from the ground up — when you write something yourself, you own every byte.
 
+> ### ⌨️ CLI > GUI. Always.
+>
+> If I can't pipe it, grep it, or script it — I don't want it. The terminal isn't a limitation, it's a superpower. GUIs are just training wheels for people who haven't learned `ctrl+r` yet.
+
 ---
 
 ### 🎯 What I Do
