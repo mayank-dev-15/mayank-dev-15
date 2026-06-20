@@ -1,0 +1,289 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="480" height="300">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="60%" stop-color="#16213e"/>
+      <stop offset="100%" stop-color="#0f3460"/>
+    </linearGradient>
+    <linearGradient id="grassGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a5c1a"/>
+      <stop offset="100%" stop-color="#0d3d0d"/>
+    </linearGradient>
+    <linearGradient id="windowBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0078d4"/>
+      <stop offset="100%" stop-color="#005a9e"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+    <filter id="crackShadow">
+      <feDropShadow dx="1" dy="1" stdDeviation="1" flood-color="#000" flood-opacity="0.7"/>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes catChomp {
+      0%, 100% { transform: scaleY(1); }
+      15% { transform: scaleY(0.92); }
+      30% { transform: scaleY(1.05); }
+      45% { transform: scaleY(0.95); }
+      60% { transform: scaleY(1); }
+    }
+    @keyframes chipBob {
+      0%, 100% { transform: translateY(0) rotate(0deg); }
+      25% { transform: translateY(-3px) rotate(5deg); }
+      50% { transform: translateY(0) rotate(0deg); }
+      75% { transform: translateY(-2px) rotate(-3deg); }
+    }
+    @keyframes earTwitch {
+      0%, 80%, 100% { transform: rotate(0deg); }
+      85% { transform: rotate(-12deg); }
+      90% { transform: rotate(8deg); }
+      95% { transform: rotate(-4deg); }
+    }
+    @keyframes earTwitchR {
+      0%, 82%, 100% { transform: rotate(0deg); }
+      87% { transform: rotate(12deg); }
+      92% { transform: rotate(-8deg); }
+      97% { transform: rotate(4deg); }
+    }
+    @keyframes blink {
+      0%, 40%, 46%, 100% { transform: scaleY(1); }
+      43% { transform: scaleY(0.05); }
+    }
+    @keyframes pawWave {
+      0%, 100% { transform: rotate(0deg); }
+      25% { transform: rotate(-15deg); }
+      50% { transform: rotate(0deg); }
+      75% { transform: rotate(10deg); }
+    }
+    @keyframes chipFloat {
+      0%, 100% { transform: translateY(0) rotate(0deg); opacity: 1; }
+      50% { transform: translateY(-8px) rotate(10deg); opacity: 0.8; }
+    }
+    @keyframes screenFlicker {
+      0%, 90%, 100% { opacity: 1; }
+      92% { opacity: 0.8; }
+      94% { opacity: 1; }
+      96% { opacity: 0.7; }
+      98% { opacity: 1; }
+    }
+    @keyframes glowPulse {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 0.6; }
+    }
+    .cat-body { animation: catChomp 1.5s ease-in-out infinite; transform-origin: 300px 200px; }
+    .ear-l { animation: earTwitch 5s ease-in-out infinite; transform-origin: 275px 130px; }
+    .ear-r { animation: earTwitchR 5s ease-in-out infinite 0.3s; transform-origin: 325px 130px; }
+    .eye-group { animation: blink 4s ease-in-out infinite; transform-origin: 300px 165px; }
+    .chip { animation: chipFloat 2s ease-in-out infinite; }
+    .chip-eaten { animation: chipBob 0.8s ease-in-out infinite; }
+    .paw { animation: pawWave 1.2s ease-in-out infinite; transform-origin: 310px 220px; }
+    .screen { animation: screenFlicker 8s ease-in-out infinite; }
+  </style>
+
+  <!-- Background - Windows XP hill -->
+  <rect width="480" height="300" fill="url(#skyGrad)"/>
+  <ellipse cx="240" cy="350" rx="350" ry="120" fill="url(#grassGrad)"/>
+
+  <!-- Clouds -->
+  <g opacity="0.15" fill="#fff">
+    <ellipse cx="80" cy="40" rx="40" ry="15"/>
+    <ellipse cx="100" cy="35" rx="30" ry="12"/>
+    <ellipse cx="380" cy="55" rx="35" ry="13"/>
+    <ellipse cx="400" cy="50" rx="25" ry="10"/>
+  </g>
+
+  <!-- ===== BROKEN WINDOWS SCREEN ===== -->
+  <g transform="translate(60, 30)" filter="url(#shadow)">
+    <!-- Screen frame -->
+    <rect x="0" y="0" width="200" height="150" rx="8" fill="#111" stroke="#333" stroke-width="2"/>
+    <!-- Screen -->
+    <rect x="8" y="8" width="184" height="134" rx="4" fill="#0078d4" class="screen"/>
+
+    <!-- Windows logo on screen -->
+    <g transform="translate(50, 30)">
+      <!-- Window panes -->
+      <rect x="0" y="0" width="45" height="40" rx="2" fill="#f25022" opacity="0.9"/>
+      <rect x="50" y="0" width="45" height="40" rx="2" fill="#7fba00" opacity="0.9"/>
+      <rect x="0" y="45" width="45" height="40" rx="2" fill="#00a4ef" opacity="0.9"/>
+      <rect x="50" y="45" width="45" height="40" rx="2" fill="#ffb900" opacity="0.9"/>
+    </g>
+
+    <!-- Screen cracks -->
+    <g stroke="#fff" stroke-width="1.5" fill="none" opacity="0.8" filter="url(#crackShadow)">
+      <path d="M100,75 L115,60 L125,65 L140,50"/>
+      <path d="M100,75 L90,90 L95,105 L85,120"/>
+      <path d="M100,75 L110,85 L125,80 L135,90"/>
+      <path d="M100,75 L85,65 L75,70 L60,60"/>
+      <path d="M100,75 L105,90 L115,100 L110,115"/>
+    </g>
+
+    <!-- Broken hole in screen -->
+    <g>
+      <ellipse cx="100" cy="75" rx="35" ry="30" fill="#000" stroke="#222" stroke-width="2"/>
+      <!-- Glass shards around hole -->
+      <polygon points="70,60 65,50 75,55" fill="#0078d4" opacity="0.7"/>
+      <polygon points="130,55 140,48 135,58" fill="#0078d4" opacity="0.6"/>
+      <polygon points="68,90 58,95 65,85" fill="#0078d4" opacity="0.5"/>
+      <polygon points="132,85 142,90 135,80" fill="#0078d4" opacity="0.6"/>
+      <polygon points="95,50 100,42 105,50" fill="#0078d4" opacity="0.7"/>
+      <polygon points="110,100 118,108 105,105" fill="#0078d4" opacity="0.5"/>
+    </g>
+
+    <!-- Screen border glow -->
+    <rect x="8" y="8" width="184" height="134" rx="4" fill="none" stroke="#00ff00" stroke-width="0.5" opacity="0.2">
+      <animate attributeName="opacity" values="0.15;0.3;0.15" dur="3s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Stand -->
+    <rect x="70" y="150" width="60" height="10" rx="3" fill="#222" stroke="#333" stroke-width="0.5"/>
+    <rect x="55" y="158" width="90" height="6" rx="3" fill="#1a1a1a" stroke="#333" stroke-width="0.5"/>
+  </g>
+
+  <!-- ===== CAT EATING CHIPS THROUGH THE HOLE ===== -->
+  <g transform="translate(0, 0)">
+    <!-- Cat body - round and chubby like the meme -->
+    <g class="cat-body">
+      <!-- Body -->
+      <ellipse cx="300" cy="210" rx="55" ry="45" fill="#555"/>
+      <ellipse cx="300" cy="215" rx="45" ry="35" fill="#666" opacity="0.5"/>
+      <!-- Belly -->
+      <ellipse cx="300" cy="210" rx="30" ry="25" fill="#777" opacity="0.4"/>
+
+      <!-- Tail -->
+      <path d="M350,200 Q380,180 375,150 Q372,130 380,120" fill="none" stroke="#555" stroke-width="14" stroke-linecap="round"/>
+      <path d="M350,200 Q380,180 375,150 Q372,130 380,120" fill="none" stroke="#666" stroke-width="1" stroke-linecap="round"/>
+
+      <!-- Left paw (holding chip bag) -->
+      <g class="paw">
+        <ellipse cx="260" cy="230" rx="20" ry="14" fill="#555" stroke="#444" stroke-width="0.5"/>
+        <!-- Paw pads -->
+        <ellipse cx="252" cy="227" rx="4" ry="3" fill="#ffb8ff" opacity="0.5"/>
+        <ellipse cx="260" cy="225" rx="4" ry="3" fill="#ffb8ff" opacity="0.5"/>
+        <ellipse cx="268" cy="227" rx="4" ry="3" fill="#ffb8ff" opacity="0.5"/>
+        <!-- Chip bag -->
+        <rect x="240" y="215" width="25" height="30" rx="3" fill="#ff6600" stroke="#cc5500" stroke-width="1"/>
+        <text x="252" y="233" font-family="monospace" font-size="6" fill="#fff" text-anchor="middle">CHIPS</text>
+        <!-- Bag crinkle lines -->
+        <path d="M243,220 L250,222 L243,224" fill="none" stroke="#ff8833" stroke-width="0.5"/>
+        <path d="M258,220 L262,222 L258,224" fill="none" stroke="#ff8833" stroke-width="0.5"/>
+      </g>
+
+      <!-- Right paw (feeding chips to mouth) -->
+      <g>
+        <ellipse cx="320" cy="225" rx="16" ry="12" fill="#555" stroke="#444" stroke-width="0.5"/>
+        <!-- Paw pads -->
+        <ellipse cx="314" cy="222" rx="3" ry="2.5" fill="#ffb8ff" opacity="0.5"/>
+        <ellipse cx="320" cy="220" rx="3" ry="2.5" fill="#ffb8ff" opacity="0.5"/>
+        <ellipse cx="326" cy="222" rx="3" ry="2.5" fill="#ffb8ff" opacity="0.5"/>
+        <!-- Chip being fed -->
+        <g class="chip-eaten">
+          <ellipse cx="315" cy="210" rx="8" ry="4" fill="#ffcc00" stroke="#cc9900" stroke-width="0.5" transform="rotate(-20, 315, 210)"/>
+          <!-- Chip texture -->
+          <circle cx="313" cy="209" r="1" fill="#ff9900" opacity="0.6"/>
+          <circle cx="317" cy="211" r="0.8" fill="#ff9900" opacity="0.5"/>
+        </g>
+      </g>
+
+      <!-- Head -->
+      <circle cx="300" cy="160" r="45" fill="#555"/>
+      <!-- Cheek fluffs -->
+      <ellipse cx="265" cy="170" rx="14" ry="12" fill="#666" opacity="0.5"/>
+      <ellipse cx="335" cy="170" rx="14" ry="12" fill="#666" opacity="0.5"/>
+      <!-- Head shading -->
+      <circle cx="300" cy="165" r="38" fill="#666" opacity="0.3"/>
+
+      <!-- Ears -->
+      <g class="ear-l">
+        <path d="M270,135 L250,80 L295,120 Z" fill="#555" stroke="#444" stroke-width="0.5"/>
+        <path d="M272,133 L255,88 L292,121 Z" fill="#ffb8ff" opacity="0.6"/>
+      </g>
+      <g class="ear-r">
+        <path d="M330,135 L350,80 L305,120 Z" fill="#555" stroke="#444" stroke-width="0.5"/>
+        <path d="M328,133 L345,88 L308,121 Z" fill="#ffb8ff" opacity="0.6"/>
+      </g>
+
+      <!-- Face markings -->
+      <path d="M288,148 L292,140" stroke="#777" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+      <path d="M300,145 L300,137" stroke="#777" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+      <path d="M312,148 L308,140" stroke="#777" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+
+      <!-- Eyes - big and round like the meme cat -->
+      <g class="eye-group">
+        <!-- Left eye -->
+        <ellipse cx="282" cy="160" rx="12" ry="13" fill="#fff"/>
+        <ellipse cx="282" cy="160" rx="10" ry="11" fill="#111"/>
+        <circle cx="285" cy="157" r="3.5" fill="#fff" opacity="0.9"/>
+        <circle cx="279" cy="163" r="1.5" fill="#fff" opacity="0.5"/>
+
+        <!-- Right eye -->
+        <ellipse cx="318" cy="160" rx="12" ry="13" fill="#fff"/>
+        <ellipse cx="318" cy="160" rx="10" ry="11" fill="#111"/>
+        <circle cx="321" cy="157" r="3.5" fill="#fff" opacity="0.9"/>
+        <circle cx="315" cy="163" r="1.5" fill="#fff" opacity="0.5"/>
+      </g>
+
+      <!-- Nose -->
+      <path d="M296,172 Q300,168 304,172 Q300,176 296,172 Z" fill="#ffb8ff"/>
+
+      <!-- Mouth - eating expression -->
+      <path d="M290,180 Q295,186 300,180" fill="none" stroke="#444" stroke-width="2" stroke-linecap="round"/>
+      <path d="M300,180 Q305,186 310,180" fill="none" stroke="#444" stroke-width="2" stroke-linecap="round"/>
+      <!-- Mouth open slightly (eating) -->
+      <ellipse cx="300" cy="183" rx="6" ry="4" fill="#333"/>
+
+      <!-- Whiskers -->
+      <g stroke="#888" stroke-width="1" stroke-linecap="round" opacity="0.6">
+        <line x1="260" y1="168" x2="235" y2="162"/>
+        <line x1="260" y1="175" x2="232" y2="175"/>
+        <line x1="260" y1="182" x2="235" y2="188"/>
+        <line x1="340" y1="168" x2="365" y2="162"/>
+        <line x1="340" y1="175" x2="368" y2="175"/>
+        <line x1="340" y1="182" x2="365" y2="188"/>
+      </g>
+    </g>
+
+    <!-- Floating chips -->
+    <g class="chip">
+      <ellipse cx="250" cy="190" rx="6" ry="3" fill="#ffcc00" stroke="#cc9900" stroke-width="0.5" transform="rotate(-30, 250, 190)"/>
+    </g>
+    <g class="chip" style="animation-delay: 0.5s">
+      <ellipse cx="340" cy="195" rx="5" ry="2.5" fill="#ffcc00" stroke="#cc9900" stroke-width="0.5" transform="rotate(20, 340, 195)"/>
+    </g>
+    <g class="chip" style="animation-delay: 1s">
+      <ellipse cx="280" cy="185" rx="4" ry="2" fill="#ffcc00" stroke="#cc9900" stroke-width="0.5" transform="rotate(-15, 280, 185)"/>
+    </g>
+
+    <!-- Crumbs -->
+    <g fill="#ffcc00" opacity="0.6">
+      <circle cx="295" cy="195" r="1"/>
+      <circle cx="305" cy="198" r="0.8"/>
+      <circle cx="290" cy="200" r="0.6"/>
+      <circle cx="310" cy="192" r="0.7"/>
+    </g>
+  </g>
+
+  <!-- ===== GLOW EFFECTS ===== -->
+  <g filter="url(#glow)" opacity="0.15">
+    <ellipse cx="160" cy="105" rx="50" ry="40" fill="#00ff00"/>
+    <ellipse cx="300" cy="160" rx="60" ry="50" fill="#ffcc00"/>
+  </g>
+
+  <!-- Ambient particles -->
+  <g opacity="0.1" fill="#00ff41">
+    <circle cx="420" cy="40" r="1"><animate attributeName="opacity" values="0;0.3;0" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="80" r="0.8"><animate attributeName="opacity" values="0;0.2;0" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="30" cy="250" r="1.2"><animate attributeName="opacity" values="0;0.4;0" dur="2.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Caption -->
+  <text x="240" y="285" font-family="'Comic Sans MS', 'Segoe UI', sans-serif" font-size="12" fill="#888" text-anchor="middle" opacity="0.5">mm yummy... pass the chips</text>
+</svg>
