@@ -1,175 +1,282 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220">
   <defs>
+    <linearGradient id="fur" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3a3a3a"/>
+      <stop offset="50%" stop-color="#2a2a2a"/>
+      <stop offset="100%" stop-color="#1e1e1e"/>
+    </linearGradient>
+    <linearGradient id="furLight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4a4a4a"/>
+      <stop offset="100%" stop-color="#2a2a2a"/>
+    </linearGradient>
+    <linearGradient id="innerEar" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff8fa3"/>
+      <stop offset="100%" stop-color="#e06080"/>
+    </linearGradient>
     <linearGradient id="screenGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0a0a"/>
-      <stop offset="100%" style="stop-color:#1a1a2e"/>
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#111827"/>
     </linearGradient>
-    <linearGradient id="catFur" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2d2d2d"/>
-      <stop offset="100%" style="stop-color:#1a1a1a"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+    <radialGradient id="eyeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ff41"/>
+      <stop offset="70%" stop-color="#00cc33"/>
+      <stop offset="100%" stop-color="#009926"/>
+    </radialGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feMerge>
-        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <filter id="screenGlow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.4"/>
     </filter>
+    <clipPath id="monitorClip">
+      <rect x="22" y="37" width="216" height="116" rx="2"/>
+    </clipPath>
   </defs>
-  
+
+  <style>
+    @keyframes pawLeft {
+      0%, 100% { transform: translateY(0) rotate(0deg); }
+      15% { transform: translateY(-12px) rotate(-5deg); }
+      30% { transform: translateY(0) rotate(0deg); }
+    }
+    @keyframes pawRight {
+      0%, 100% { transform: translateY(0) rotate(0deg); }
+      45% { transform: translateY(-12px) rotate(5deg); }
+      60% { transform: translateY(0) rotate(0deg); }
+    }
+    @keyframes headBob {
+      0%, 100% { transform: translateY(0) rotate(0deg); }
+      25% { transform: translateY(-2px) rotate(-1deg); }
+      50% { transform: translateY(0) rotate(0deg); }
+      75% { transform: translateY(-2px) rotate(1deg); }
+    }
+    @keyframes tailSway {
+      0%, 100% { transform: rotate(0deg); }
+      25% { transform: rotate(5deg); }
+      75% { transform: rotate(-5deg); }
+    }
+    @keyframes earTwitch {
+      0%, 90%, 100% { transform: rotate(0deg); }
+      93% { transform: rotate(-8deg); }
+      96% { transform: rotate(5deg); }
+    }
+    @keyframes earTwitchR {
+      0%, 92%, 100% { transform: rotate(0deg); }
+      95% { transform: rotate(8deg); }
+      98% { transform: rotate(-5deg); }
+    }
+    @keyframes blink {
+      0%, 45%, 55%, 100% { transform: scaleY(1); }
+      50% { transform: scaleY(0.05); }
+    }
+    @keyframes breathe {
+      0%, 100% { transform: scaleY(1); }
+      50% { transform: scaleY(1.02); }
+    }
+    @keyframes keyGlow {
+      0%, 100% { opacity: 0.3; }
+      15% { opacity: 0.8; }
+      30% { opacity: 0.3; }
+      45% { opacity: 0.8; }
+      60% { opacity: 0.3; }
+    }
+    @keyframes cursorBlink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes textScroll {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(-15px); }
+    }
+    .paw-left { animation: pawLeft 0.6s ease-in-out infinite; transform-origin: 30px 115px; }
+    .paw-right { animation: pawRight 0.6s ease-in-out infinite; transform-origin: 90px 115px; }
+    .head-group { animation: headBob 1.2s ease-in-out infinite; transform-origin: 60px 80px; }
+    .tail { animation: tailSway 2s ease-in-out infinite; transform-origin: 105px 100px; }
+    .ear-left { animation: earTwitch 4s ease-in-out infinite; transform-origin: 38px 30px; }
+    .ear-right { animation: earTwitchR 4s ease-in-out infinite 0.2s; transform-origin: 82px 30px; }
+    .eye-group { animation: blink 4s ease-in-out infinite; transform-origin: 60px 52px; }
+    .body { animation: breathe 3s ease-in-out infinite; transform-origin: 60px 100px; }
+    .key-active { animation: keyGlow 0.6s ease-in-out infinite; }
+    .cursor { animation: cursorBlink 1s step-end infinite; }
+    .text-line { animation: textScroll 3s linear infinite; }
+  </style>
+
   <!-- Background -->
-  <rect width="400" height="200" fill="#0d1117" rx="8"/>
-  
-  <!-- Terminal Window -->
-  <rect x="20" y="15" width="220" height="140" rx="6" fill="url(#screenGrad)" stroke="#30363d" stroke-width="1"/>
-  <rect x="20" y="15" width="220" height="20" rx="6" fill="#161b22"/>
-  <rect x="20" y="29" width="220" height="6" fill="#161b22"/>
-  <circle cx="35" cy="25" r="4" fill="#ff5f57"/>
-  <circle cx="48" cy="25" r="4" fill="#febc2e"/>
-  <circle cx="61" cy="25" r="4" fill="#28c840"/>
-  <text x="130" y="29" font-family="monospace" font-size="9" fill="#8b949e" text-anchor="middle">Terminal</text>
-  
-  <!-- Terminal Text Lines -->
-  <g filter="url(#screenGlow)">
-    <text x="30" y="55" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="10" fill="#00ff41">
-      <tspan>$ nmap -sV target.com</tspan>
-      <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
-    </text>
-    <text x="30" y="70" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="10" fill="#58a6ff">
-      <tspan>PORT     STATE SERVICE</tspan>
-      <animate attributeName="opacity" values="1;0.7;1" dur="2.5s" repeatCount="indefinite"/>
-    </text>
-    <text x="30" y="85" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="10" fill="#7ee787">
-      <tspan>22/tcp   open  ssh</tspan>
-      <animate attributeName="opacity" values="1;0.7;1" dur="1.8s" repeatCount="indefinite"/>
-    </text>
-    <text x="30" y="100" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="10" fill="#7ee787">
-      <tspan>80/tcp   open  http</tspan>
-      <animate attributeName="opacity" values="1;0.7;1" dur="2.2s" repeatCount="indefinite"/>
-    </text>
-    <text x="30" y="115" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="10" fill="#f0883e">
-      <tspan>443/tcp  open  https</tspan>
-      <animate attributeName="opacity" values="1;0.7;1" dur="1.9s" repeatCount="indefinite"/>
-    </text>
-    <text x="30" y="130" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="10" fill="#00ff41">
-      <tspan>_</tspan>
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </text>
+  <rect width="400" height="220" fill="#0d1117" rx="8"/>
+
+  <!-- Monitor -->
+  <g filter="url(#shadow)">
+    <rect x="18" y="28" width="224" height="145" rx="8" fill="#1a1a2e" stroke="#30363d" stroke-width="1.5"/>
+    <rect x="18" y="28" width="224" height="22" rx="8" fill="#161b22"/>
+    <rect x="18" y="42" width="224" height="8" fill="#161b22"/>
+    <circle cx="32" cy="39" r="3.5" fill="#ff5f57"/>
+    <circle cx="44" cy="39" r="3.5" fill="#febc2e"/>
+    <circle cx="56" cy="39" r="3.5" fill="#28c840"/>
+    <text x="130" y="42" font-family="'SF Mono','Fira Code',monospace" font-size="8" fill="#8b949e" text-anchor="middle">bash — 80×24</text>
   </g>
-  
-  <!-- Bongo Cat Body -->
-  <g transform="translate(260, 30)">
-    <!-- Cat Body -->
-    <ellipse cx="60" cy="110" rx="45" ry="40" fill="url(#catFur)" stroke="#444" stroke-width="0.5"/>
-    
-    <!-- Cat Head -->
-    <circle cx="60" cy="55" r="35" fill="url(#catFur)" stroke="#444" stroke-width="0.5"/>
-    
-    <!-- Cat Ears -->
-    <polygon points="35,35 25,5 50,25" fill="url(#catFur)" stroke="#444" stroke-width="0.5"/>
-    <polygon points="85,35 95,5 70,25" fill="url(#catFur)" stroke="#444" stroke-width="0.5"/>
-    <polygon points="37,33 29,10 48,25" fill="#ff6b9d" opacity="0.6"/>
-    <polygon points="83,33 91,10 72,25" fill="#ff6b9d" opacity="0.6"/>
-    
-    <!-- Cat Eyes -->
-    <g filter="url(#glow)">
-      <ellipse cx="47" cy="50" rx="6" ry="7" fill="#00ff41"/>
-      <ellipse cx="73" cy="50" rx="6" ry="7" fill="#00ff41"/>
-      <ellipse cx="47" cy="50" rx="3" ry="4" fill="#0d1117"/>
-      <ellipse cx="73" cy="50" rx="3" ry="4" fill="#0d1117"/>
-      <circle cx="49" cy="48" r="1.5" fill="#fff"/>
-      <circle cx="75" cy="48" r="1.5" fill="#fff"/>
+
+  <!-- Screen Content -->
+  <g clip-path="url(#monitorClip)">
+    <rect x="22" y="37" width="216" height="116" fill="url(#screenGrad)"/>
+    <g class="text-line" clip-path="url(#monitorClip)">
+      <text x="28" y="56" font-family="'SF Mono','Fira Code',monospace" font-size="9.5" fill="#00ff41" filter="url(#softGlow)">$ nmap -sV -sC target.com</text>
+      <text x="28" y="70" font-family="'SF Mono','Fira Code',monospace" font-size="9.5" fill="#8b949e">Starting Nmap 7.95</text>
+      <text x="28" y="84" font-family="'SF Mono','Fira Code',monospace" font-size="9.5" fill="#58a6ff">PORT     STATE SERVICE  VERSION</text>
+      <text x="28" y="98" font-family="'SF Mono','Fira Code',monospace" font-size="9.5" fill="#7ee787">22/tcp   open  ssh      OpenSSH 9.6</text>
+      <text x="28" y="112" font-family="'SF Mono','Fira Code',monospace" font-size="9.5" fill="#7ee787">80/tcp   open  http     nginx 1.25</text>
+      <text x="28" y="126" font-family="'SF Mono','Fira Code',monospace" font-size="9.5" fill="#f0883e">443/tcp  open  https    Apache 2.4</text>
+      <text x="28" y="140" font-family="'SF Mono','Fira Code',monospace" font-size="9.5" fill="#7ee787">3306/tcp open  mysql    MySQL 8.0</text>
+      <text x="28" y="154" font-family="'SF Mono','Fira Code',monospace" font-size="9.5" fill="#00ff41">$ <tspan class="cursor">█</tspan></text>
     </g>
-    
-    <!-- Cat Nose -->
-    <polygon points="60,58 57,62 63,62" fill="#ff6b9d"/>
-    
-    <!-- Cat Mouth -->
-    <path d="M54,65 Q57,70 60,65 Q63,70 66,65" fill="none" stroke="#444" stroke-width="1"/>
-    
-    <!-- Cat Whiskers -->
-    <line x1="30" y1="55" x2="10" y2="50" stroke="#666" stroke-width="0.5"/>
-    <line x1="30" y1="60" x2="10" y2="60" stroke="#666" stroke-width="0.5"/>
-    <line x1="30" y1="65" x2="10" y2="70" stroke="#666" stroke-width="0.5"/>
-    <line x1="90" y1="55" x2="110" y2="50" stroke="#666" stroke-width="0.5"/>
-    <line x1="90" y1="60" x2="110" y2="60" stroke="#666" stroke-width="0.5"/>
-    <line x1="90" y1="65" x2="110" y2="70" stroke="#666" stroke-width="0.5"/>
-    
-    <!-- Cat Paws (Bongo Style) -->
-    <g>
-      <!-- Left Paw -->
-      <ellipse cx="30" cy="130" rx="15" ry="10" fill="url(#catFur)" stroke="#444" stroke-width="0.5">
-        <animate attributeName="cy" values="130;125;130" dur="0.3s" repeatCount="indefinite"/>
-      </ellipse>
-      <!-- Left Paw Pads -->
-      <circle cx="25" cy="128" r="3" fill="#ff6b9d" opacity="0.7">
-        <animate attributeName="cy" values="128;123;128" dur="0.3s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="35" cy="128" r="3" fill="#ff6b9d" opacity="0.7">
-        <animate attributeName="cy" values="128;123;128" dur="0.3s" repeatCount="indefinite"/>
-      </circle>
-      
-      <!-- Right Paw -->
-      <ellipse cx="90" cy="130" rx="15" ry="10" fill="url(#catFur)" stroke="#444" stroke-width="0.5">
-        <animate attributeName="cy" values="130;125;130" dur="0.3s" begin="0.15s" repeatCount="indefinite"/>
-      </ellipse>
-      <!-- Right Paw Pads -->
-      <circle cx="85" cy="128" r="3" fill="#ff6b9d" opacity="0.7">
-        <animate attributeName="cy" values="128;123;128" dur="0.3s" begin="0.15s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="95" cy="128" r="3" fill="#ff6b9d" opacity="0.7">
-        <animate attributeName="cy" values="128;123;128" dur="0.3s" begin="0.15s" repeatCount="indefinite"/>
-      </circle>
-    </g>
-    
-    <!-- Cat Tail -->
-    <path d="M105,110 Q120,90 115,70 Q110,50 120,40" fill="none" stroke="url(#catFur)" stroke-width="8" stroke-linecap="round">
-      <animate attributeName="d" values="M105,110 Q120,90 115,70 Q110,50 120,40;M105,110 Q125,95 118,75 Q112,55 125,45;M105,110 Q120,90 115,70 Q110,50 120,40" dur="2s" repeatCount="indefinite"/>
-    </path>
   </g>
-  
+
+  <!-- Monitor Stand -->
+  <rect x="100" y="173" width="60" height="8" rx="2" fill="#1a1a2e" stroke="#30363d" stroke-width="1"/>
+  <rect x="85" y="179" width="90" height="5" rx="2" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+
   <!-- Keyboard -->
-  <rect x="255" y="140" width="120" height="25" rx="4" fill="#1a1a2e" stroke="#30363d" stroke-width="1"/>
-  <g fill="#2d2d3d">
-    <rect x="260" y="143" width="8" height="6" rx="1"/>
-    <rect x="270" y="143" width="8" height="6" rx="1"/>
-    <rect x="280" y="143" width="8" height="6" rx="1"/>
-    <rect x="290" y="143" width="8" height="6" rx="1"/>
-    <rect x="300" y="143" width="8" height="6" rx="1"/>
-    <rect x="310" y="143" width="8" height="6" rx="1"/>
-    <rect x="320" y="143" width="8" height="6" rx="1"/>
-    <rect x="330" y="143" width="8" height="6" rx="1"/>
-    <rect x="340" y="143" width="8" height="6" rx="1"/>
-    <rect x="350" y="143" width="8" height="6" rx="1"/>
-    <rect x="263" y="152" width="8" height="6" rx="1"/>
-    <rect x="273" y="152" width="8" height="6" rx="1"/>
-    <rect x="283" y="152" width="8" height="6" rx="1"/>
-    <rect x="293" y="152" width="8" height="6" rx="1"/>
-    <rect x="303" y="152" width="8" height="6" rx="1"/>
-    <rect x="313" y="152" width="8" height="6" rx="1"/>
-    <rect x="323" y="152" width="8" height="6" rx="1"/>
-    <rect x="333" y="152" width="8" height="6" rx="1"/>
-    <rect x="343" y="152" width="8" height="6" rx="1"/>
-    <rect x="280" y="160" width="50" height="5" rx="1"/>
+  <g transform="translate(260, 135)">
+    <rect x="0" y="0" width="120" height="40" rx="5" fill="#1a1a2e" stroke="#30363d" stroke-width="1"/>
+    <!-- Key rows -->
+    <g fill="#2d2d3d" stroke="#3a3a4a" stroke-width="0.3">
+      <rect x="5" y="4" width="9" height="7" rx="1.5" class="key-active"/>
+      <rect x="16" y="4" width="9" height="7" rx="1.5"/>
+      <rect x="27" y="4" width="9" height="7" rx="1.5" class="key-active" style="animation-delay:0.1s"/>
+      <rect x="38" y="4" width="9" height="7" rx="1.5"/>
+      <rect x="49" y="4" width="9" height="7" rx="1.5" class="key-active" style="animation-delay:0.2s"/>
+      <rect x="60" y="4" width="9" height="7" rx="1.5"/>
+      <rect x="71" y="4" width="9" height="7" rx="1.5" class="key-active" style="animation-delay:0.3s"/>
+      <rect x="82" y="4" width="9" height="7" rx="1.5"/>
+      <rect x="93" y="4" width="9" height="7" rx="1.5"/>
+      <rect x="104" y="4" width="9" height="7" rx="1.5"/>
+
+      <rect x="8" y="14" width="9" height="7" rx="1.5"/>
+      <rect x="19" y="14" width="9" height="7" rx="1.5" class="key-active" style="animation-delay:0.15s"/>
+      <rect x="30" y="14" width="9" height="7" rx="1.5"/>
+      <rect x="41" y="14" width="9" height="7" rx="1.5" class="key-active" style="animation-delay:0.25s"/>
+      <rect x="52" y="14" width="9" height="7" rx="1.5"/>
+      <rect x="63" y="14" width="9" height="7" rx="1.5"/>
+      <rect x="74" y="14" width="9" height="7" rx="1.5" class="key-active" style="animation-delay:0.35s"/>
+      <rect x="85" y="14" width="9" height="7" rx="1.5"/>
+      <rect x="96" y="14" width="9" height="7" rx="1.5"/>
+
+      <rect x="12" y="24" width="9" height="7" rx="1.5"/>
+      <rect x="23" y="24" width="9" height="7" rx="1.5"/>
+      <rect x="34" y="24" width="9" height="7" rx="1.5"/>
+      <rect x="45" y="24" width="40" height="7" rx="1.5"/>
+      <rect x="96" y="24" width="17" height="7" rx="1.5"/>
+    </g>
+    <!-- Keyboard glow -->
+    <rect x="0" y="0" width="120" height="40" rx="5" fill="none" stroke="#00ff41" stroke-width="0.5" opacity="0.2">
+      <animate attributeName="opacity" values="0.15;0.35;0.15" dur="2s" repeatCount="indefinite"/>
+    </rect>
   </g>
-  
-  <!-- Keyboard Glow -->
-  <rect x="255" y="140" width="120" height="25" rx="4" fill="none" stroke="#00ff41" stroke-width="0.5" opacity="0.3">
-    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="1.5s" repeatCount="indefinite"/>
-  </rect>
-  
-  <!-- Matrix Rain Effect -->
-  <g opacity="0.15">
-    <text x="25" y="45" font-family="monospace" font-size="8" fill="#00ff41">01001</text>
-    <text x="150" y="160" font-family="monospace" font-size="8" fill="#00ff41">10110</text>
-    <text x="200" y="50" font-family="monospace" font-size="8" fill="#00ff41">11010</text>
-    <text x="180" y="130" font-family="monospace" font-size="8" fill="#00ff41">00101</text>
+
+  <!-- Cat Body -->
+  <g class="body" filter="url(#shadow)">
+    <ellipse cx="60" cy="110" rx="42" ry="35" fill="url(#fur)" stroke="#444" stroke-width="0.5"/>
+    <!-- Belly patch -->
+    <ellipse cx="60" cy="115" rx="25" ry="20" fill="#333" opacity="0.5"/>
+  </g>
+
+  <!-- Cat Tail -->
+  <g class="tail">
+    <path d="M100,105 Q125,85 120,60 Q118,45 125,35" fill="none" stroke="url(#fur)" stroke-width="10" stroke-linecap="round"/>
+    <path d="M100,105 Q125,85 120,60 Q118,45 125,35" fill="none" stroke="#444" stroke-width="0.5" stroke-linecap="round"/>
+    <!-- Tail tip -->
+    <circle cx="125" cy="35" r="5" fill="#3a3a3a"/>
+  </g>
+
+  <!-- Cat Head Group -->
+  <g class="head-group">
+    <!-- Head -->
+    <circle cx="60" cy="55" r="32" fill="url(#fur)" stroke="#444" stroke-width="0.5"/>
+    <!-- Cheek fluff -->
+    <ellipse cx="38" cy="62" rx="8" ry="6" fill="#333" opacity="0.4"/>
+    <ellipse cx="82" cy="62" rx="8" ry="6" fill="#333" opacity="0.4"/>
+
+    <!-- Ears -->
+    <g class="ear-left">
+      <path d="M38,35 L22,5 L48,22 Z" fill="url(#fur)" stroke="#444" stroke-width="0.5"/>
+      <path d="M39,33 L26,10 L46,23 Z" fill="url(#innerEar)"/>
+    </g>
+    <g class="ear-right">
+      <path d="M82,35 L98,5 L72,22 Z" fill="url(#fur)" stroke="#444" stroke-width="0.5"/>
+      <path d="M81,33 L94,10 L74,23 Z" fill="url(#innerEar)"/>
+    </g>
+
+    <!-- Eyes -->
+    <g class="eye-group">
+      <!-- Left eye -->
+      <ellipse cx="47" cy="50" rx="7" ry="8" fill="#0d1117"/>
+      <ellipse cx="47" cy="50" rx="6" ry="7" fill="url(#eyeGlow)"/>
+      <ellipse cx="47" cy="50" rx="3" ry="3.5" fill="#0d1117"/>
+      <circle cx="49" cy="48" r="2" fill="#fff" opacity="0.9"/>
+      <circle cx="45" cy="52" r="1" fill="#fff" opacity="0.5"/>
+
+      <!-- Right eye -->
+      <ellipse cx="73" cy="50" rx="7" ry="8" fill="#0d1117"/>
+      <ellipse cx="73" cy="50" rx="6" ry="7" fill="url(#eyeGlow)"/>
+      <ellipse cx="73" cy="50" rx="3" ry="3.5" fill="#0d1117"/>
+      <circle cx="75" cy="48" r="2" fill="#fff" opacity="0.9"/>
+      <circle cx="71" cy="52" r="1" fill="#fff" opacity="0.5"/>
+    </g>
+
+    <!-- Nose -->
+    <path d="M57,58 Q60,55 63,58 Q60,61 57,58 Z" fill="#ff8fa3"/>
+
+    <!-- Mouth -->
+    <path d="M52,62 Q56,66 60,62" fill="none" stroke="#555" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M60,62 Q64,66 68,62" fill="none" stroke="#555" stroke-width="1.2" stroke-linecap="round"/>
+
+    <!-- Whiskers -->
+    <g stroke="#666" stroke-width="0.8" stroke-linecap="round" opacity="0.7">
+      <line x1="32" y1="56" x2="8" y2="52"/>
+      <line x1="32" y1="60" x2="6" y2="60"/>
+      <line x1="32" y1="64" x2="8" y2="68"/>
+      <line x1="88" y1="56" x2="112" y2="52"/>
+      <line x1="88" y1="60" x2="114" y2="60"/>
+      <line x1="88" y1="64" x2="112" y2="68"/>
+    </g>
+
+    <!-- Forehead stripes -->
+    <path d="M52,38 L55,30" stroke="#444" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+    <path d="M60,36 L60,28" stroke="#444" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+    <path d="M68,38 L65,30" stroke="#444" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  </g>
+
+  <!-- Front Paws -->
+  <g>
+    <!-- Left paw -->
+    <g class="paw-left">
+      <ellipse cx="30" cy="132" rx="14" ry="9" fill="url(#fur)" stroke="#444" stroke-width="0.5"/>
+      <!-- Paw pads -->
+      <ellipse cx="24" cy="130" rx="3" ry="2.5" fill="#ff8fa3" opacity="0.6"/>
+      <ellipse cx="30" cy="128" rx="3" ry="2.5" fill="#ff8fa3" opacity="0.6"/>
+      <ellipse cx="36" cy="130" rx="3" ry="2.5" fill="#ff8fa3" opacity="0.6"/>
+      <ellipse cx="30" cy="134" rx="4" ry="3" fill="#ff8fa3" opacity="0.5"/>
+    </g>
+
+    <!-- Right paw -->
+    <g class="paw-right">
+      <ellipse cx="90" cy="132" rx="14" ry="9" fill="url(#fur)" stroke="#444" stroke-width="0.5"/>
+      <!-- Paw pads -->
+      <ellipse cx="84" cy="130" rx="3" ry="2.5" fill="#ff8fa3" opacity="0.6"/>
+      <ellipse cx="90" cy="128" rx="3" ry="2.5" fill="#ff8fa3" opacity="0.6"/>
+      <ellipse cx="96" cy="130" rx="3" ry="2.5" fill="#ff8fa3" opacity="0.6"/>
+      <ellipse cx="90" cy="134" rx="4" ry="3" fill="#ff8fa3" opacity="0.5"/>
+    </g>
+  </g>
+
+  <!-- Matrix rain decoration -->
+  <g opacity="0.08" font-family="monospace" font-size="7" fill="#00ff41">
+    <text x="25" y="180">01101001</text>
+    <text x="120" y="195">10110110</text>
+    <text x="340" y="50">11010011</text>
+    <text x="350" y="180">01100101</text>
   </g>
 </svg>
