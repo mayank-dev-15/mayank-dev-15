@@ -70,16 +70,6 @@
 
 ---
 
-### 🐱 Snack Break
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mayank-dev-15/mayank-dev-15/main/assets/cat-chips.svg" alt="Cat eating chips through broken screen" width="480" />
-
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 <table>
