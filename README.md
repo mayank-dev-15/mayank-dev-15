@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DuyetBKU/viz-pacman-github-profile/main/dist/pacman-contribution-graph-dark.svg" alt="Pac-Man Contributions" width="100%" />
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=mayank-dev-15&animation=snake&theme=tokyonight&shape=square&hide_rank=true&hide_total=true&hide_streaks=true&border_width=0" alt="Contributions" width="100%" />
 
 </div>
 
