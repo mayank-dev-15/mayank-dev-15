@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayank-dev-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=mayank-dev-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-dev-15&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%">
 
 <br>
@@ -40,7 +40,9 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mayank-dev-15&theme=tokyonight&no-frame=true&column=7" width="80%">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayank-dev-15&theme=tokyonight&no-frame=true&column=7" width="80%">
+</a>
 
 </div>
 
