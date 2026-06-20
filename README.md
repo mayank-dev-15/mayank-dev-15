@@ -9,6 +9,14 @@
 
 ---
 
+### ⌨️ Terminal Vibes
+
+<div align="center">
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=mayank-dev-15&animation=matrix&theme=dracula&shape=square&hide_rank=true&hide_total=true&hide_streaks=true&border_width=0" alt="Matrix Rain" />
+
+</div>
+
 > ### 🧠 No AI. No Shortcuts. No Excuses.
 >
 > Every line of code in my repositories is written by hand. No GitHub Copilot. No ChatGPT. No AI code generators.
@@ -62,6 +70,26 @@
 </td>
 </tr>
 </table>
+
+---
+
+### 🎮 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DuyetBKU/viz-pacman-github-profile/main/dist/pacman-contribution-graph-dark.svg" alt="Pac-Man Contributions" width="100%" />
+
+</div>
+
+---
+
+### 🐱 Terminal Companion
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mayank-dev-15/mayank-dev-15/main/assets/hacker-cat.svg" alt="Hacker Cat" width="400" />
+
+</div>
 
 ---
 
