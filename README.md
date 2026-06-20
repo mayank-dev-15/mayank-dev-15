@@ -30,7 +30,7 @@
 | Metric | Value |
 |--------|-------|
 | 📦 Public Repos | 191 |
-| ⭐ Total Stars | 324 |
+| ⭐ Total Stars | 171 |
 | 🔀 Forks | 0 |
 | ❗ Open Issues | 61 |
 | 💻 Languages | 11 |
