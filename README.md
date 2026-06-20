@@ -27,24 +27,37 @@
 
 ---
 
-<div align="center">
-
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayank-dev-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-dev-15&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%">
+<table>
+<tr>
+<td width="50%">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=mayank-dev-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-dev-15&theme=tokyonight&hide_border=true" width="60%">
+</td>
+<td width="50%">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-dev-15&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayank-dev-15&theme=tokyonight&no-frame=true&column=7" width="80%">
-</a>
+</td>
+</tr>
+</table>
 
-</div>
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-dev-15&theme=tokyonight&hide_border=true&bg_color=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9">
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mayank-dev-15&theme=tokyonight&no-frame=true&column=7&bg_color=0d1117">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,75 +65,83 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### 🔒 [GoForge](https://github.com/mayank-dev-15/goforge)
-> ⭐ 3 · Go
->
-> Real-Time Log Analytics Engine — pattern detection, anomaly alerting, live dashboard
-
+<td align="center" width="48%">
+<a href="https://github.com/mayank-dev-15/goforge">
+<b>GoForge</b>
+</a>
+<br>
+<sub>Go · ⭐ 3</sub>
+<br>
+Real-Time Log Analytics Engine — pattern detection, anomaly alerting
 </td>
-<td width="50%" valign="top">
-
-#### 🔒 [VulnScope](https://github.com/mayank-dev-15/vulnscope)
-> ⭐ 2 · Python, FastAPI, React
->
-> Automated Vulnerability Intelligence Platform — CVE tracking, exploit correlation, risk scoring
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🛡️ [ShadowSentinel v2](https://github.com/mayank-dev-15/ShadowSentinel-v2)
-> ⭐ 2 · Python, PyTorch, Scapy
->
-> ML-Powered Network Intrusion Detection System — LSTM autoencoder anomaly detection
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 [AI Pentest Agent](https://github.com/mayank-dev-15/AI-Pentest-Agent)
-> ⭐ 2 · Python, asyncio
->
-> Autonomous AI penetration testing agent — scanning, reconnaissance, exploitation modules
-
+<td align="center" width="48%">
+<a href="https://github.com/mayank-dev-15/vulnscope">
+<b>VulnScope</b>
+</a>
+<br>
+<sub>Python, FastAPI · ⭐ 2</sub>
+<br>
+Vulnerability Intelligence Platform — CVE tracking, exploit correlation
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 🧠 [Neural Network Playground](https://github.com/mayank-dev-15/Neural-Network-Playground)
-> ⭐ 2 · Python, PyTorch
->
-> Visual deep learning framework — drag-and-drop network builder, real-time training visualization
-
+<td align="center" width="48%">
+<a href="https://github.com/mayank-dev-15/ShadowSentinel-v2">
+<b>ShadowSentinel v2</b>
+</a>
+<br>
+<sub>Python, PyTorch · ⭐ 2</sub>
+<br>
+ML-Powered NIDS — LSTM autoencoder anomaly detection
 </td>
-<td width="50%" valign="top">
-
-#### 🔧 [GitViz](https://github.com/mayank-dev-15/gitviz)
-> Go, JS · [gitviz.dev](https://github.com/mayank-dev-15/gitviz)
->
-> Real-time GitHub repository analytics dashboard — animated badges, interactive charts, cloud hosting
-
+<td align="center" width="48%">
+<a href="https://github.com/mayank-dev-15/AI-Pentest-Agent">
+<b>AI Pentest Agent</b>
+</a>
+<br>
+<sub>Python · ⭐ 2</sub>
+<br>
+Autonomous AI penetration testing — scanning, recon, exploitation
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 🦀 [Ferrothorn](https://github.com/mayank-dev-15/ferrothorn)
-> ⭐ 2 · Rust, Tokio
->
-> Blazing-fast async port scanner with service fingerprinting
-
+<td align="center" width="48%">
+<a href="https://github.com/mayank-dev-15/Neural-Network-Playground">
+<b>Neural Network Playground</b>
+</a>
+<br>
+<sub>Python, PyTorch · ⭐ 2</sub>
+<br>
+Visual deep learning — drag-and-drop builder, real-time training
 </td>
-<td width="50%" valign="top">
-
-#### 🌌 [Particle Universe](https://github.com/mayank-dev-15/particle-universe)
-> ⭐ 2 · HTML, Canvas
->
-> Interactive particle physics simulator — realistic physics, collisions, gravitational lensing
-
+<td align="center" width="48%">
+<a href="https://github.com/mayank-dev-15/gitviz">
+<b>GitViz</b>
+</a>
+<br>
+<sub>Go, JS</sub>
+<br>
+GitHub analytics dashboard — animated badges, interactive charts
+</td>
+</tr>
+<tr>
+<td align="center" width="48%">
+<a href="https://github.com/mayank-dev-15/ferrothorn">
+<b>Ferrothorn</b>
+</a>
+<br>
+<sub>Rust · ⭐ 2</sub>
+<br>
+Blazing-fast async port scanner with service fingerprinting
+</td>
+<td align="center" width="48%">
+<a href="https://github.com/mayank-dev-15/particle-universe">
+<b>Particle Universe</b>
+</a>
+<br>
+<sub>HTML, Canvas · ⭐ 2</sub>
+<br>
+Interactive particle physics — collisions, gravitational lensing
 </td>
 </tr>
 </table>
