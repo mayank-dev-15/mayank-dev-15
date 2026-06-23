@@ -56,9 +56,40 @@
 
 <div align="center">
 
-<img src="https://gh-contribution-graph.vercel.app/api?username=mayank-dev-15&theme=tokyonight&bg_color=0d1117&grid_opacity=0.3" alt="Contributions" width="100%" />
+<img src="https://ghchart.rshah.org/mayank-dev-15" alt="Contributions" width="100%" />
 
 </div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**1,083**
+Total Contributions
+
+</td>
+<td align="center" width="25%">
+
+**76%**
+Commits
+
+</td>
+<td align="center" width="25%">
+
+**12%**
+Pull Requests
+
+</td>
+<td align="center" width="25%">
+
+**9%**
+Issues
+
+</td>
+</tr>
+</table>
+
+Contributed to **209+ repositories** including [mayank-dev-15/mayank-dev-15](https://github.com/mayank-dev-15/mayank-dev-15), [mayank-dev-15/mayank-portfolio](https://github.com/mayank-dev-15/mayank-portfolio), [devanshi14malhotra/BiblioDrift](https://github.com/devanshi14malhotra/BiblioDrift)
 
 ---
 
