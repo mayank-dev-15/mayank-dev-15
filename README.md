@@ -195,6 +195,18 @@ Automated Vulnerability Intelligence — CVE tracking, exploit correlation, risk
 </tr>
 </table>
 
+### 🎓 Learning Platforms
+
+| Platform | Achievement |
+|----------|------------|
+| **Hack The Box** | Completed all available courses |
+| **OUTSKILL** | Attended multiple live classes |
+| **India Genius Challenge** | Ranked 1st among 14 year olds (226/62,785) |
+
+### 💡 Impact
+
+> Inspiring friends to start coding and building their own projects. Peers look up to my work as proof that age doesn't limit what you can create.
+
 ---
 
 ### 🌐 Portfolio
