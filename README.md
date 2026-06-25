@@ -166,6 +166,37 @@ Automated Vulnerability Intelligence — CVE tracking, exploit correlation, risk
 
 ---
 
+### 🏆 Competition Rankings
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🇮🇳 India Genius Challenge**
+
+| Metric | Rank |
+|--------|------|
+| Overall (14yo) | **🥇 1st** |
+| Accuracy (14yo) | **9th** |
+| Streak (Nagpur) | **7th** |
+| Speed (14yo) | **Top 31%** |
+
+**226 / 62,785** overall · 86 challenges · 2,047 GP
+
+</td>
+<td align="center" width="50%">
+
+![IGC Rank](https://img.shields.io/badge/IGC_Rank-226%2F62785-6C63FF?style=for-the-badge)
+![Challenges](https://img.shields.io/badge/Challenges-86-EC4899?style=for-the-badge)
+![Genius_Points](https://img.shields.io/badge/Genius_Points-2047-F59E0B?style=for-the-badge)
+![1st_place](https://img.shields.io/badge/🥇_1st_among_14yo-6C63FF?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🌐 Portfolio
 
 <a href="https://mayank-dev-15.github.io/portfolio">
