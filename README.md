@@ -205,7 +205,7 @@ Automated Vulnerability Intelligence — CVE tracking, exploit correlation, risk
 
 ### 💡 Impact
 
-> Inspiring friends to start coding and building their own projects. Peers look up to my work as proof that age doesn't limit what you can create.
+> Inspiring people of all ages — college students, professors, school teachers, and peers — to push their limits. Many have realized that even after pushing their limits 100 times, they can't reach the base of my knowledge.
 
 ---
 
