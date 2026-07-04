@@ -214,8 +214,8 @@ Automated Vulnerability Intelligence — CVE tracking, exploit correlation, risk
 
 ### 🌐 Portfolio
 
-<a href="https://mayank-dev-15.github.io/portfolio">
-<b>mayank-dev-15.github.io/portfolio</b>
+<a href="https://mayank-dev-15.onrender.com">
+<b>[mayank-dev-15.onrender.com]</b>
 </a>
 
 Full-stack personal portfolio with interactive 3D character (Three.js + Codrops Stacy), AI chat with 12-provider auto-fallback, 14 courses (148+ lessons), terminal with 70+ browser control tools, animated preloaders, custom spring-physics cursor, dark/light theme, and AdSense monetization. Built with vanilla JS, Go backend, deployed on Render.
