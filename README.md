@@ -1,9 +1,9 @@
 <!-- profile README -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mayank+Basena;Security+Researcher+%F0%9F%94%92;Custom+OS+Builder+%F0%9F%92%BB;AI+Generalist+%F0%9F%A4%96;GSoC+2027+Aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mayank+Basena;Security+Researcher+%F0%9F%94%92;Custom+OS+Builder+%F0%9F%92%BB;AI+Generalist+%F0%9F%A4%96;100%2B+Technologies+%F0%9F%9A%80;GSoC+2027+Aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
 
-🔒 15yo · Security Researcher · Custom OS Builder · AI Generalist · 📍 Nagpur, India
+🔒 15yo · Security Researcher · Custom OS Builder · AI Generalist · 100+ Tech Stack · 📍 Nagpur, India
 
 </div>
 
@@ -43,12 +43,15 @@
 
 ### 🎯 What I Do
 
-- 🛡️ **Security & Infrastructure** — Vulnerability intelligence platforms, network intrusion detection, port scanners, CVE tracking
-- 🎨 **Interactive Visualizations** — Physics simulations, fractals, neural network builders, cyberpunk terminals — vanilla JS at 60 FPS
-- 🌐 **Full-Stack Development** — React, TypeScript, FastAPI, Flask — with admin panels and real-time dashboards
-- 🐧 **Systems Programming** — Custom Linux distros, compilers, kernel interfaces, RTOS, hypervisors
-- 🤖 **AI/ML** — Anomaly detection, risk scoring, neural network visualization, LLM jailbreak research
-- 🔧 **Hardware & Embedded** — Arduino, SBCs, firmware flashing, circuit design, IoT protocols
+- 🛡️ **Security & Infrastructure** — Pen testing, vulnerability research, malware analysis, reverse engineering, exploit dev, forensics, OSINT, red teaming, bug bounty
+- 🎨 **Interactive Visualizations** — Physics simulations, fractals, neural network builders, cyberpunk terminals, 3D web graphics — vanilla JS at 60 FPS
+- 🌐 **Full-Stack Development** — React, Next.js, Svelte, Vue, FastAPI, Flask, Django, Node.js, Rails, Laravel — with admin panels and real-time dashboards
+- 🐧 **Systems Programming** — Custom Linux distros, compilers, kernel interfaces, RTOS, hypervisors, bootloaders, device drivers
+- 🤖 **AI/ML** — PyTorch, TensorFlow, LLM research, RAG, fine-tuning, anomaly detection, computer vision, NLP, reinforcement learning
+- 🔧 **Hardware & Embedded** — Arduino, Raspberry Pi, ESP32, STM32, FPGA, firmware, IoT, LoRa, BLE, PCB design
+- ☁️ **Cloud & DevOps** — AWS, GCP, Azure, Docker, Kubernetes, Terraform, CI/CD, Prometheus, Grafana
+- ⛓️ **Blockchain & Web3** — Solidity smart contracts, DeFi, Hardhat, Web3.js, ZK proofs, contract auditing
+- 🎮 **Game Dev** — Unity, Godot, Three.js, OpenGL, procedural generation, physics engines
 
 ---
 
@@ -240,7 +243,7 @@ Full-stack personal portfolio with interactive 3D character (Three.js + Codrops 
 
 <div align="center">
 
-### 🗣️ 70+ Languages & Technologies
+### 🗣️ 100+ Languages & Technologies
 
 #### Systems & Low-Level
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -256,6 +259,14 @@ Full-stack personal portfolio with interactive 3D character (Three.js + Codrops 
 ![VHDL](https://img.shields.io/badge/-VHDL-FF8800?style=flat-square)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![LLVM](https://img.shields.io/badge/-LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
+![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat-square)
+![Pascal](https://img.shields.io/badge/-Pascal-E3F171?style=flat-square)
+![Ada](https://img.shields.io/badge/-Ada-02F884?style=flat-square)
+![COBOL](https://img.shields.io/badge/-COBOL-003366?style=flat-square)
+![V](https://img.shields.io/badge/-V-4F87C6?style=flat-square)
+![Odin](https://img.shields.io/badge/-Odin-60D0EF?style=flat-square)
+![Gleam](https://img.shields.io/badge/-Gleam-FFAFF3?style=flat-square)
+![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat-square)
 
 #### Web Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -272,6 +283,12 @@ Full-stack personal portfolio with interactive 3D character (Three.js + Codrops 
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+![htmx](https://img.shields.io/badge/-htmx-3C6EAF?style=flat-square)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square)
+![Preact](https://img.shields.io/badge/-Preact-673AB8?style=flat-square&logo=preact&logoColor=white)
+![Solid.js](https://img.shields.io/badge/-Solid.js-2C4F7C?style=flat-square)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 #### Backend & API
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -286,6 +303,11 @@ Full-stack personal portfolio with interactive 3D character (Three.js + Codrops 
 ![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=flat-square)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square)
 ![REST](https://img.shields.io/badge/-REST-02569B?style=flat-square)
+![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Phoenix](https://img.shields.io/badge/-Phoenix-F35826?style=flat-square)
+![Actix](https://img.shields.io/badge/-Actix-000000?style=flat-square)
+![Axum](https://img.shields.io/badge/-Axum-FF6B35?style=flat-square)
 
 #### Scripting & Shell
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -297,6 +319,10 @@ Full-stack personal portfolio with interactive 3D character (Three.js + Codrops 
 ![Awk](https://img.shields.io/badge/-Awk-525252?style=flat-square)
 ![Makefile](https://img.shields.io/badge/-Makefile-003366?style=flat-square)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Fish](https://img.shields.io/badge/-Fish-008866?style=flat-square)
+![Zsh](https://img.shields.io/badge/-Zsh-141E24?style=flat-square)
+![Nushell](https://img.shields.io/badge/-Nushell-4E9A06?style=flat-square)
+![Expect](https://img.shields.io/badge/-Expect-4EAA25?style=flat-square)
 
 #### JVM & .NET Ecosystem
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -322,6 +348,12 @@ Full-stack personal portfolio with interactive 3D character (Three.js + Codrops 
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square)
+![CouchDB](https://img.shields.io/badge/-CouchDB-E4292D?style=flat-square&logo=couchdb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 
 #### AI/ML & Data Science
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -334,6 +366,12 @@ Full-stack personal portfolio with interactive 3D character (Three.js + Codrops 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square)
+![Spacy](https://img.shields.io/badge/-Spacy-09A3D5?style=flat-square)
 
 #### Functional & Logic
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
@@ -356,12 +394,34 @@ Full-stack personal portfolio with interactive 3D character (Three.js + Codrops 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/-Vulkan-A41E22?style=flat-square&logo=vulkan&logoColor=white)
 ![GLSL](https://img.shields.io/badge/-GLSL-FF6600?style=flat-square)
+![LoRa](https://img.shields.io/badge/-LoRa-00B4D8?style=flat-square)
+![Zigbee](https://img.shields.io/badge/-Zigbee-52C41A?style=flat-square)
+![BLE](https://img.shields.io/badge/-BLE-0082FC?style=flat-square)
+![Logic Analyzer](https://img.shields.io/badge/-Logic_Analyzer-666666?style=flat-square)
+![PCB Design](https://img.shields.io/badge/-PCB_Design-2ECC71?style=flat-square)
 
 #### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Vyper](https://img.shields.io/badge/-Vyper-306B8E?style=flat-square)
 ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/-Hardhat-FFF04D?style=flat-square&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-203547?style=flat-square)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square)
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
+
+#### Cloud & Platform
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F48120?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 #### Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -372,6 +432,22 @@ Full-stack personal portfolio with interactive 3D character (Three.js + Codrops 
 ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 ![TOML](https://img.shields.io/badge/-TOML-9C4121?style=flat-square)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Vagrant](https://img.shields.io/badge/-Vagrant-1868FF?style=flat-square&logo=vagrant&logoColor=white)
+![Packer](https://img.shields.io/badge/-Packer-000000?style=flat-square&logo=packer&logoColor=white)
+![Consul](https://img.shields.io/badge/-Consul-F2495C?style=flat-square)
+![Vault](https://img.shields.io/badge/-Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
+
+#### Game Dev
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0077F1?style=flat-square&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Raylib](https://img.shields.io/badge/-Raylib-A42B22?style=flat-square)
 
 #### Markup & Document
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
