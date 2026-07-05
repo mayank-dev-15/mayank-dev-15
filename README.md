@@ -458,4 +458,15 @@ Full-stack personal portfolio with interactive 3D character (Three.js + Codrops 
 
 **🐧 Linux Enthusiast** | **🔒 Building in Public** | **🎓 Future GSoC'er** | **🚀 Always Learning** | **🔧 Hardware Hacker**
 
+---
+
+<div align="center">
+
+### 💰 Support My Work
+
+If any of my tools, projects, or security research has helped you — consider buying me a coffee. It keeps me building.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mayankbasena)
+[![GitHub Sponsors](https://img.shields.io/badge/-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mayank-dev-15)
+
 </div>
